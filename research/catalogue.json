@@ -1,0 +1,3691 @@
+{
+  "method": "Manual approximate placement using individual historical addresses in the pre-fire catalogue. Markers are not measured footprints. Lifespan metadata is a report from the linked source, not an independently established fire outcome.",
+  "buildings": [
+    {
+      "id": "catalogue-161",
+      "name": "112-126 Lake Street",
+      "short": "112-126 Lake Street",
+      "category": "Historical building · approximate location",
+      "point": [
+        717,
+        805
+      ],
+      "location": "112-126 Lake Street Between Dearborn and Clark Streets,  15 and 17 Clark",
+      "source": "https://chicagology.com/prefire/prefire161/",
+      "reportedSpan": "1852-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-119",
+      "name": "128-130 Lake Street",
+      "short": "128-130 Lake Street",
+      "category": "Historical building · approximate location",
+      "point": [
+        710,
+        780
+      ],
+      "location": "130 Lake, and 18, 20 and 22  Clark",
+      "source": "https://chicagology.com/prefire/prefire119/",
+      "reportedSpan": "1855/1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-475",
+      "name": "15 to 21 Randolph Street",
+      "short": "15 to 21 Randolph Street",
+      "category": "Historical building · approximate location",
+      "point": [
+        924,
+        859
+      ],
+      "location": "15 to 21 Randolph Street",
+      "source": "https://chicagology.com/prefire/prefire475/",
+      "reportedSpan": "1865-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-467",
+      "name": "164 Clark Street",
+      "short": "164 Clark Street",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        990
+      ],
+      "location": "164 Clark",
+      "source": "https://chicagology.com/prefire/prefire467/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-250",
+      "name": "72-76 Lake Street",
+      "short": "72-76 Lake Street",
+      "category": "Historical building · approximate location",
+      "point": [
+        768,
+        780
+      ],
+      "location": "72-76 Lake Street, between State and Dearborn",
+      "source": "https://chicagology.com/prefire/prefire250/",
+      "reportedSpan": "1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-321",
+      "name": "96-102 Lake Street",
+      "short": "96-102 Lake Street",
+      "category": "Historical building · approximate location",
+      "point": [
+        724,
+        776
+      ],
+      "location": "96-102 Lake Street, NW corner Lake and Dearborn",
+      "source": "https://chicagology.com/prefire/prefire321/",
+      "reportedSpan": "~1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-195",
+      "name": "A. H. Andrews I",
+      "short": "A. H. Andrews I",
+      "category": "Historical building · approximate location",
+      "point": [
+        815,
+        920
+      ],
+      "location": "111 State street",
+      "source": "https://chicagology.com/prefire/prefire195/",
+      "reportedSpan": "1869-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-077",
+      "name": "Academy of Design",
+      "short": "Academy of Design",
+      "category": "Historical building · approximate location",
+      "point": [
+        772,
+        1083
+      ],
+      "location": "66 and 68 Adams, Adams Street near State Street",
+      "source": "https://chicagology.com/prefire/prefire077/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-025",
+      "name": "Adams House I",
+      "short": "Adams House I",
+      "category": "Historical building · approximate location",
+      "point": [
+        968,
+        775
+      ],
+      "location": "2 Lake Street, NE Corner Michigan and Lake Streets",
+      "source": "https://chicagology.com/prefire/prefire025/",
+      "reportedSpan": "1858-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-473",
+      "name": "Aetna Building",
+      "short": "Aetna Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        875
+      ],
+      "location": "84-86 La Salle street, bet. Randolph and Washington streets",
+      "source": "https://chicagology.com/prefire/prefire473/",
+      "reportedSpan": "1865-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-035",
+      "name": "Andrews’  Building I",
+      "short": "Andrews’  Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        660,
+        978
+      ],
+      "location": "145-147 La Salle street, near Madison",
+      "source": "https://chicagology.com/prefire/prefire035/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-007",
+      "name": "Arcade Building",
+      "short": "Arcade Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        982
+      ],
+      "location": "158-160 S. Clark, West side Clark bet. Madison and  Monroe.",
+      "source": "https://chicagology.com/prefire/prefire007/",
+      "reportedSpan": "1869-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-206",
+      "name": "Arlington Hall",
+      "short": "Arlington Hall",
+      "category": "Historical building · approximate location",
+      "point": [
+        717,
+        914
+      ],
+      "location": "124 Washington, between Clark and LaSalle streets",
+      "source": "https://chicagology.com/prefire/prefire206/",
+      "reportedSpan": "1867-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-144",
+      "name": "Armory & Police Court",
+      "short": "Armory & Police Court",
+      "category": "Historical building · approximate location",
+      "point": [
+        533,
+        1086
+      ],
+      "location": "SW Corner Adams and Franklin Streets",
+      "source": "https://chicagology.com/prefire/prefire144/",
+      "reportedSpan": "1856-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-107",
+      "name": "Armour Building I",
+      "short": "Armour Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        970,
+        825
+      ],
+      "location": "98-104 Michigan avenue, NE corner of Randolph.",
+      "source": "https://chicagology.com/prefire/prefire107/",
+      "reportedSpan": "1867-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-398",
+      "name": "B. F. Chase Company",
+      "short": "B. F. Chase Company",
+      "category": "Historical building · approximate location",
+      "point": [
+        755,
+        857
+      ],
+      "location": "South side of Randolph Street, 50 feet east of Dearborn",
+      "source": "https://chicagology.com/prefire/prefire398/",
+      "reportedSpan": "1858-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-158",
+      "name": "B. F. Tobin Jewelry Store",
+      "short": "B. F. Tobin Jewelry Store",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        944
+      ],
+      "location": "NE cor. Clark and Madison",
+      "source": "https://chicagology.com/prefire/prefire158/",
+      "reportedSpan": "~1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-188",
+      "name": "Barnes House",
+      "short": "Barnes House",
+      "category": "Historical building · approximate location",
+      "point": [
+        418,
+        861
+      ],
+      "location": "Southwest Corner Randolph and Canal Streets",
+      "source": "https://chicagology.com/prefire/prefire188/",
+      "reportedSpan": "1867-1908",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-294",
+      "name": "Bennett Pieters & Co.",
+      "short": "Bennett Pieters & Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        968,
+        813
+      ],
+      "location": "31 and 33 Michigan av.",
+      "source": "https://chicagology.com/prefire/prefire294/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-131",
+      "name": "Bigelow House",
+      "short": "Bigelow House",
+      "category": "Historical building · approximate location",
+      "point": [
+        723,
+        1087
+      ],
+      "location": "SW corner of Adams and Dearborn streets",
+      "source": "https://chicagology.com/prefire/prefire131/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-319",
+      "name": "Bliss, Moore & Co.",
+      "short": "Bliss, Moore & Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        968,
+        814
+      ],
+      "location": "46 and 48 Michigan av",
+      "source": "https://chicagology.com/prefire/prefire319/",
+      "reportedSpan": "~1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-285",
+      "name": "Board of Trade",
+      "short": "Board of Trade",
+      "category": "Historical building · approximate location",
+      "point": [
+        616,
+        761
+      ],
+      "location": "South Water Street near Wells",
+      "source": "https://chicagology.com/prefire/prefire285/",
+      "reportedSpan": "1859-",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-105",
+      "name": "Boone Block I",
+      "short": "Boone Block I",
+      "category": "Historical building · approximate location",
+      "point": [
+        659,
+        930
+      ],
+      "location": "East side of LaSalle street, between Washington and Madison",
+      "source": "https://chicagology.com/prefire/prefire105/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-213",
+      "name": "Bowen Block",
+      "short": "Bowen Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        874,
+        859
+      ],
+      "location": "SE corner Wabash and Randolph",
+      "source": "https://chicagology.com/prefire/prefire213/",
+      "reportedSpan": "1869-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-202",
+      "name": "Bowen, Whitman & Winslow Building",
+      "short": "Bowen, Whitman & Winslow Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        813,
+        972
+      ],
+      "location": "129-137 State street, Southeast corner State and Madison",
+      "source": "https://chicagology.com/prefire/prefire202/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-346",
+      "name": "Boyce Block",
+      "short": "Boyce Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        813,
+        943
+      ],
+      "location": "Northeast Corner State and Madison",
+      "source": "https://chicagology.com/prefire/prefire346/",
+      "reportedSpan": "1871-1871 (Not completed",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-342",
+      "name": "Bradner Smith Co",
+      "short": "Bradner Smith Co",
+      "category": "Historical building · approximate location",
+      "point": [
+        720,
+        764
+      ],
+      "location": "133 S. Water, between Dearborn and Clark",
+      "source": "https://chicagology.com/prefire/prefire342/",
+      "reportedSpan": "1853-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-162",
+      "name": "Brunswick Billiard Tables & Factories",
+      "short": "Brunswick Billiard Tables & Factories",
+      "category": "Historical building · approximate location",
+      "point": [
+        718,
+        775
+      ],
+      "location": "Lake Street Between Dearborn and Clark Streets",
+      "source": "https://chicagology.com/prefire/prefire162/",
+      "reportedSpan": "1858-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-138",
+      "name": "Bryan Hall",
+      "short": "Bryan Hall",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        867
+      ],
+      "location": "89 Clark Street, across from the Court House",
+      "source": "https://chicagology.com/prefire/prefire138/",
+      "reportedSpan": "1860-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-313",
+      "name": "Buck & Rayner Building I",
+      "short": "Buck & Rayner Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        783,
+        972
+      ],
+      "location": "Southwest corner of Madison and State streets",
+      "source": "https://chicagology.com/prefire/prefire313/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-222",
+      "name": "Burch Block II",
+      "short": "Burch Block II",
+      "category": "Historical building · approximate location",
+      "point": [
+        843,
+        805
+      ],
+      "location": "SW corner Lake Street and Wabash Avenue",
+      "source": "https://chicagology.com/prefire/prefire222/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-232",
+      "name": "Burke’s European Hotel",
+      "short": "Burke’s European Hotel",
+      "category": "Historical building · approximate location",
+      "point": [
+        670,
+        941
+      ],
+      "location": "Madison Street, between Clark and LaSalle streets",
+      "source": "https://chicagology.com/prefire/prefire232/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-311",
+      "name": "Calhoun’s Block",
+      "short": "Calhoun’s Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        929
+      ],
+      "location": "East side of Clark, bet. Washington and Madison.",
+      "source": "https://chicagology.com/prefire/prefire311/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-089",
+      "name": "Central Block",
+      "short": "Central Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        516,
+        886
+      ],
+      "location": "NE corner of Market and Washington",
+      "source": "https://chicagology.com/pre-fire-chicago/prefire03/prefire089/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-332",
+      "name": "Central House",
+      "short": "Central House",
+      "category": "Historical building · approximate location",
+      "point": [
+        622,
+        857
+      ],
+      "location": "182 Randolph",
+      "source": "https://chicagology.com/prefire/prefire332/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-211",
+      "name": "Charies Shober, Lithographer",
+      "short": "Charies Shober, Lithographer",
+      "category": "Historical building · approximate location",
+      "point": [
+        714,
+        804
+      ],
+      "location": "Lake Street, Between Clark and Dearborn (109 Lake Street)",
+      "source": "https://chicagology.com/prefire/prefire211/",
+      "reportedSpan": "~1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-032",
+      "name": "Charles D. Mosher",
+      "short": "Charles D. Mosher",
+      "category": "Historical building · approximate location",
+      "point": [
+        831,
+        889
+      ],
+      "location": "30 Washington Street, West of Wabash on Washington Street, next to Mr. Brand’s Temple of Art at 28 Washington Street, and John Carbutt’s Studio at 34 Washington Street.",
+      "source": "https://chicagology.com/prefire/prefire032/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-293",
+      "name": "Chicago Gas Light and Coke Co.",
+      "short": "Chicago Gas Light and Coke Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        522,
+        1015
+      ],
+      "location": "Corner Monroe and Market streets",
+      "source": "https://chicagology.com/prefire/prefire293/",
+      "reportedSpan": "1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-017",
+      "name": "Chicago High School",
+      "short": "Chicago High School",
+      "category": "Historical building · approximate location",
+      "point": [
+        -91,
+        1035
+      ],
+      "location": "Monroe Street near Halsted",
+      "source": "https://chicagology.com/prefire/prefire017/",
+      "reportedSpan": "1856-1950",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-396",
+      "name": "Chicago Real Estate Journal Building",
+      "short": "Chicago Real Estate Journal Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        752,
+        943
+      ],
+      "location": "129 Dearborn",
+      "source": "https://chicagology.com/prefire/prefire396/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-091",
+      "name": "Chicago Republican",
+      "short": "Chicago Republican",
+      "category": "Historical building · approximate location",
+      "point": [
+        717,
+        915
+      ],
+      "location": "93 Washington, between Dearborn and Clark streets",
+      "source": "https://chicagology.com/pre-fire-chicago/prefire091/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-229",
+      "name": "Chicago Steam Sugar Refinery",
+      "short": "Chicago Steam Sugar Refinery",
+      "category": "Historical building · approximate location",
+      "point": [
+        983,
+        657
+      ],
+      "location": "N. Water, East of Rush Street Bridge",
+      "source": "https://chicagology.com/prefire/prefire229/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-192",
+      "name": "City Hotel",
+      "short": "City Hotel",
+      "category": "Historical building · approximate location",
+      "point": [
+        814,
+        806
+      ],
+      "location": "SE Corner of State and Lake Streets",
+      "source": "https://chicagology.com/prefire/prefire192/",
+      "reportedSpan": "1848-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-481",
+      "name": "Cleveland House II",
+      "short": "Cleveland House II",
+      "category": "Historical building · approximate location",
+      "point": [
+        659,
+        662
+      ],
+      "location": "SE corner Clark and Kinzie streets",
+      "source": "https://chicagology.com/prefire/prefire481/",
+      "reportedSpan": "1863-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-259",
+      "name": "Clifton House",
+      "short": "Clifton House",
+      "category": "Historical building · approximate location",
+      "point": [
+        878,
+        974
+      ],
+      "location": "SE corner Madison and Wabash",
+      "source": "https://chicagology.com/prefire/prefire259/",
+      "reportedSpan": "1856-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-399",
+      "name": "Collins & Burgie Stove Works I",
+      "short": "Collins & Burgie Stove Works I",
+      "category": "Historical building · approximate location",
+      "point": [
+        306,
+        1190
+      ],
+      "location": "Jefferson, s.w. cor. Vanburen.",
+      "source": "https://chicagology.com/prefire/prefire399/",
+      "reportedSpan": "1857-after 1872",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-368",
+      "name": "Commercial Building",
+      "short": "Commercial Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        805
+      ],
+      "location": "SW corner Lake and LaSalle streets",
+      "source": "https://chicagology.com/prefire/prefire368/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-239",
+      "name": "Commercial Insurance Company",
+      "short": "Commercial Insurance Company",
+      "category": "Historical building · approximate location",
+      "point": [
+        620,
+        891
+      ],
+      "location": "160-162 Washington Street, Washington, between La Salle and Wells Street (Fifth avenue after October, 1870)",
+      "source": "https://chicagology.com/prefire/prefire239/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-115",
+      "name": "Cooley, Farwell & Co.",
+      "short": "Cooley, Farwell & Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        875,
+        816
+      ],
+      "location": "NE Corner Wabash Avenue and Benton Place (Wabash, Between Lake and Randolph)",
+      "source": "https://chicagology.com/prefire/prefire115/",
+      "reportedSpan": "1856-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-457",
+      "name": "Culver, Page & Hoyne II",
+      "short": "Culver, Page & Hoyne II",
+      "category": "Historical building · approximate location",
+      "point": [
+        668,
+        1030
+      ],
+      "location": "Monroe street, between Clark and LaSalle",
+      "source": "https://chicagology.com/prefire/prefire457/",
+      "reportedSpan": "1871-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-317",
+      "name": "Dater, Whaling & Co State Mills",
+      "short": "Dater, Whaling & Co State Mills",
+      "category": "Historical building · approximate location",
+      "point": [
+        585,
+        1094
+      ],
+      "location": "SW Market cor Quincy",
+      "source": "https://chicagology.com/prefire/prefire317/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-437",
+      "name": "DeHaven Block",
+      "short": "DeHaven Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        723,
+        1100
+      ],
+      "location": "238 Dearborn street, West side Dearborn, between Quincy and Jackson",
+      "source": "https://chicagology.com/prefire/prefire437/",
+      "reportedSpan": "1871-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-135",
+      "name": "Dearborn Block I",
+      "short": "Dearborn Block I",
+      "category": "Historical building · approximate location",
+      "point": [
+        928,
+        817
+      ],
+      "location": "NW Corner of Randolph Street and Michigan Avenue",
+      "source": "https://chicagology.com/prefire/prefire135/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": [
+        "Charles G. Smith Building",
+        "Scammon’s Block",
+        "McCormick’s Building"
+      ]
+    },
+    {
+      "id": "catalogue-020",
+      "name": "Dearborn Street Theatre",
+      "short": "Dearborn Street Theatre",
+      "category": "Historical building · approximate location",
+      "point": [
+        754,
+        940
+      ],
+      "location": "111-113 Dearborn Street, Between Madison & Washington Streets",
+      "source": "https://chicagology.com/prefire/prefire020/",
+      "reportedSpan": "1869-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-205",
+      "name": "Dickey’s Building",
+      "short": "Dickey’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        723,
+        805
+      ],
+      "location": "SW Corner Lake and Dearborn Streets, No. 99 Lake Street",
+      "source": "https://chicagology.com/prefire/prefire205/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-344",
+      "name": "Dole’s Building",
+      "short": "Dole’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        680,
+        759
+      ],
+      "location": "146-154 S. Water, NW Corner at Clark",
+      "source": "https://chicagology.com/prefire/prefire344/",
+      "reportedSpan": "~1860-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-409",
+      "name": "Dore School",
+      "short": "Dore School",
+      "category": "Historical building · approximate location",
+      "point": [
+        179,
+        1295
+      ],
+      "location": "Corner of Harrison and Desplaines",
+      "source": "https://chicagology.com/prefire/prefire409/",
+      "reportedSpan": "1868-~1950; Addition 1893",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-004",
+      "name": "E. W. Blatchford Lead Factory & Chicago Shot Tower Companies",
+      "short": "E. W. Blatchford Lead Factory & Chicago Shot Tower Companies",
+      "category": "Historical building · approximate location",
+      "point": [
+        357,
+        733
+      ],
+      "location": "70 N. Clinton, Southwest corner of Clinton and Fulton streets",
+      "source": "https://chicagology.com/prefire/prefire004/",
+      "reportedSpan": "1857/1868-1901",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-006",
+      "name": "Edwin L. Brand",
+      "short": "Edwin L. Brand",
+      "category": "Historical building · approximate location",
+      "point": [
+        836,
+        889
+      ],
+      "location": "28 Washington Street",
+      "source": "https://chicagology.com/prefire/prefire006/",
+      "reportedSpan": "1869-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-404",
+      "name": "Evans Block",
+      "short": "Evans Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        710,
+        815
+      ],
+      "location": "East Side of Clark street, south of the alley between Lake and Randolph",
+      "source": "https://chicagology.com/prefire/prefire404/",
+      "reportedSpan": "1852-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-445",
+      "name": "Evening Post II",
+      "short": "Evening Post II",
+      "category": "Historical building · approximate location",
+      "point": [
+        717,
+        974
+      ],
+      "location": "South side Madison, bet. Dearborn and Clark",
+      "source": "https://chicagology.com/prefire/prefire445/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-374",
+      "name": "Everett House",
+      "short": "Everett House",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        1156
+      ],
+      "location": "NE Corner Clark and Van Buren, near Michigan Southern and Rock Island Depot",
+      "source": "https://chicagology.com/prefire/prefire374/",
+      "reportedSpan": "1850-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-485",
+      "name": "Ewing Block",
+      "short": "Ewing Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        658,
+        676
+      ],
+      "location": "20-32 N Clark, NE corner North Water street",
+      "source": "https://chicagology.com/prefire/prefire485/",
+      "reportedSpan": "1860-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-214",
+      "name": "Exchange Bank Building",
+      "short": "Exchange Bank Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        805
+      ],
+      "location": "Southwest corner Lake and Clark.",
+      "source": "https://chicagology.com/prefire/prefire214/",
+      "reportedSpan": "1854-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-335",
+      "name": "Farwell, Brinkerhoff, Smith & Stearns Building",
+      "short": "Farwell, Brinkerhoff, Smith & Stearns Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        620,
+        918
+      ],
+      "location": "159 to 161 Washington, Between LaSalle and Wells",
+      "source": "https://chicagology.com/prefire/prefire335/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-137",
+      "name": "Fidelity Safe Deposit Building I",
+      "short": "Fidelity Safe Deposit Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        657,
+        827
+      ],
+      "location": "No. 143 Randolph Street",
+      "source": "https://chicagology.com/prefire/prefire137/",
+      "reportedSpan": "1871-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-286",
+      "name": "First Presbyterian Church",
+      "short": "First Presbyterian Church",
+      "category": "Historical building · approximate location",
+      "point": [
+        880,
+        1206
+      ],
+      "location": "Wabash avenue, between Congress and Van Buren",
+      "source": "https://chicagology.com/prefire/prefire286/",
+      "reportedSpan": "1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-315",
+      "name": "Foster House",
+      "short": "Foster House",
+      "category": "Historical building · approximate location",
+      "point": [
+        659,
+        628
+      ],
+      "location": "NE Corner Clark and Kinzie",
+      "source": "https://chicagology.com/prefire/prefire315/",
+      "reportedSpan": "~1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-081",
+      "name": "Fullerton’s Block",
+      "short": "Fullerton’s Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        724,
+        887
+      ],
+      "location": "NW Corner of Washington and Dearborn Streets",
+      "source": "https://chicagology.com/prefire/prefire081/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-258",
+      "name": "G. T. Belding Building",
+      "short": "G. T. Belding Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        731,
+        826
+      ],
+      "location": "Randolph Street, Near Dearborn",
+      "source": "https://chicagology.com/prefire/prefire258/",
+      "reportedSpan": "1856-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-090",
+      "name": "Galena and Chicago Union Railroad North Side Depot",
+      "short": "Galena and Chicago Union Railroad North Side Depot",
+      "category": "Historical building · approximate location",
+      "point": [
+        490,
+        675
+      ],
+      "location": "N. Wells cor N. Water",
+      "source": "https://chicagology.com/prefire/prefire090/",
+      "reportedSpan": "1852-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-300",
+      "name": "Galena and Chicago Union Railroad West Side Depot",
+      "short": "Galena and Chicago Union Railroad West Side Depot",
+      "category": "Historical building · approximate location",
+      "point": [
+        420,
+        660
+      ],
+      "location": "Kinzie and Canal streets",
+      "source": "https://chicagology.com/prefire/prefire300/",
+      "reportedSpan": "1848-1898",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-170",
+      "name": "Garrett Block I",
+      "short": "Garrett Block I",
+      "category": "Historical building · approximate location",
+      "point": [
+        814,
+        858
+      ],
+      "location": "Southeast Corner State and Randolph Streets",
+      "source": "https://chicagology.com/prefire/prefire170/",
+      "reportedSpan": "1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-048",
+      "name": "Gault House",
+      "short": "Gault House",
+      "category": "Historical building · approximate location",
+      "point": [
+        360,
+        974
+      ],
+      "location": "45-47 Madison St., corner Clinton Street",
+      "source": "https://chicagology.com/prefire/prefire048/",
+      "reportedSpan": "1870-1908",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-185",
+      "name": "German House",
+      "short": "German House",
+      "category": "Historical building · approximate location",
+      "point": [
+        491,
+        555
+      ],
+      "location": "N. Wells, se. cor. Indiana (Grand)",
+      "source": "https://chicagology.com/prefire/prefire185/",
+      "reportedSpan": "1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-295",
+      "name": "Gowen Block",
+      "short": "Gowen Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        934,
+        657
+      ],
+      "location": "146, 148, 150 and 152 North Water Street",
+      "source": "https://chicagology.com/prefire/prefire295/",
+      "reportedSpan": "1869-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-434",
+      "name": "Great Eastern Tea Company",
+      "short": "Great Eastern Tea Company",
+      "category": "Historical building · approximate location",
+      "point": [
+        338,
+        942
+      ],
+      "location": "NE corner Madison and Jefferson",
+      "source": "https://chicagology.com/prefire/prefire434/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-127",
+      "name": "Green Tree Tavern",
+      "short": "Green Tree Tavern",
+      "category": "Historical building · approximate location",
+      "point": [
+        450,
+        774
+      ],
+      "location": "Northeast Corner of Lake and Canal Streets, moved to Southeast Corner of Milwaukee Avenue and Fulton Street (31, 33, 35 and 37 Milwaukee Ave).",
+      "source": "https://chicagology.com/prefire/prefire127/",
+      "reportedSpan": "1833-1902",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-478",
+      "name": "Hale & Ayer Block",
+      "short": "Hale & Ayer Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        970,
+        805
+      ],
+      "location": "74, 76 and 78 Michigan av., southeast corner of Lake",
+      "source": "https://chicagology.com/prefire/prefire478/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-074",
+      "name": "Hale Block I",
+      "short": "Hale Block I",
+      "category": "Historical building · approximate location",
+      "point": [
+        815,
+        915
+      ],
+      "location": "SE Corner of Washington and State Streets",
+      "source": "https://chicagology.com/prefire/prefire074/",
+      "reportedSpan": "1871-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-024",
+      "name": "Hall, Kimbark & Co.  I",
+      "short": "Hall, Kimbark & Co.  I",
+      "category": "Historical building · approximate location",
+      "point": [
+        575,
+        914
+      ],
+      "location": "190 and 192 Washington",
+      "source": "https://chicagology.com/prefire/prefire024/",
+      "reportedSpan": "1858-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-461",
+      "name": "Hall, Kimbark & Co. II",
+      "short": "Hall, Kimbark & Co. II",
+      "category": "Historical building · approximate location",
+      "point": [
+        581,
+        765
+      ],
+      "location": "193 and 195 Water Street",
+      "source": "https://chicagology.com/prefire/prefire461/",
+      "reportedSpan": "1862-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-464",
+      "name": "Hall, Kimbark & Co. III",
+      "short": "Hall, Kimbark & Co. III",
+      "category": "Historical building · approximate location",
+      "point": [
+        969,
+        814
+      ],
+      "location": "80, 82 and 84 Michigan avenue, between Lake and Randolph",
+      "source": "https://chicagology.com/prefire/prefire464/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-299",
+      "name": "Hatch House I,  Wright’s Hotel & Maulton House I",
+      "short": "Hatch House I,  Wright’s Hotel & Maulton House I",
+      "category": "Historical building · approximate location",
+      "point": [
+        491,
+        657
+      ],
+      "location": "North Wells Street Between Kinzie and the River",
+      "source": "https://chicagology.com/prefire/prefire299/",
+      "reportedSpan": "1855-1871 (Scott/Wright)",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-438",
+      "name": "Hibbard & Spencer",
+      "short": "Hibbard & Spencer",
+      "category": "Historical building · approximate location",
+      "point": [
+        969,
+        824
+      ],
+      "location": "92 and 94 Michigan ave., between Lake and Randolph",
+      "source": "https://chicagology.com/prefire/prefire438/",
+      "reportedSpan": "1867-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-366",
+      "name": "Hiram Higgins Pianos",
+      "short": "Hiram Higgins Pianos",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        975
+      ],
+      "location": "150 Clark street, between Monroe and Madison streets",
+      "source": "https://chicagology.com/prefire/prefire366/",
+      "reportedSpan": "~1862-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-013",
+      "name": "Honoré Blocks I",
+      "short": "Honoré Blocks I",
+      "category": "Historical building · approximate location",
+      "point": [
+        722,
+        1030
+      ],
+      "location": "SW corner Dearborn and Monroe Streets and NW corner of Dearborn and Adams streets (186 Dearborn)",
+      "source": "https://chicagology.com/prefire/prefire013/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-290",
+      "name": "Hotel May",
+      "short": "Hotel May",
+      "category": "Historical building · approximate location",
+      "point": [
+        584,
+        818
+      ],
+      "location": "Wells street, near Randolph st",
+      "source": "https://chicagology.com/prefire/prefire290/",
+      "reportedSpan": "~1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-420",
+      "name": "Hovey & Co.",
+      "short": "Hovey & Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        814,
+        824
+      ],
+      "location": "State street, near NE corner Randolph",
+      "source": "https://chicagology.com/prefire/prefire420/",
+      "reportedSpan": "1867-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-209",
+      "name": "Illinois Central Land Department",
+      "short": "Illinois Central Land Department",
+      "category": "Historical building · approximate location",
+      "point": [
+        968,
+        768
+      ],
+      "location": "Michigan avenue, between Lake and South Water",
+      "source": "https://chicagology.com/prefire/prefire209/",
+      "reportedSpan": "1865-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-387",
+      "name": "Irish Republic",
+      "short": "Irish Republic",
+      "category": "Historical building · approximate location",
+      "point": [
+        713,
+        916
+      ],
+      "location": "84 Washington Street",
+      "source": "https://chicagology.com/prefire/prefire387/",
+      "reportedSpan": "1867-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-150",
+      "name": "Iron Block",
+      "short": "Iron Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        827,
+        774
+      ],
+      "location": "34-62 Lake street, between Wabash and State. north side",
+      "source": "https://chicagology.com/prefire/prefire150/",
+      "reportedSpan": "1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-270",
+      "name": "J. B. Hennegen & Co. Confectionery",
+      "short": "J. B. Hennegen & Co. Confectionery",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        765
+      ],
+      "location": "17 Clark Street, Corner Clark and alley between Lake and Water streets",
+      "source": "https://chicagology.com/prefire/prefire270/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-241",
+      "name": "J. J. Sands’ Brewery",
+      "short": "J. J. Sands’ Brewery",
+      "category": "Historical building · approximate location",
+      "point": [
+        931,
+        279
+      ],
+      "location": "Pearson and Pine streets",
+      "source": "https://chicagology.com/prefire/prefire241/",
+      "reportedSpan": "1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-451",
+      "name": "Jackson Hall",
+      "short": "Jackson Hall",
+      "category": "Historical building · approximate location",
+      "point": [
+        659,
+        815
+      ],
+      "location": "NE corner LaSalle and Couch Place",
+      "source": "https://chicagology.com/prefire/prefire451/",
+      "reportedSpan": "1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-246",
+      "name": "James S. Kirk & Company I",
+      "short": "James S. Kirk & Company I",
+      "category": "Historical building · approximate location",
+      "point": [
+        974,
+        660
+      ],
+      "location": "North Water Street",
+      "source": "https://chicagology.com/prefire/prefire246/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-122",
+      "name": "John H. Dunham Mansion",
+      "short": "John H. Dunham Mansion",
+      "category": "Historical building · approximate location",
+      "point": [
+        930,
+        1264
+      ],
+      "location": "233 Michigan (old) Northwest corner of Michigan avenue and Harrison street. 538 S Michigan",
+      "source": "https://chicagology.com/prefire/prefire122/",
+      "reportedSpan": "1858-1928",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-333",
+      "name": "Jones Building",
+      "short": "Jones Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        623,
+        858
+      ],
+      "location": "172 Randolph, bet. Wells and LaSalle",
+      "source": "https://chicagology.com/prefire/prefire333/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-379",
+      "name": "Judd’s Building",
+      "short": "Judd’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        1030
+      ],
+      "location": "SE corner Clark and Monro",
+      "source": "https://chicagology.com/prefire/prefire379/",
+      "reportedSpan": "1861-TBD",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-199",
+      "name": "Julian Rumsey House I",
+      "short": "Julian Rumsey House I",
+      "category": "Historical building · approximate location",
+      "point": [
+        860,
+        382
+      ],
+      "location": "NE Corner Rush and Huron streets",
+      "source": "https://chicagology.com/prefire/prefire199/",
+      "reportedSpan": "1849-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-160",
+      "name": "Julius Bauer & Co.",
+      "short": "Julius Bauer & Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        881
+      ],
+      "location": "No. 99 Clark Street",
+      "source": "https://chicagology.com/prefire/prefire160/",
+      "reportedSpan": "1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-088",
+      "name": "Keeps’ Building",
+      "short": "Keeps’ Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        985
+      ],
+      "location": "161-171 Clark, East side Clark between Madison and Monroe",
+      "source": "https://chicagology.com/prefire/prefire088/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-121",
+      "name": "Kendall Block I & II",
+      "short": "Kendall Block I & II",
+      "category": "Historical building · approximate location",
+      "point": [
+        724,
+        917
+      ],
+      "location": "SW Corner of Washington and Dearborn (40 North Dearborn)",
+      "source": "https://chicagology.com/prefire/prefire121/",
+      "reportedSpan": "1852-1871; 1871-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-326",
+      "name": "King & Kellogg Block",
+      "short": "King & Kellogg Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        903,
+        805
+      ],
+      "location": "Nos. 24 and 26 Lake street, between Wabash and Michigan avenues",
+      "source": "https://chicagology.com/prefire/prefire326/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-057",
+      "name": "Kingsbury Estate (Block and Hall)",
+      "short": "Kingsbury Estate (Block and Hall)",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        826
+      ],
+      "location": "Northeast corner Randolph and Clark",
+      "source": "https://chicagology.com/prefire/prefire057/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-152",
+      "name": "Kinzie School No. 4",
+      "short": "Kinzie School No. 4",
+      "category": "Historical building · approximate location",
+      "point": [
+        524,
+        485
+      ],
+      "location": "Ohio and LaSalle Streets",
+      "source": "https://chicagology.com/prefire/prefire152/",
+      "reportedSpan": "1846-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-447",
+      "name": "Laflin Building",
+      "short": "Laflin Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        781,
+        807
+      ],
+      "location": "State, NW corner Couch place1",
+      "source": "https://chicagology.com/prefire/prefire447/",
+      "reportedSpan": "1860-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-112",
+      "name": "Lake House",
+      "short": "Lake House",
+      "category": "Historical building · approximate location",
+      "point": [
+        860,
+        624
+      ],
+      "location": "Kinzie, Rush and Michigan streets",
+      "source": "https://chicagology.com/prefire/prefire112/",
+      "reportedSpan": "1835-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-221",
+      "name": "Lakeside Publishing Co.",
+      "short": "Lakeside Publishing Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        1084
+      ],
+      "location": "SW corner Clark and Adams Streets",
+      "source": "https://chicagology.com/prefire/prefire221/",
+      "reportedSpan": "1871-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-085",
+      "name": "Larmon Block",
+      "short": "Larmon Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        887
+      ],
+      "location": "NE corner of Clark and Washington",
+      "source": "https://chicagology.com/prefire/prefire085/",
+      "reportedSpan": "1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-349",
+      "name": "Lay’s Block",
+      "short": "Lay’s Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        858
+      ],
+      "location": "76 and 78 LaSalle, between Washington and Randolph",
+      "source": "https://chicagology.com/prefire/prefire349/",
+      "reportedSpan": "1862-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-441",
+      "name": "Liebenstein Building",
+      "short": "Liebenstein Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        622,
+        827
+      ],
+      "location": "167-169 Randolph. between LaSalle and Wells",
+      "source": "https://chicagology.com/prefire/prefire441/",
+      "reportedSpan": "1863-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-203",
+      "name": "Lill & Diversy’s Chicago Brewery",
+      "short": "Lill & Diversy’s Chicago Brewery",
+      "category": "Historical building · approximate location",
+      "point": [
+        934,
+        345
+      ],
+      "location": "Chicago Avenue and Pine Street",
+      "source": "https://chicagology.com/prefire/prefire203/",
+      "reportedSpan": "1841-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-413",
+      "name": "Lincoln Block and Hall",
+      "short": "Lincoln Block and Hall",
+      "category": "Historical building · approximate location",
+      "point": [
+        532,
+        774
+      ],
+      "location": "NW corner Lake and Franklin streets",
+      "source": "https://chicagology.com/prefire/prefire413/",
+      "reportedSpan": "1862/1863-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-193",
+      "name": "Lincoln House",
+      "short": "Lincoln House",
+      "category": "Historical building · approximate location",
+      "point": [
+        451,
+        826
+      ],
+      "location": "27 and 29 W Randolph street, NE corner Canal and Randolph streets",
+      "source": "https://chicagology.com/pre-fire-chicago/prefire193/",
+      "reportedSpan": "Abt 1866-TBD",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-284",
+      "name": "Link’s Block",
+      "short": "Link’s Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        625,
+        773
+      ],
+      "location": "162 and 164 Lake",
+      "source": "https://chicagology.com/pre-fire-chicago/prefire284/",
+      "reportedSpan": "1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-388",
+      "name": "Lloyd’s Block—Fenian Hall",
+      "short": "Lloyd’s Block—Fenian Hall",
+      "category": "Historical building · approximate location",
+      "point": [
+        584,
+        826
+      ],
+      "location": "Randolph street, northwest corner Wells",
+      "source": "https://chicagology.com/prefire/prefire388/",
+      "reportedSpan": "1858-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-157",
+      "name": "Lombard Block",
+      "short": "Lombard Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        724,
+        999
+      ],
+      "location": "NW Corner of Monroe and Court House Place, between Dearborn and Clark streets.",
+      "source": "https://chicagology.com/prefire/prefire157/",
+      "reportedSpan": "1865-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-253",
+      "name": "Loomis Building",
+      "short": "Loomis Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        777
+      ],
+      "location": "145-149 South Water Street, SW Corner at Clark",
+      "source": "https://chicagology.com/prefire/prefire253/",
+      "reportedSpan": "1858-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-197",
+      "name": "Magie’s Building",
+      "short": "Magie’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        858
+      ],
+      "location": "southwest Corner LaSalle and Randolph",
+      "source": "https://chicagology.com/prefire/prefire197/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-039",
+      "name": "Major Block I",
+      "short": "Major Block I",
+      "category": "Historical building · approximate location",
+      "point": [
+        659,
+        974
+      ],
+      "location": "SE Corner La Salle and Madison Streets, 137, 139, 141, 143 LaSalle",
+      "source": "https://chicagology.com/prefire/prefire039/",
+      "reportedSpan": "1867-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-145",
+      "name": "Masonic Temple",
+      "short": "Masonic Temple",
+      "category": "Historical building · approximate location",
+      "point": [
+        755,
+        829
+      ],
+      "location": "SE Corner Dearborn and Court Place, 83 and 85 Dearborn Street",
+      "source": "https://chicagology.com/prefire/prefire145/",
+      "reportedSpan": "1856-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-067",
+      "name": "Matteson House I",
+      "short": "Matteson House I",
+      "category": "Historical building · approximate location",
+      "point": [
+        723,
+        827
+      ],
+      "location": "NW Corner Dearborn and Randolph Streets",
+      "source": "https://chicagology.com/prefire/prefire067/",
+      "reportedSpan": "1850-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-010",
+      "name": "McCarthy Building",
+      "short": "McCarthy Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        858
+      ],
+      "location": "SE corner of Clark and Randolph Streets",
+      "source": "https://chicagology.com/prefire/prefire010/",
+      "reportedSpan": "1865-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-338",
+      "name": "McCarthy’s Building I",
+      "short": "McCarthy’s Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        754,
+        887
+      ],
+      "location": "99 Dearborn, Dearborn, ne cor Washington street",
+      "source": "https://chicagology.com/prefire/prefire338/",
+      "reportedSpan": "1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-129",
+      "name": "McCormick Reaper Manufactory I",
+      "short": "McCormick Reaper Manufactory I",
+      "category": "Historical building · approximate location",
+      "point": [
+        976,
+        663
+      ],
+      "location": "North bank of the Chicago River, east of Rush Street Bridge",
+      "source": "https://chicagology.com/prefire/prefire129/",
+      "reportedSpan": "1846-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-124",
+      "name": "McCormick’s Building",
+      "short": "McCormick’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        754,
+        858
+      ],
+      "location": "SE corner Randolph and Dearborn",
+      "source": "https://chicagology.com/prefire/prefire124/",
+      "reportedSpan": "1860-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": [
+        "Young America Hotel"
+      ]
+    },
+    {
+      "id": "catalogue-431",
+      "name": "Mechanics’ Building",
+      "short": "Mechanics’ Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        620,
+        916
+      ],
+      "location": "164-168 Washington, bet. Wells and La Salle",
+      "source": "https://chicagology.com/prefire/prefire431/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-416",
+      "name": "Mercantile Building I",
+      "short": "Mercantile Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        936
+      ],
+      "location": "114, 116 and 118 LaSalle, West side LaSalle street, between Madison and Washington",
+      "source": "https://chicagology.com/prefire/prefire416/",
+      "reportedSpan": "1867-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-044",
+      "name": "Merchants Insurance Building",
+      "short": "Merchants Insurance Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        887
+      ],
+      "location": "92 LaSalle, NW corner of LaSalle and Washington Streets",
+      "source": "https://chicagology.com/prefire/prefire044/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-055",
+      "name": "Merchants’, Farmers and Mechanics’ Savings Bank",
+      "short": "Merchants’, Farmers and Mechanics’ Savings Bank",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        761
+      ],
+      "location": "No. 13 Clark street",
+      "source": "https://chicagology.com/prefire/prefire055/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-133",
+      "name": "Metropolitan Block",
+      "short": "Metropolitan Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        827
+      ],
+      "location": "159-165 Randolph, NW corner LaSalle",
+      "source": "https://chicagology.com/prefire/prefire133/",
+      "reportedSpan": "1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-099",
+      "name": "Metropolitan Hotel",
+      "short": "Metropolitan Hotel",
+      "category": "Historical building · approximate location",
+      "point": [
+        584,
+        858
+      ],
+      "location": "SW corner of Randolph and Wells streets",
+      "source": "https://chicagology.com/prefire/prefire099/",
+      "reportedSpan": "1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-028",
+      "name": "Michigan Avenue Hotel",
+      "short": "Michigan Avenue Hotel",
+      "category": "Historical building · approximate location",
+      "point": [
+        930,
+        1240
+      ],
+      "location": "SW Corner of Michigan Avenue and Congress streets",
+      "source": "https://chicagology.com/prefire/prefire028/",
+      "reportedSpan": "1870-1874",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-034",
+      "name": "Michigan Southern & Northern Indiana Railroad, and Chicago, Rock Island & Pacific Railroad Depot",
+      "short": "Michigan Southern & Northern Indiana Railroad, and Chicago, Rock Island & Pacific Railroad Depot",
+      "category": "Historical building · approximate location",
+      "point": [
+        621,
+        1200
+      ],
+      "location": "SW corner of LaSalle and Van Buren Streets",
+      "source": "https://chicagology.com/prefire/prefire034/",
+      "reportedSpan": "1867-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-419",
+      "name": "Miller Bros. Hardware Store",
+      "short": "Miller Bros. Hardware Store",
+      "category": "Historical building · approximate location",
+      "point": [
+        814,
+        812
+      ],
+      "location": "55 State",
+      "source": "https://chicagology.com/prefire/prefire419/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-008",
+      "name": "Morrison Block",
+      "short": "Morrison Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        974
+      ],
+      "location": "SE corner of Madison and Clark Streets",
+      "source": "https://chicagology.com/prefire/prefire008/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-446",
+      "name": "Munn & Scott Northwestern Elevator",
+      "short": "Munn & Scott Northwestern Elevator",
+      "category": "Historical building · approximate location",
+      "point": [
+        453,
+        753
+      ],
+      "location": "Canal, se. cor. Carroll",
+      "source": "https://chicagology.com/prefire/prefire446/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-136",
+      "name": "Mutual Life of Chicago Building",
+      "short": "Mutual Life of Chicago Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        615,
+        870
+      ],
+      "location": "Wells Street, between Washington and Randolph.",
+      "source": "https://chicagology.com/prefire/prefire136/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-482",
+      "name": "National Bank of Illinois",
+      "short": "National Bank of Illinois",
+      "category": "Historical building · approximate location",
+      "point": [
+        717,
+        915
+      ],
+      "location": "95-97 Washington, between Clark and Dearborn",
+      "source": "https://chicagology.com/prefire/prefire482/",
+      "reportedSpan": "1871-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-134",
+      "name": "Nevada Hotel",
+      "short": "Nevada Hotel",
+      "category": "Historical building · approximate location",
+      "point": [
+        534,
+        917
+      ],
+      "location": "SW Corner of Franklin and Washington Streets, Near Washington Street Tunnel",
+      "source": "https://chicagology.com/prefire/prefire134/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-414",
+      "name": "New Jerusalem Church",
+      "short": "New Jerusalem Church",
+      "category": "Historical building · approximate location",
+      "point": [
+        930,
+        1084
+      ],
+      "location": "Michigan and Adams",
+      "source": "https://chicagology.com/prefire/prefire414/",
+      "reportedSpan": "1862-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-406",
+      "name": "New York House",
+      "short": "New York House",
+      "category": "Historical building · approximate location",
+      "point": [
+        527,
+        858
+      ],
+      "location": "Randolph, between Market and Franklin",
+      "source": "https://chicagology.com/prefire/prefire406/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-301",
+      "name": "Newberry Block",
+      "short": "Newberry Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        491,
+        628
+      ],
+      "location": "North Wells street, northeast corner Kinzie",
+      "source": "https://chicagology.com/prefire/prefire301/",
+      "reportedSpan": "1850",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-225",
+      "name": "North Presbyterian Church",
+      "short": "North Presbyterian Church",
+      "category": "Historical building · approximate location",
+      "point": [
+        832,
+        554
+      ],
+      "location": "Cass and Indiana streets (Wabash and Grand)",
+      "source": "https://chicagology.com/prefire/prefire225/",
+      "reportedSpan": "1860-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-041",
+      "name": "Oriental Building I",
+      "short": "Oriental Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        660,
+        944
+      ],
+      "location": "LaSalle Street between Washington and Madison Streets.",
+      "source": "https://chicagology.com/prefire/prefire041/",
+      "reportedSpan": "1867-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-198",
+      "name": "Otis Block I",
+      "short": "Otis Block I",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        974
+      ],
+      "location": "162 Madison, SW Corner La Salle and Madison",
+      "source": "https://chicagology.com/prefire/prefire198/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-345",
+      "name": "Otis Building",
+      "short": "Otis Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        770,
+        974
+      ],
+      "location": "66 Madison",
+      "source": "https://chicagology.com/prefire/prefire345/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-148",
+      "name": "O’Brien’s Art Emporium",
+      "short": "O’Brien’s Art Emporium",
+      "category": "Historical building · approximate location",
+      "point": [
+        814,
+        805
+      ],
+      "location": "51 State street",
+      "source": "https://chicagology.com/prefire/prefire148/",
+      "reportedSpan": "1862-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-120",
+      "name": "Pacific Hotel I",
+      "short": "Pacific Hotel I",
+      "category": "Historical building · approximate location",
+      "point": [
+        670,
+        1101
+      ],
+      "location": "La Salle, Clark, Jackson, and Quincy streets",
+      "source": "https://chicagology.com/prefire/prefire120/",
+      "reportedSpan": "1871-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-061",
+      "name": "Palmer House I & II",
+      "short": "Palmer House I & II",
+      "category": "Historical building · approximate location",
+      "point": [
+        780,
+        1089
+      ],
+      "location": "Northwest corner of State and Quincy (I)",
+      "source": "https://chicagology.com/prefire/prefire061/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-094",
+      "name": "Pardee’s Building I",
+      "short": "Pardee’s Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        584,
+        761
+      ],
+      "location": "South Water street, north west corner Wells.",
+      "source": "https://chicagology.com/prefire/prefire094/",
+      "reportedSpan": "Before 1858-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-440",
+      "name": "Peek Building",
+      "short": "Peek Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        614,
+        827
+      ],
+      "location": "171-177 Randolph. between LaSalle and Wells",
+      "source": "https://chicagology.com/prefire/prefire440/",
+      "reportedSpan": "1853-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-169",
+      "name": "Peter Schuttler Wagon Works I",
+      "short": "Peter Schuttler Wagon Works I",
+      "category": "Historical building · approximate location",
+      "point": [
+        533,
+        858
+      ],
+      "location": "Southwest Corner Randolph and Franklin Streets",
+      "source": "https://chicagology.com/prefire/prefire169/",
+      "reportedSpan": "~1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-040",
+      "name": "Phœnix Building",
+      "short": "Phœnix Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        862
+      ],
+      "location": "78 La Salle street, bet. Randolph and Washington streets",
+      "source": "https://chicagology.com/prefire/prefire040/",
+      "reportedSpan": "1869-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-417",
+      "name": "Pope’s Block",
+      "short": "Pope’s Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        671,
+        943
+      ],
+      "location": "135-141 Madison, North side Madison street, between LaSalle and Clark",
+      "source": "https://chicagology.com/prefire/prefire417/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-400",
+      "name": "Printers’ Block and Judd’s Building",
+      "short": "Printers’ Block and Judd’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        659,
+        827
+      ],
+      "location": "NE corner LaSalle and Randolph, 135-143 Randolph",
+      "source": "https://chicagology.com/prefire/prefire400/",
+      "reportedSpan": "1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-217",
+      "name": "Purple Block",
+      "short": "Purple Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        657,
+        455
+      ],
+      "location": "158 N. Clark, Cor. Clark and Ontario Street",
+      "source": "https://chicagology.com/prefire/prefire217/",
+      "reportedSpan": "1869-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-265",
+      "name": "Putnam’s Emporium",
+      "short": "Putnam’s Emporium",
+      "category": "Historical building · approximate location",
+      "point": [
+        718,
+        858
+      ],
+      "location": "116-118 Randolph, Between Dearborn and Clark",
+      "source": "https://chicagology.com/prefire/prefire265/",
+      "reportedSpan": "Abt 1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-114",
+      "name": "Republic Life Insurance Company Building I",
+      "short": "Republic Life Insurance Company Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        659,
+        989
+      ],
+      "location": "East side of La Salle Street, between Monroe and Madison Streets.",
+      "source": "https://chicagology.com/prefire/prefire114/",
+      "reportedSpan": "1870-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-103",
+      "name": "Reynold’s Block",
+      "short": "Reynold’s Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        724,
+        974
+      ],
+      "location": "SW Corner  of Dearborn & Madison Streets",
+      "source": "https://chicagology.com/prefire/prefire103/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-254",
+      "name": "Rice’s Building",
+      "short": "Rice’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        754,
+        817
+      ],
+      "location": "NE corner of Dearborn and Court place, 75-81 Dearborn",
+      "source": "https://chicagology.com/prefire/prefire254/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-060",
+      "name": "Richmond House",
+      "short": "Richmond House",
+      "category": "Historical building · approximate location",
+      "point": [
+        931,
+        762
+      ],
+      "location": "NW Corner South Water Street and Michigan Avenue",
+      "source": "https://chicagology.com/prefire/prefire060/",
+      "reportedSpan": "1856 – 1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-428",
+      "name": "Robbins Block II",
+      "short": "Robbins Block II",
+      "category": "Historical building · approximate location",
+      "point": [
+        584,
+        774
+      ],
+      "location": "NW corner Lake and Wells",
+      "source": "https://chicagology.com/prefire/prefire428/",
+      "reportedSpan": "1869-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-106",
+      "name": "Robbins Building I",
+      "short": "Robbins Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        615,
+        777
+      ],
+      "location": "SE Corner Wells and South Water Streets",
+      "source": "https://chicagology.com/prefire/prefire106/",
+      "reportedSpan": "1856-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-257",
+      "name": "Rush Medical College I & II",
+      "short": "Rush Medical College I & II",
+      "category": "Historical building · approximate location",
+      "point": [
+        746,
+        554
+      ],
+      "location": "SE Corner North Dearborn and Indiana (Grand) streets1",
+      "source": "https://chicagology.com/prefire/prefire257/",
+      "reportedSpan": "1843-1867 (I), 1867-1871 (II)",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-476",
+      "name": "S. B. Cobb’s Block",
+      "short": "S. B. Cobb’s Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        930,
+        805
+      ],
+      "location": "3 to 13 Lake, Southwest corner, Michigan avenue",
+      "source": "https://chicagology.com/prefire/prefire476/",
+      "reportedSpan": "1865-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-187",
+      "name": "S. B. Cobb’s Store",
+      "short": "S. B. Cobb’s Store",
+      "category": "Historical building · approximate location",
+      "point": [
+        970,
+        805
+      ],
+      "location": "SE Corner Lake and Michgan",
+      "source": "https://chicagology.com/prefire/prefire187/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-283",
+      "name": "Saloon Building",
+      "short": "Saloon Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        805
+      ],
+      "location": "117 to 125 Lake, SE corner Clark",
+      "source": "https://chicagology.com/prefire/prefire283/",
+      "reportedSpan": "1836-1859 (Saloon), 1859-1871 (Telegraph)",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-110",
+      "name": "Scammon School No. 3",
+      "short": "Scammon School No. 3",
+      "category": "Historical building · approximate location",
+      "point": [
+        30,
+        975
+      ],
+      "location": "Madison Between Hasted and Desplaines",
+      "source": "https://chicagology.com/prefire/prefire110/",
+      "reportedSpan": "1847-TBD",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-079",
+      "name": "Second Presbyterian Church",
+      "short": "Second Presbyterian Church",
+      "category": "Historical building · approximate location",
+      "point": [
+        875,
+        887
+      ],
+      "location": "NE Corner of Washington Street and Wabash Avenue",
+      "source": "https://chicagology.com/prefire/prefire079/",
+      "reportedSpan": "1852-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-314",
+      "name": "State Savings Institution I",
+      "short": "State Savings Institution I",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        864
+      ],
+      "location": "La Salle, between Washington and Randolph",
+      "source": "https://chicagology.com/prefire/prefire314/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-377",
+      "name": "Steel’s Block",
+      "short": "Steel’s Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        761
+      ],
+      "location": "178-184 South Water street, Northwest corner LaSalle and South Water",
+      "source": "https://chicagology.com/prefire/prefire377/",
+      "reportedSpan": "1858-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-132",
+      "name": "Stein’s “The City of Paris”",
+      "short": "Stein’s “The City of Paris”",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        863
+      ],
+      "location": "No. 83 Clark Street",
+      "source": "https://chicagology.com/prefire/prefire132/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-291",
+      "name": "Stone’s Building",
+      "short": "Stone’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        665,
+        944
+      ],
+      "location": "Madison, between Clark and La Salle",
+      "source": "https://chicagology.com/prefire/prefire291/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-212",
+      "name": "Tappen Building",
+      "short": "Tappen Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        716,
+        775
+      ],
+      "location": "108 Lake Street",
+      "source": "https://chicagology.com/prefire/prefire212/",
+      "reportedSpan": "1856-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-407",
+      "name": "Teutonia Hall",
+      "short": "Teutonia Hall",
+      "category": "Historical building · approximate location",
+      "point": [
+        533,
+        826
+      ],
+      "location": "Randolph, NW corner Franklin",
+      "source": "https://chicagology.com/prefire/prefire407/",
+      "reportedSpan": "1861-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-118",
+      "name": "The Prairie Farmer",
+      "short": "The Prairie Farmer",
+      "category": "Historical building · approximate location",
+      "point": [
+        725,
+        1030
+      ],
+      "location": "112 Monroe Street",
+      "source": "https://chicagology.com/prefire/prefire118/",
+      "reportedSpan": "1870–1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-218",
+      "name": "Turner Hall",
+      "short": "Turner Hall",
+      "category": "Historical building · approximate location",
+      "point": [
+        657,
+        337
+      ],
+      "location": "261 N. Clark, near Chicago av.",
+      "source": "https://chicagology.com/prefire/prefire218/",
+      "reportedSpan": "1863-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-297",
+      "name": "Tuttle, Hibbard & Co.",
+      "short": "Tuttle, Hibbard & Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        875,
+        807
+      ],
+      "location": "32 Lake",
+      "source": "https://chicagology.com/prefire/prefire297/",
+      "reportedSpan": "1855-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": [
+        "Hurlbut & Edsall Building"
+      ]
+    },
+    {
+      "id": "catalogue-288",
+      "name": "Tyler Block",
+      "short": "Tyler Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        659,
+        764
+      ],
+      "location": "East side LaSalle street, between Lake and South Water",
+      "source": "https://chicagology.com/prefire/prefire288/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": [
+        "Tyler’s Block"
+      ]
+    },
+    {
+      "id": "catalogue-036",
+      "name": "U.S. Marine Hospital",
+      "short": "U.S. Marine Hospital",
+      "category": "Historical building · approximate location",
+      "point": [
+        967,
+        754
+      ],
+      "location": "River street and Michigan avenue",
+      "source": "https://chicagology.com/prefire/prefire036/",
+      "reportedSpan": "1853-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-064",
+      "name": "Uhlich Block",
+      "short": "Uhlich Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        626,
+        676
+      ],
+      "location": "NW Corner of North Clark and Water Street",
+      "source": "https://chicagology.com/prefire/prefire064/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-042",
+      "name": "Union Building I",
+      "short": "Union Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        629,
+        918
+      ],
+      "location": "SW corner of Washington and LaSalle Streets.",
+      "source": "https://chicagology.com/prefire/prefire042/",
+      "reportedSpan": "1868-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-410",
+      "name": "Varieties Theatre Building",
+      "short": "Varieties Theatre Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        754,
+        929
+      ],
+      "location": "115 and 117 Dearborn, NE corner Dearborn and Calhoun",
+      "source": "https://chicagology.com/prefire/prefire410/",
+      "reportedSpan": "~1856-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-320",
+      "name": "W. M. Hoyt & Co. Building I",
+      "short": "W. M. Hoyt & Co. Building I",
+      "category": "Historical building · approximate location",
+      "point": [
+        770,
+        763
+      ],
+      "location": "101 S. Water",
+      "source": "https://chicagology.com/prefire/prefire320/",
+      "reportedSpan": "1865-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-296",
+      "name": "W. M. Ross Building",
+      "short": "W. M. Ross Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        611,
+        805
+      ],
+      "location": "167 & 169 Lake street",
+      "source": "https://chicagology.com/prefire/prefire296/",
+      "reportedSpan": "1856-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-219",
+      "name": "Wabash Avenue Methodist Episcopal Church",
+      "short": "Wabash Avenue Methodist Episcopal Church",
+      "category": "Historical building · approximate location",
+      "point": [
+        841,
+        1264
+      ],
+      "location": "Northwest corner of Wabash avenue and Harrison street",
+      "source": "https://chicagology.com/prefire/prefire219/",
+      "reportedSpan": "1858-1874",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-436",
+      "name": "Walker’s Block",
+      "short": "Walker’s Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        754,
+        798
+      ],
+      "location": "Dearborn between Randolph and Lake",
+      "source": "https://chicagology.com/prefire/prefire436/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-166",
+      "name": "Walworth & Hubbard",
+      "short": "Walworth & Hubbard",
+      "category": "Historical building · approximate location",
+      "point": [
+        620,
+        805
+      ],
+      "location": "181 Lake Street, Between Wells and La Salle",
+      "source": "https://chicagology.com/prefire/prefire166/",
+      "reportedSpan": "1850-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-412",
+      "name": "Warner’s Block and Hall",
+      "short": "Warner’s Block and Hall",
+      "category": "Historical building · approximate location",
+      "point": [
+        718,
+        858
+      ],
+      "location": "122 and 124 Randolph, between Clark and Dearborn",
+      "source": "https://chicagology.com/prefire/prefire412/",
+      "reportedSpan": "1852-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-448",
+      "name": "Warren & Co.",
+      "short": "Warren & Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        720,
+        974
+      ],
+      "location": "102 Madison",
+      "source": "https://chicagology.com/prefire/prefire448/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-324",
+      "name": "Washington Block",
+      "short": "Washington Block",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        931
+      ],
+      "location": "122-136 Clark",
+      "source": "https://chicagology.com/prefire/prefire324/",
+      "reportedSpan": "1858-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-109",
+      "name": "West Side Union Depot",
+      "short": "West Side Union Depot",
+      "category": "Historical building · approximate location",
+      "point": [
+        417,
+        975
+      ],
+      "location": "Corner Madison and Canal streets",
+      "source": "https://chicagology.com/prefire/prefire109/",
+      "reportedSpan": "1861-1871/1881",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-227",
+      "name": "Westminster Presbyterian Church",
+      "short": "Westminster Presbyterian Church",
+      "category": "Historical building · approximate location",
+      "point": [
+        746,
+        456
+      ],
+      "location": "NE corner Ontario and Dearborn",
+      "source": "https://chicagology.com/prefire/prefire227/",
+      "reportedSpan": "1857-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-432",
+      "name": "Wheeler’s Building",
+      "short": "Wheeler’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        711,
+        778
+      ],
+      "location": "SE cor South Water and Clark",
+      "source": "https://chicagology.com/prefire/prefire432/",
+      "reportedSpan": "~1849-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-361",
+      "name": "Wicker’s Building",
+      "short": "Wicker’s Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        814,
+        777
+      ],
+      "location": "82-84 S Water street, corner of South Water and State streets",
+      "source": "https://chicagology.com/prefire/prefire361/",
+      "reportedSpan": "1864-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-450",
+      "name": "William A. Butters’ Residence",
+      "short": "William A. Butters’ Residence",
+      "category": "Historical building · approximate location",
+      "point": [
+        843,
+        889
+      ],
+      "location": "26 Washington, Between Wabash and Holden Place",
+      "source": "https://chicagology.com/prefire/prefire450/",
+      "reportedSpan": "1861-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-208",
+      "name": "William Blair & Co.",
+      "short": "William Blair & Co.",
+      "category": "Historical building · approximate location",
+      "point": [
+        628,
+        826
+      ],
+      "location": "Near NE corner of Randolph and Wells, 179 & 181 Randolph, and others",
+      "source": "https://chicagology.com/prefire/prefire208/",
+      "reportedSpan": "1865-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": [
+        "179-181 Randolph"
+      ]
+    },
+    {
+      "id": "catalogue-383",
+      "name": "Willson & Merriam Building",
+      "short": "Willson & Merriam Building",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        815
+      ],
+      "location": "48 Clark",
+      "source": "https://chicagology.com/prefire//prefire383/",
+      "reportedSpan": "1860-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-443",
+      "name": "Witkowski Hall",
+      "short": "Witkowski Hall",
+      "category": "Historical building · approximate location",
+      "point": [
+        681,
+        1000
+      ],
+      "location": "176-178 Clark, Northwest corner Clark and Monroe",
+      "source": "https://chicagology.com/prefire//prefire443/",
+      "reportedSpan": "1859-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": [
+        "176-178 Clark Street"
+      ]
+    },
+    {
+      "id": "catalogue-200",
+      "name": "Wright Livery Stables",
+      "short": "Wright Livery Stables",
+      "category": "Historical building · approximate location",
+      "point": [
+        801,
+        663
+      ],
+      "location": "North State Street and Kinzie, near bridge",
+      "source": "https://chicagology.com/prefire/prefire200/",
+      "reportedSpan": "1866-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-045",
+      "name": "Young Men’s Christian Association Building (Farwell Hall)",
+      "short": "Young Men’s Christian Association Building (Farwell Hall)",
+      "category": "Historical building · approximate location",
+      "point": [
+        672,
+        974
+      ],
+      "location": "Madison street, east of LaSalle",
+      "source": "https://chicagology.com/prefire/prefire045/",
+      "reportedSpan": "1867-1868/1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    },
+    {
+      "id": "catalogue-433",
+      "name": "prefire433 TBD",
+      "short": "prefire433 TBD",
+      "category": "Historical building · approximate location",
+      "point": [
+        658,
+        661
+      ],
+      "location": "es N. Clark, bet. N. Water and Kinzie",
+      "source": "https://chicagology.com/prefire/prefire433/",
+      "reportedSpan": "1860-1871",
+      "text": "The source identifies this building or business premises at the historical address above. The marker indicates an approximate location; an outline and exact lot position have not been established.",
+      "timeNote": "No ignition time or individual fire outcome has been verified for this catalogue record.",
+      "fate": "Fire outcome not yet verified",
+      "outcomeVerified": false,
+      "aliases": []
+    }
+  ]
+}

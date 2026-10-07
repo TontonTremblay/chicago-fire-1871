@@ -1,0 +1,274 @@
+[
+  {
+    "id": "briggs",
+    "name": "Briggs House",
+    "short": "Briggs House",
+    "point": [
+      615,
+      825
+    ],
+    "location": "Northeast corner of Wells and Randolph",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/briggs-house/",
+    "fate": "Destroyed",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "A five-storey hotel built in 1856. Contemporary fire illustrations show the hotel catching fire; it was rebuilt on the same site."
+  },
+  {
+    "id": "marine",
+    "name": "Marine Bank",
+    "short": "Marine Bank",
+    "point": [
+      658,
+      776
+    ],
+    "location": "Northeast corner of Lake and LaSalle",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/marine-bank/",
+    "fate": "Individual fire outcome not yet verified",
+    "outcomeVerified": false,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "The Chicago Historical Society was founded in an office of this bank in 1856. The building rose with Lake Street’s grade in the late 1850s."
+  },
+  {
+    "id": "wood",
+    "name": "Col. Wood’s Museum",
+    "short": "Col. Wood’s Museum",
+    "point": [
+      718,
+      826
+    ],
+    "location": "North side of Randolph, east of Clark",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/col-woods-museum/",
+    "fate": "Individual fire outcome not yet verified",
+    "outcomeVerified": false,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "Opened in 1862, the museum combined collections of curiosities with a theatre. Its location is documented by the museum’s pre-fire print."
+  },
+  {
+    "id": "methodist",
+    "name": "First Methodist Church",
+    "short": "First Methodist Church",
+    "point": [
+      711,
+      919
+    ],
+    "location": "Southeast corner of Washington and Clark",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/first-methodist-church/",
+    "fate": "Individual fire outcome not yet verified",
+    "outcomeVerified": false,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "The congregation used the upper floors as its sanctuary and rented lower floors for shops and offices. A new building followed in 1873."
+  },
+  {
+    "id": "customs",
+    "name": "Post Office & Custom House",
+    "short": "Post Office & Custom House",
+    "point": [
+      722,
+      995
+    ],
+    "location": "Northwest corner of Dearborn and Monroe",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/post-office-and-custom-house/",
+    "fate": "Destroyed; some walls salvaged",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "Federal offices and courts occupied a building believed to be fireproof. Eyewitness testimony describes fire entering the post office before spreading through the upper floors."
+  },
+  {
+    "id": "nixon",
+    "name": "Nixon Block",
+    "short": "Nixon Block",
+    "point": [
+      660,
+      999
+    ],
+    "location": "Near the northeast corner of Monroe and LaSalle",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/nixon-block/",
+    "fate": "Largely survived; woodwork damaged",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "Still under construction during the fire, the Nixon Block largely survived. Its survival makes it an important exception within the downtown burned district."
+  },
+  {
+    "id": "bryan",
+    "name": "Bryan Block",
+    "short": "Bryan Block",
+    "point": [
+      629,
+      999
+    ],
+    "location": "Northwest corner of Monroe and LaSalle",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/bryan-block/",
+    "fate": "Destroyed",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "The first Bryan Block burned within months of opening. The building later erected at this corner was a replacement."
+  },
+  {
+    "id": "trinity",
+    "name": "Trinity Episcopal Church",
+    "short": "Trinity Episcopal Church",
+    "point": [
+      904,
+      1138
+    ],
+    "location": "South side of Jackson, between Wabash and Michigan",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/trinity-church/",
+    "fate": "Destroyed",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "This church opened in 1860. Following its destruction, the congregation rebuilt farther south."
+  },
+  {
+    "id": "holy-name",
+    "name": "Holy Name Cathedral",
+    "short": "Holy Name Cathedral",
+    "point": [
+      802,
+      346
+    ],
+    "location": "Northeast corner of State and Superior",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/holy-name-cathedral/",
+    "fate": "Gutted; ruined shell remained",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "The museum’s before-and-after photographs document the pre-fire cathedral and its ruined shell in the North Division."
+  },
+  {
+    "id": "st-james",
+    "name": "St. James Episcopal Church",
+    "short": "St. James Episcopal Church",
+    "point": [
+      832,
+      411
+    ],
+    "location": "Southeast corner of Cass and Huron",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/st-james-episcopal-church/",
+    "fate": "Gutted; bell tower largely survived",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "The congregation moved here in 1857. Photographs after the fire show a gutted church with its bell tower standing."
+  },
+  {
+    "id": "unity",
+    "name": "Unity Church",
+    "short": "Unity Church",
+    "point": [
+      746,
+      226
+    ],
+    "location": "Southeast corner of Dearborn and Walton",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/unity-church/",
+    "fate": "Gutted; portions of walls reused",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "The church opened in 1867. Robert Collyer preached among the ruins after the fire; surviving masonry was incorporated into its replacement."
+  },
+  {
+    "id": "new-england",
+    "name": "New England Church",
+    "short": "New England Church",
+    "point": [
+      746,
+      252
+    ],
+    "location": "Northeast corner of Dearborn and Delaware",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/unity-church/",
+    "fate": "Destroyed",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "The Congregational church stood just south of Unity Church. The museum’s photograph from the Water Tower shows the ruins of both churches."
+  },
+  {
+    "id": "grace",
+    "name": "Grace Methodist Church",
+    "short": "Grace Methodist Church",
+    "point": [
+      523,
+      303
+    ],
+    "location": "Northwest corner of Chicago Avenue and LaSalle",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/grace-methodist-church/",
+    "fate": "Destroyed",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "Dedicated in 1868, the church was destroyed during the fire. The congregation gathered beside its ruins the following Sunday."
+  },
+  {
+    "id": "arnold",
+    "name": "Isaac N. Arnold House",
+    "short": "Isaac N. Arnold House",
+    "point": [
+      889,
+      414
+    ],
+    "location": "West side of Pine, between Erie and Huron",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/i-n-arnold-home/",
+    "fate": "Destroyed",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "Arnold’s home contained a substantial library, art and Lincoln memorabilia. The Waubansee stone from its garden survived as a fire relic."
+  },
+  {
+    "id": "rumsey",
+    "name": "George F. Rumsey House",
+    "short": "George F. Rumsey House",
+    "point": [
+      828,
+      379
+    ],
+    "location": "Huron Street, opposite St. James Church near Cass",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/rumsey-homes/",
+    "fate": "Destroyed",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "One of the Rumsey family’s North Division homes. Museum stereographs show the residence before the fire and its ruins afterward; its marker is approximate."
+  },
+  {
+    "id": "mccagg",
+    "name": "McCagg House & Conservatory",
+    "short": "McCagg House & Conservatory",
+    "point": [
+      623,
+      240
+    ],
+    "location": "West side of Clark, between Walton and Delaware",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/mccagg-conservatory/",
+    "fate": "House destroyed; conservatory substantially survived",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "The garden conservatory survived much better than the adjoining residence. The two structures must not be assigned the same fire outcome."
+  },
+  {
+    "id": "terrace",
+    "name": "Terrace Row",
+    "short": "Terrace Row",
+    "point": [
+      929,
+      1204
+    ],
+    "location": "Michigan Avenue, between Van Buren and Congress",
+    "category": "Museum-documented landmark",
+    "source": "https://greatchicagofire.org/landmarks/michigan-avenue-and-terrace-row/",
+    "fate": "Destroyed",
+    "outcomeVerified": true,
+    "timeNote": "The source does not establish a reliable ignition time for this building.",
+    "text": "This row comprised eleven attached luxury homes, built in 1856. The marker represents the complex, without inventing individual house footprints."
+  }
+]

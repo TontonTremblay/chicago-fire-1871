@@ -1,0 +1,4562 @@
+[
+  {
+    "url": "https://chicagology.com/prefire/prefire052/",
+    "error": "'NoneType' object has no attribute 'group'",
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "url": "https://chicagology.com/prefire/prefire080/",
+    "error": "'NoneType' object has no attribute 'group'",
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "url": "https://chicagology.com/prefire/prefire186/",
+    "error": "'NoneType' object has no attribute 'group'",
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "url": "https://chicagology.com/prefire/prefire289/",
+    "error": "'NoneType' object has no attribute 'group'",
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "112-126 Lake Street",
+    "url": "https://chicagology.com/prefire/prefire161/",
+    "Life Span": "1852-1871",
+    "Address": "112-126 Lake Street Between Dearborn and Clark Streets,  15 and 17 Clark",
+    "Architect": "Unknown, but owners were Walter and Edward Wright, Chicago Lawyers.",
+    "Building Name(s)": "112-126 Lake Street, Palmer’s Dry Goods & Carpets, Field, Palmer & Leiter, Field Leter Wholesale Dry Goods",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/112to126lakestreet1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-161",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "128-130 Lake Street",
+    "url": "https://chicagology.com/prefire/prefire119/",
+    "Life Span": "1855/1871",
+    "Address": "130 Lake, and 18, 20 and 22  Clark",
+    "Architect": "F. &  E. Baumann",
+    "Building Name(s)": "128-130 Lake Street, U. S. Express, Culver, Page & Hoyne I",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/128130lakestreet1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-119",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "15 to 21 Randolph Street",
+    "url": "https://chicagology.com/prefire/prefire475/",
+    "Life Span": "1865-1871",
+    "Address": "15 to 21 Randolph Street",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1869",
+    "Building Name(s)": "15 to 21 Randolph Street",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/bowenbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-475",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "164 Clark Street",
+    "url": "https://chicagology.com/prefire/prefire467/",
+    "Life Span": "1866-1871",
+    "Address": "164 Clark",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "Building Name(s)": "164 Clark, Cox & Donahue,",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/164clarkbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-467",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "176-178 Clark Street",
+    "url": "https://chicagology.com/prefire/prefire468/",
+    "Life Span": "1857-1871",
+    "Address": "176-178 Clark, NW corner Monroe",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "Building Name(s)": "176-178 Clark Street, Henry Landreth Store",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/176178clark1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-443",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "179-181 Randolph",
+    "url": "https://chicagology.com/prefire/prefire380/",
+    "Life Span": "1858-1871",
+    "Location": "179-181 Randolph, adjacent to Brigg’s House",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/williamblair1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-208",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "1804—Chicago’s First White Child",
+    "url": "https://chicagology.com/prefire/prefire423/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1823—Chicago’s First Wedding",
+    "url": "https://chicagology.com/prefire/prefire422/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1837—Society in America, Harriet Martineau",
+    "url": "https://chicagology.com/prefire/prefire421/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1844-1871—Chicago’s City  Directories",
+    "url": "https://chicagology.com/prefire/prefire210/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1846-1849 Buildings",
+    "url": "https://chicagology.com/prefire/prefire350/",
+    "Life Span": "1846-Various",
+    "Location": "Several",
+    "Architect": "John M. Van Osdel and others",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1850-1933—Englewood",
+    "url": "https://chicagology.com/prefire/prefire263/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1855—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire337/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1855—Raising Chicago",
+    "url": "https://chicagology.com/prefire/prefire165/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1856—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire267/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1857—Chicago Magazine",
+    "url": "https://chicagology.com/prefire/prefire272/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1857—History of Chicago",
+    "url": "https://chicagology.com/prefire/prefire351/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1857—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire266/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1857—Sign Raid",
+    "url": "https://chicagology.com/prefire/prefire415/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1859-1871—Chicago City Railroad Company",
+    "url": "https://chicagology.com/prefire/prefire372/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1859—Great West Division Fire",
+    "url": "https://chicagology.com/prefire/prefire303/",
+    "Life Span": "~1850-1859",
+    "Address": "Four blocks bordering Canal, Fulton, Lake Jefferson",
+    "Architect": "Various",
+    "Building Name(s)": "Cleveland House, Audubon House, Mackinaw House, E. W. Blatchford Lead Factory",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1859—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire357/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1861—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire359/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1863—The Great North Western Sanitary Fair",
+    "url": "https://chicagology.com/prefire/prefire364/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1864—Chicago Tribune History",
+    "url": "https://chicagology.com/prefire/prefire402/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1864—Chicago, the Metropolis of the North West",
+    "url": "https://chicagology.com/prefire/prefire287/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1864—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire360/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1865-1871—Chicago Fire Alarm Boxes",
+    "url": "https://chicagology.com/prefire/prefire264/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1865—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire362/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1865—The Great North Western Sanitary Fair",
+    "url": "https://chicagology.com/prefire/prefire365/",
+    "Life Span": "May 30 – June 24, 1865",
+    "Location": "Dearborn Park",
+    "Architect": "Mr. A. Bauer",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1866—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire367/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1867—Chicago’s Suburbs",
+    "url": "https://chicagology.com/prefire/prefire027/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1867—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire369/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1868—Biographical Sketches of the Leading Men of Chicago",
+    "url": "https://chicagology.com/prefire/prefire167/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1868—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire347/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1869—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire449/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1869—Women’s Suffrage Convention",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire183/",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/youngmensassoclibrary1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "1870—New Buildings",
+    "url": "https://chicagology.com/prefire/prefire453/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "72-76 Lake Street",
+    "url": "https://chicagology.com/prefire/prefire250/",
+    "Life Span": "1855-1871",
+    "Address": "72-76 Lake Street, between State and Dearborn",
+    "Architect": "William W. Boyington",
+    "Building Name(s)": "Bowen Brothers Dry Goods, Wills, Bowen, Dillenback & Co., 100 Lake Street (1852-1854), Bowen Brothers, 72, 74, 76 Lake Street (1854-1864),",
+    "maps": [],
+    "atlasRecord": "catalogue-250",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "96-102 Lake Street",
+    "url": "https://chicagology.com/prefire/prefire321/",
+    "Life Span": "~1857-1871",
+    "Address": "96-102 Lake Street, NW corner Lake and Dearborn",
+    "Architect": "Edward Burling",
+    "Building Name(s)": "96-102 Lake Street, American Express Company, American Merchants’ Union Express Co.",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/americanexpress1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-321",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "A. H. Andrews I",
+    "url": "https://chicagology.com/prefire/prefire195/",
+    "Life Span": "1869-1871",
+    "Address": "111 State street",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/ahandrews111state1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-195",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Academy of Design",
+    "url": "https://chicagology.com/prefire/prefire077/",
+    "Life Span": "1870-1871",
+    "Address": "66 and 68 Adams, Adams Street near State Street",
+    "Architect": "Unknown",
+    "Building Name(s)": "Academy of Design, Chicago Academy of Design",
+    "maps": [],
+    "atlasRecord": "catalogue-077",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Adams House I",
+    "url": "https://chicagology.com/prefire/prefire025/",
+    "Life Span": "1858-1871",
+    "Address": "2 Lake Street, NE Corner Michigan and Lake Streets",
+    "Architect": "TBD",
+    "Building Name(s)": "Adams House I",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/adamshouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-025",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Aetna Building",
+    "url": "https://chicagology.com/prefire/prefire473/",
+    "Life Span": "1865-1871",
+    "Address": "84-86 La Salle street, bet. Randolph and Washington streets",
+    "Architect": "Boyington & Foster",
+    "Building Name(s)": "Aetna Building",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/aetnabuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-473",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Alexnder Hesler",
+    "url": "https://chicagology.com/prefire/prefire072/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "American Temperance House",
+    "url": "https://chicagology.com/prefire/prefire484/",
+    "Life Span": "~1843-1856",
+    "Address": "NW corner Lake and Wabash",
+    "Architect": "Unknown",
+    "Building Name(s)": "American Temperance House, American House",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Andrews’  Building I",
+    "url": "https://chicagology.com/prefire/prefire035/",
+    "Life Span": "1868-1871",
+    "Address": "145-147 La Salle street, near Madison",
+    "Architect": "T. V. Wadskier",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/andrewsbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-035",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Arcade Building",
+    "url": "https://chicagology.com/prefire/prefire007/",
+    "Life Span": "1869-1871",
+    "Address": "158-160 S. Clark, West side Clark bet. Madison and  Monroe.",
+    "Architect": "T. V. Wadskier",
+    "Building Name(s)": "Arcade Building",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/arcadebuildingssite1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-007",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Arlington Hall",
+    "url": "https://chicagology.com/prefire/prefire206/",
+    "Life Span": "1867-1871",
+    "Address": "124 Washington, between Clark and LaSalle streets",
+    "Architect": "W. W. Boyington",
+    "Building Name(s)": "Arlington Hall",
+    "maps": [],
+    "atlasRecord": "catalogue-206",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Armory & Police Court",
+    "url": "https://chicagology.com/prefire/prefire144/",
+    "Life Span": "1856-1871",
+    "Location": "SW Corner Adams and Franklin Streets",
+    "Architect": "Messrs. John M. Van Osdel & Frederick Baumann",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/armory1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-144",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Armour Building I",
+    "url": "https://chicagology.com/prefire/prefire107/",
+    "Life Span": "1867-1871",
+    "Address": "98-104 Michigan avenue, NE corner of Randolph.",
+    "Architect": "Edw. Burling & Co.",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/armourpullmanbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-107",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Artesian Wells",
+    "url": "https://chicagology.com/prefire/prefire037/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Avenue House",
+    "url": "https://chicagology.com/prefire/prefire066/",
+    "Life Span": "1870-1871",
+    "Location": "NW Corner of Wabash avenue and Twenty-second street",
+    "Architect": "Edward Burling",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "B. F. Chase Company",
+    "url": "https://chicagology.com/prefire/prefire398/",
+    "Life Span": "1858-1871",
+    "Location": "South side of Randolph Street, 50 feet east of Dearborn",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/bfchase1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-398",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "B. F. Tobin Jewelry Store",
+    "url": "https://chicagology.com/prefire/prefire158/",
+    "Life Span": "~1864-1871",
+    "Location": "NE cor. Clark and Madison",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/tobinjewelrystore1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-158",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Barnes House",
+    "url": "https://chicagology.com/prefire/prefire188/",
+    "Life Span": "1867-1908",
+    "Location": "Southwest Corner Randolph and Canal Streets",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1869",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/barneshotel1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-188",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bennett Pieters & Co.",
+    "url": "https://chicagology.com/prefire/prefire294/",
+    "Life Span": "1866-1871",
+    "Location": "31 and 33 Michigan av.",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863-64",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/bennettpieters1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-294",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bigelow House",
+    "url": "https://chicagology.com/prefire/prefire131/",
+    "Life Span": "1870-1871",
+    "Address": "SW corner of Adams and Dearborn streets",
+    "Architect": "John K. Winchell",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire/bigelowhouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-131",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bliss, Moore & Co.",
+    "url": "https://chicagology.com/prefire/prefire319/",
+    "Life Span": "~1868-1871",
+    "Location": "46 and 48 Michigan av",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1867",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/blissmooreco1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-319",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Board of Trade",
+    "url": "https://chicagology.com/prefire/prefire285/",
+    "Life Span": "1859-",
+    "Location": "South Water Street near Wells",
+    "Architect": "John M. Van Osdell",
+    "maps": [],
+    "atlasRecord": "catalogue-285",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bookseller’s Row",
+    "url": "https://chicagology.com/prefire/prefire065/",
+    "Life Span": "1869-1871",
+    "Location": "113-123 State Street, East side of State, between Washington and Madison Streets",
+    "Architect": "Wheelock & Thomas",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/sturgespageblock1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Boone Block I",
+    "url": "https://chicagology.com/prefire/prefire105/",
+    "Life Span": "1868-1871",
+    "Location": "East side of LaSalle street, between Washington and Madison",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/booneblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-105",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bowen Block",
+    "url": "https://chicagology.com/prefire/prefire213/",
+    "Life Span": "1869-1871",
+    "Location": "SE corner Wabash and Randolph",
+    "Architect": "W. W. Boyington",
+    "maps": [],
+    "atlasRecord": "catalogue-213",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bowen, Whitman & Winslow Building",
+    "url": "https://chicagology.com/prefire/prefire202/",
+    "Life Span": "1870-1871",
+    "Location": "129-137 State street, Southeast corner State and Madison",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/mourningstore1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-202",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Boyce Block",
+    "url": "https://chicagology.com/prefire/prefire346/",
+    "Life Span": "1871-1871 (Not completed",
+    "Location": "Northeast Corner State and Madison",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/fire/statemadison1869mapannotated.jpg"
+    ],
+    "atlasRecord": "catalogue-346",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bradner Smith Co",
+    "url": "https://chicagology.com/prefire/prefire342/",
+    "Life Span": "1853-1871",
+    "Location": "133 S. Water, between Dearborn and Clark",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/bradnersmith1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-342",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Briggs House I",
+    "url": "https://chicagology.com/prefire/prefire058/",
+    "Life Span": "1856-1871",
+    "Location": "NE corner of Wells and Randolph Streets",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/briggshouse1869map.jpg"
+    ],
+    "atlasRecord": "briggs",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Brunswick Billiard Tables & Factories",
+    "url": "https://chicagology.com/prefire/prefire162/",
+    "Life Span": "1858-1871",
+    "Location": "Lake Street Between Dearborn and Clark Streets",
+    "Architect": "Unknown, but owners were Walter and Edward Wright, Chicago Lawyers.",
+    "maps": [],
+    "atlasRecord": "catalogue-162",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bryan Block",
+    "url": "https://chicagology.com/prefire/prefire204/",
+    "Life Span": "1871-1871",
+    "Location": "Northwest corner La Salle and Monroe",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/bryanblocksite1869map.jpg"
+    ],
+    "atlasRecord": "bryan",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bryan Hall",
+    "url": "https://chicagology.com/prefire/prefire138/",
+    "Life Span": "1860-1871",
+    "Location": "89 Clark Street, across from the Court House",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/bryanhall1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-138",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Buck & Rayner Building I",
+    "url": "https://chicagology.com/prefire/prefire313/",
+    "Life Span": "1870-1871",
+    "Location": "Southwest corner of Madison and State streets",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/buckrayner1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-313",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Bull’s Head Tavern",
+    "url": "https://chicagology.com/prefire/prefire128/",
+    "Life Span": "1848-1875",
+    "Address": "West Madison street, Ogden avenue, and Ashland avenue.",
+    "Architect": "Built by Henry McAuley for Matthew Laflin",
+    "Building Name(s)": ", Bull’s Head Tavern, Union Park House, Washingtonian Home",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Burch Block I",
+    "url": "https://chicagology.com/prefire/prefire231/",
+    "Life Span": "1857-1868",
+    "Location": "Nos. 33 to 41 Lake Street",
+    "Address": "33-55 Lake, between Wabash and State, south side",
+    "Architect": "W. W. Boyington, Van Osdel & Baumann",
+    "Building Name(s)": ", South Iron Block, Burch’s Block I",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/ironblocks1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Burch Block II",
+    "url": "https://chicagology.com/prefire/prefire222/",
+    "Life Span": "1868-1871",
+    "Location": "SW corner Lake Street and Wabash Avenue",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1869",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/secondburchblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-222",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Burke’s European Hotel",
+    "url": "https://chicagology.com/prefire/prefire232/",
+    "Life Span": "1870-1871",
+    "Location": "Madison Street, between Clark and LaSalle streets",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1871",
+    "maps": [],
+    "atlasRecord": "catalogue-232",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Burnett House",
+    "url": "https://chicagology.com/prefire/prefire328/",
+    "Life Span": "~1850-after 1903",
+    "Location": "Architect:",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/stcharleshotel1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Business Houses Destroyed",
+    "url": "https://chicagology.com/prefire/prefire196/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Bygone Days of Chicago—Review",
+    "url": "https://chicagology.com/prefire/prefire191/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "C. M. Henderson",
+    "url": "https://chicagology.com/prefire/prefire248/",
+    "Life Span": "1864-1868",
+    "Location": "Michigan Avenue and Lake Street",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Calhoun’s Block",
+    "url": "https://chicagology.com/prefire/prefire311/",
+    "Life Span": "1859-1871",
+    "Location": "East side of Clark, bet. Washington and Madison.",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/calhounblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-311",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Calvary Cemetery",
+    "url": "https://chicagology.com/prefire/prefire140/",
+    "Life Span": "1860-Present",
+    "Location": "Architect: Edgar Sanders",
+    "Architect": "Edgar Sanders",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages5/1899calvarycemeterymapsanborn.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Camp Douglas",
+    "url": "https://chicagology.com/prefire/prefire155/",
+    "Life Span": "1861-1865",
+    "Location": "Thirty-first Street and Cottage Grove Avenue",
+    "Architect": "NA",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Carson, Pirie &  Co.",
+    "url": "https://chicagology.com/prefire/prefire224/",
+    "Life Span": "1865-1871",
+    "Location": "Several",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/carsonpirie1869map.jpg",
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/carsonpirieco1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Central Block",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire03/prefire089/",
+    "Life Span": "1868-1871",
+    "Location": "NE corner of Market and Washington",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/centralblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-089",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Central House",
+    "url": "https://chicagology.com/prefire/prefire332/",
+    "Life Span": "1864-1871",
+    "Location": "182 Randolph",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/centralhouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-332",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Chamber of Commerce",
+    "url": "https://chicagology.com/prefire/prefire043/",
+    "Life Span": "1865 – 1871",
+    "Location": "SE corner of Washington and LaSalle Streets",
+    "Architect": "Edward Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/chamberofcommerce1869map.jpg"
+    ],
+    "atlasRecord": "chamber",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Chapin Wood Yard",
+    "url": "https://chicagology.com/prefire/prefire113/",
+    "Life Span": "Location:",
+    "Location": "Architect: NA",
+    "Architect": "NA",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/chapinlumberyard1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Charies Shober, Lithographer",
+    "url": "https://chicagology.com/prefire/prefire211/",
+    "Life Span": "~1855-1871",
+    "Location": "Lake Street, Between Clark and Dearborn (109 Lake Street)",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/charlesshober1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-211",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Charles D. Mosher",
+    "url": "https://chicagology.com/prefire/prefire032/",
+    "Life Span": "1870-1871",
+    "Location": "30 Washington Street, West of Wabash on Washington Street, next to Mr. Brand’s Temple of Art at 28 Washington Street, and John Carbutt’s Studio at 34 Washington Street.",
+    "Architect": "NA",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/moshergallery1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-032",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Charles G. Smith Building",
+    "url": "https://chicagology.com/prefire/prefire376/",
+    "Life Span": "1864-1871",
+    "Location": "Northwest corner Randolph street and Michigan avenue",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/burnhamschaack1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-135",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Charles Tobey Furniture and Bedding",
+    "url": "https://chicagology.com/prefire/prefire104/",
+    "Life Span": "1857-1871",
+    "Location": "Southwest corner of State and Randolph Streets (1857 to 1862)",
+    "Architect": "John M. Van Osdel (1868)",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/tobeyfurniture1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chicago Gas Light and Coke Co.",
+    "url": "https://chicagology.com/prefire/prefire293/",
+    "Life Span": "1857-1871",
+    "Location": "Corner Monroe and Market streets",
+    "Architect": "D. B. Cooke’s City Directory for the Year 1859-60",
+    "maps": [],
+    "atlasRecord": "catalogue-293",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Chicago High School",
+    "url": "https://chicagology.com/prefire/prefire017/",
+    "Life Span": "1856-1950",
+    "Location": "Monroe Street near Halsted",
+    "Architect": "John M. Van Osdel and Frederick Baumann",
+    "maps": [],
+    "atlasRecord": "catalogue-017",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Chicago Historical Society I",
+    "url": "https://chicagology.com/prefire/prefire029/",
+    "Life Span": "1868-1871",
+    "Location": "NW Corner of Ontario and Dearborn Streets",
+    "Architect": "Edward Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/chicagohistoricalsociety1869map.jpg"
+    ],
+    "atlasRecord": "society",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Chicago House of Correction (The Bridewell)",
+    "url": "https://chicagology.com/prefire/prefire146/",
+    "Life Span": "1871-1928",
+    "Location": "26th and California",
+    "Architect": "John M. Van Osdel",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chicago Illustrated",
+    "url": "https://chicagology.com/prefire/prefire327/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chicago Mechanical Bakery",
+    "url": "https://chicagology.com/prefire/prefire168/",
+    "Life Span": "1858-1870",
+    "Location": "Nos. 192, 194 & 196 Lake street, Clinton near Lake street",
+    "Architect": "Burling & Smith",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chicago Name Origin new",
+    "url": "https://chicagology.com/prefire/prefire282/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chicago Orphan Asylum",
+    "url": "https://chicagology.com/prefire/prefire009/",
+    "Life Span": "1853-1916",
+    "Location": "2228 S. Michigan Ave.",
+    "Architect": "Burling and Baumann",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chicago Public Schools",
+    "url": "https://chicagology.com/prefire/prefire358/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chicago Real Estate Journal Building",
+    "url": "https://chicagology.com/prefire/prefire396/",
+    "Life Span": "1868-1871",
+    "Location": "129 Dearborn",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1870",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/chicagorealestatejournalmap1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-396",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Chicago Republican",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire091/",
+    "Life Span": "1864-1871",
+    "Location": "93 Washington, between Dearborn and Clark streets",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/chicagorepublicanbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-091",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Chicago Steam Sugar Refinery",
+    "url": "https://chicagology.com/prefire/prefire229/",
+    "Life Span": "1859-1871",
+    "Location": "N. Water, East of Rush Street Bridge",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/sugarrefinery1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-229",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Chicago Times Building I, II & III",
+    "url": "https://chicagology.com/prefire/prefire143/",
+    "Life Span": "1856-1871",
+    "Location": "Times I 110 S Dearborn",
+    "Architect": "Times III A. L. Wheelock",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/timesbuilding1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chicago Type Foundry—Marder, Luse & Co. I",
+    "url": "https://chicagology.com/prefire/prefire163/",
+    "Life Span": "1857-1871",
+    "Location": "90 Washington Street, between Clark and Dearborn, Moved to 139 Monroe (1869)",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/marderluse1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chicago’s Early Saddlers",
+    "url": "https://chicagology.com/prefire/prefire178/",
+    "Life Span": "1858-1867",
+    "Location": "Several",
+    "Architect": "Various",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Chittenden’s Block",
+    "url": "https://chicagology.com/prefire/prefire240/",
+    "Life Span": "1864-1871",
+    "Location": "Dearborn street, between Randolph and Couch place1",
+    "Architect": "Otis L. Wheelock, T. V. Wadskier (Blaney’s Hall)",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/chittendenbank1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Church of the Holy Family",
+    "url": "https://chicagology.com/prefire/prefire226/",
+    "Life Span": "1860-Present",
+    "Location": "Eleventh, Twelfth and May streets",
+    "Architect": "Dillenberg and Zucker (exterior), John. M. Van Osdel (interior), John Huber (tower)",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Church, Goodman & Donnelley",
+    "url": "https://chicagology.com/prefire/prefire012/",
+    "Life Span": "1868-1871",
+    "Location": "108-110 Dearborn",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/goodmandonnelley1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "City Hospital",
+    "url": "https://chicagology.com/prefire/prefire269/",
+    "Life Span": "1859-1875",
+    "Location": "Architect: TBD",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/cookcountyhospital1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "City Hotel",
+    "url": "https://chicagology.com/prefire/prefire192/",
+    "Life Span": "1848-1871",
+    "Location": "SE Corner of State and Lake Streets",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/cityhotel1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-192",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Clarendon House",
+    "url": "https://chicagology.com/prefire/prefire097/",
+    "Life Span": "1859-1866",
+    "Location": "322 Randolph street",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859-60",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Clark Street Methodist Episcopal Church",
+    "url": "https://chicagology.com/prefire/prefire220/",
+    "Life Span": "1858-1871",
+    "Location": "Clark and Washington Streets",
+    "Architect": "Edward Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/clarkstreetmethodist1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Clarke School",
+    "url": "https://chicagology.com/prefire/prefire151/",
+    "Life Span": "1869-~1948",
+    "Location": "13th and Ashland Streets",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Cleveland House II",
+    "url": "https://chicagology.com/prefire/prefire481/",
+    "Life Span": "1863-1871",
+    "Address": "SE corner Clark and Kinzie streets",
+    "Architect": "Various",
+    "Building Name(s)": "Cleveland House II",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/clevelandhouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-481",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Clifton House",
+    "url": "https://chicagology.com/prefire/prefire259/",
+    "Life Span": "1856-1871",
+    "Location": "SE corner Madison and Wabash",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/cliftonhouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-259",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Coan & Ten Broeke Carriage Manufacturing Co.",
+    "url": "https://chicagology.com/prefire/prefire063/",
+    "Life Span": "1860-1886",
+    "Location": "No. 43 Randolph street, Northwest corner of Randolph and Ann streets",
+    "Architect": "Unknown",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Collins & Burgie Stove Works I",
+    "url": "https://chicagology.com/prefire/prefire399/",
+    "Life Span": "1857-after 1872",
+    "Location": "Jefferson, s.w. cor. Vanburen.",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [],
+    "atlasRecord": "catalogue-399",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Colored School",
+    "url": "https://chicagology.com/prefire/prefire305/",
+    "Life Span": "June, 1863-April, 1865.",
+    "Location": "Corner of Fourth Avenue and Taylor street",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Commercial Building",
+    "url": "https://chicagology.com/prefire/prefire368/",
+    "Life Span": "1868-1871",
+    "Location": "SW corner Lake and LaSalle streets",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1869",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/commercialbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-368",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Commercial Insurance Company",
+    "url": "https://chicagology.com/prefire/prefire239/",
+    "Life Span": "1868-1871",
+    "Location": "160-162 Washington Street, Washington, between La Salle and Wells Street (Fifth avenue after October, 1870)",
+    "Architect": "Augustus Bauer",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/commercialinsurancebuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-239",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Cook County Insane Asylum and Poor House",
+    "url": "https://chicagology.com/prefire/prefire483/",
+    "Life Span": "1870-",
+    "Address": "Dunning, IL",
+    "Architect": "L. B. Dixon",
+    "Building Name(s)": "Cook County Insane Asylum",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Cooley, Farwell & Co.",
+    "url": "https://chicagology.com/prefire/prefire115/",
+    "Life Span": "1856-1871",
+    "Location": "NE Corner Wabash Avenue and Benton Place (Wabash, Between Lake and Randolph)",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/jvfarwellco1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-115",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Copelin & Melander",
+    "url": "https://chicagology.com/prefire/prefire322/",
+    "Life Span": "~1857-1871",
+    "Location": "Architect:",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1866",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/copelinmelander1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Courthouse I & II",
+    "url": "https://chicagology.com/prefire/prefire001/",
+    "Life Span": "1837-1842",
+    "Location": "SE corner of Lake and Clark streets",
+    "Architect": "NA",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Courthouse II",
+    "url": "https://chicagology.com/prefire/prefire016/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Courthouse III",
+    "url": "https://chicagology.com/prefire/prefire002/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Courthouse IV",
+    "url": "https://chicagology.com/prefire/prefire003/",
+    "Life Span": "1853-1871",
+    "Address": "LaSalle, Washington, Clark and Randolph Streets.",
+    "Architect": "John M. Van Osdel, Rufus Rose (wings extension)",
+    "Building Name(s)": "Court House",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/courthouseiv1869map.jpg"
+    ],
+    "atlasRecord": "court",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Crane Brothers Manufacturing Co.",
+    "url": "https://chicagology.com/prefire/prefire126/",
+    "Life Span": "1865-Present",
+    "Address": "154 – 166 North Jefferson Street",
+    "Architect": "Various",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Crosby Opera House and Crosby Building",
+    "url": "https://chicagology.com/prefire/prefire083/",
+    "Life Span": "1864-1871",
+    "Location": "Crosby Opera House, 69 Washington, North side of Washington between Dearborn and State Streets",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/crosbyoperahouseandbuilding1869map.jpg"
+    ],
+    "atlasRecord": "opera",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Culver, Page & Hoyne II",
+    "url": "https://chicagology.com/prefire/prefire457/",
+    "Life Span": "1871-1871",
+    "Location": "Monroe street, between Clark and LaSalle",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1871",
+    "maps": [],
+    "atlasRecord": "catalogue-457",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Dater, Whaling & Co State Mills",
+    "url": "https://chicagology.com/prefire/prefire317/",
+    "Life Span": "1866-1871",
+    "Location": "SW Market cor Quincy",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/daterwhalingstatemill1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-317",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "DeGraff’s Clothing Store",
+    "url": "https://chicagology.com/prefire/prefire382/",
+    "Life Span": "1864-1871",
+    "Location": "64, 66 and 68 Randolph",
+    "Architect": "Halpin’s Chicago City Directory for 1864",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/degraffstore1869,map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "DeHaven Block",
+    "url": "https://chicagology.com/prefire/prefire437/",
+    "Life Span": "1871-1871",
+    "Location": "238 Dearborn street, West side Dearborn, between Quincy and Jackson",
+    "Architect": "John K. Winchell",
+    "maps": [],
+    "atlasRecord": "catalogue-437",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Dean Richmond",
+    "url": "https://chicagology.com/prefire/prefire427/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Dearborn Block I",
+    "url": "https://chicagology.com/prefire/prefire135/",
+    "Life Span": "1868-1871",
+    "Location": "NW Corner of Randolph Street and Michigan Avenue",
+    "Architect": "Wm. A. Butters",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/dearbornbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-135",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Dearborn Observatory",
+    "url": "https://chicagology.com/prefire/prefire189/",
+    "Life Span": "1865-1886, 1889-Present (Evanston)",
+    "Location": "Chicago University, 3400 S Cottage Grove",
+    "Architect": "W. W. Boyington",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Dearborn Park",
+    "url": "https://chicagology.com/prefire/prefire237/",
+    "Life Span": "1860-1896",
+    "Location": "Michigan Avenue, between Randolph and Washington streets",
+    "Architect": "NA",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/dearbornpark1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Dearborn School No. 1",
+    "url": "https://chicagology.com/prefire/prefire125/",
+    "Life Span": "1845-1871",
+    "Location": "North side of Madison street between Dearborn and State streets",
+    "Architect": "Ira Miltimore",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/dearbornschool1869map.jpg"
+    ],
+    "atlasRecord": "plan-063",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Dearborn Street Opera House",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire01/prefire395/",
+    "Life Span": "About 1860-1868",
+    "Location": "Dearborn between Washington and Madison",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/comiqueoperalot1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Dearborn Street Theatre",
+    "url": "https://chicagology.com/prefire/prefire020/",
+    "Life Span": "1869-1871",
+    "Location": "111-113 Dearborn Street, Between Madison & Washington Streets",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/dearborntheater1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-020",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Dickey’s Building",
+    "url": "https://chicagology.com/prefire/prefire205/",
+    "Life Span": "1859-1871",
+    "Location": "SW Corner Lake and Dearborn Streets, No. 99 Lake Street",
+    "Architect": "E. Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/dickeysbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-205",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Dole’s Building",
+    "url": "https://chicagology.com/prefire/prefire344/",
+    "Life Span": "~1860-1871",
+    "Location": "146-154 S. Water, NW Corner at Clark",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/nwcorclarksowater1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-344",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Dore School",
+    "url": "https://chicagology.com/prefire/prefire409/",
+    "Life Span": "1868-~1950; Addition 1893",
+    "Location": "Corner of Harrison and Desplaines",
+    "Architect": "A. Bauer",
+    "maps": [],
+    "atlasRecord": "catalogue-409",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Downer & Bemis Brewing Co.",
+    "url": "https://chicagology.com/prefire/prefire242/",
+    "Life Span": "1859-1920",
+    "Location": "24th Street and South Park (formerly Kankakee av)",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Drake Block I and II",
+    "url": "https://chicagology.com/prefire/prefire076/",
+    "Life Span": "1869-1870 (I)",
+    "Location": "East side of Wabash avenue between Washington and Madison streets",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/drakeblockfire1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "E. W. Blatchford Lead Factory & Chicago Shot Tower Companies",
+    "url": "https://chicagology.com/prefire/prefire004/",
+    "Life Span": "1857/1868-1901",
+    "Location": "70 N. Clinton, Southwest corner of Clinton and Fulton streets",
+    "Architect": "Wm. Backus & Co.",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire/chicagoshottower1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-004",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Early Street Maps of Chicago",
+    "url": "https://chicagology.com/prefire/prefire275/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Edward Ely, Tailor",
+    "url": "https://chicagology.com/prefire/prefire177/",
+    "Life Span": "1830-1891",
+    "Location": "Washington and Dearborn Streets",
+    "Architect": "NA.",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/kingsblock1869map.jpg",
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/ely2washingtonstreet1869mapo.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Edwin L. Brand",
+    "url": "https://chicagology.com/prefire/prefire006/",
+    "Life Span": "1869-1871",
+    "Location": "28 Washington Street",
+    "Architect": "Kinney & Adler",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/brandstemple1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-006",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Eleven-Mile House",
+    "url": "https://chicagology.com/prefire/prefire429/",
+    "Life Span": "1838-1961",
+    "Location": "9150 S. State",
+    "Architect": "Old Chicago Houses, John Drury, 1941",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Evans Block",
+    "url": "https://chicagology.com/prefire/prefire404/",
+    "Life Span": "1852-1871",
+    "Location": "East Side of Clark street, south of the alley between Lake and Randolph",
+    "Architect": "Dr. John Evans and Dr. Daniel Brainerd",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/evansblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-404",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Evening Post II",
+    "url": "https://chicagology.com/prefire/prefire445/",
+    "Life Span": "1868-1871",
+    "Location": "South side Madison, bet. Dearborn and Clark",
+    "Architect": "A. Baur & Co.",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/dailynewsstaatszeitungbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-445",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Everett House",
+    "url": "https://chicagology.com/prefire/prefire374/",
+    "Life Span": "1850-1871",
+    "Location": "NE Corner Clark and Van Buren, near Michigan Southern and Rock Island Depot",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/everetthouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-374",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Ewing Block",
+    "url": "https://chicagology.com/prefire/prefire485/",
+    "Life Span": "1860-1871",
+    "Address": "20-32 N Clark, NE corner North Water street",
+    "Architect": "Unknown",
+    "Building Name(s)": "Ewing Block",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/ewingblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-485",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Exchange Bank Building",
+    "url": "https://chicagology.com/prefire/prefire214/",
+    "Life Span": "1854-1871",
+    "Location": "Southwest corner Lake and Clark.",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/exchangebank1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-214",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Farwell, Brinkerhoff, Smith & Stearns Building",
+    "url": "https://chicagology.com/prefire/prefire335/",
+    "Life Span": "1870-1871",
+    "Location": "159 to 161 Washington, Between LaSalle and Wells",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/charlesfarwellbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-335",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Fidelity Safe Deposit Building I",
+    "url": "https://chicagology.com/prefire/prefire137/",
+    "Life Span": "1871-1871",
+    "Location": "No. 143 Randolph Street",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1871",
+    "maps": [],
+    "atlasRecord": "catalogue-137",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Field Leiter Building (Potter Palmer Block)",
+    "url": "https://chicagology.com/prefire/prefire070/",
+    "Location": "NE Corner of State and Washington",
+    "Architect": "John Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/fieldleiter1869map.jpg"
+    ],
+    "atlasRecord": "field",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Fire Extinguisher Manufacturing Company",
+    "url": "https://chicagology.com/prefire/prefire223/",
+    "Life Span": "Unknown",
+    "Location": "315-323 South Desplaines Street",
+    "Architect": "Unknown",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "First Baptist Church I",
+    "url": "https://chicagology.com/prefire/prefire281/",
+    "Life Span": "1844-1852",
+    "Location": "SE Corner LaSalle and Washington",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "First Baptist Church II",
+    "url": "https://chicagology.com/prefire/prefire101/",
+    "Life Span": "1853/1864-1949",
+    "Location": "SE Corner of Washington and LaSalle Streets, moved in 1864 to  SE corner of Morgan and Monroe streets as the Second Baptist Church",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "First Baptist Church III",
+    "url": "https://chicagology.com/prefire/prefire280/",
+    "Life Span": "1866-1874",
+    "Location": "SW corner Wabash Avenue and Hubbard Court",
+    "Architect": "W. W. Boyington",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "First National Bank II",
+    "url": "https://chicagology.com/prefire/prefire068/",
+    "Life Span": "1868-1871",
+    "Location": "SW corner of State and Washington Streets",
+    "Architect": "Edward Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/firstnationalbank1869map.jpg"
+    ],
+    "atlasRecord": "plan-044",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "First Presbyterian Church",
+    "url": "https://chicagology.com/prefire/prefire286/",
+    "Life Span": "1857-1871",
+    "Location": "Wabash avenue, between Congress and Van Buren",
+    "Architect": "Boyington & Wheelock",
+    "maps": [],
+    "atlasRecord": "catalogue-286",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Fort Dearborn I",
+    "url": "https://chicagology.com/prefire/prefire274/",
+    "Life Span": "1803-1812",
+    "Location": "Mouth of Chicago River",
+    "Architect": "John Whistler (Builder)",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Foster House",
+    "url": "https://chicagology.com/prefire/prefire315/",
+    "Life Span": "~1857-1871",
+    "Location": "NE Corner Clark and Kinzie",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/reverehouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-315",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Franklin School No. 5",
+    "url": "https://chicagology.com/prefire/prefire310/",
+    "Life Span": "1852/1869-1871",
+    "Location": "Division  and Sedgwick",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Frink & Walker Stage Offices",
+    "url": "https://chicagology.com/prefire/prefire309/",
+    "Life Span": "1841-1888",
+    "Location": "SW corner of Lake and Dearborn sts., then moved to west side of State street, north of Twelfth street",
+    "Architect": "Norris’ Chicago Directory for the Year 1844",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Fullerton’s Block",
+    "url": "https://chicagology.com/prefire/prefire03/prefire081/",
+    "Life Span": "1864-1871",
+    "Location": "NW Corner of Washington and Dearborn Streets",
+    "Architect": "W.W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/kingsblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-081",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Fullerton’s Block",
+    "url": "https://chicagology.com/prefire/prefire081/",
+    "Life Span": "1864-1871",
+    "Location": "NW Corner of Washington and Dearborn Streets",
+    "Architect": "W.W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/kingsblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-081",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "G. T. Belding Building",
+    "url": "https://chicagology.com/prefire/prefire258/",
+    "Life Span": "1856-1871",
+    "Location": "Randolph Street, Near Dearborn",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/gtbbeldingbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-258",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Galena and Chicago Union Railroad North Side Depot",
+    "url": "https://chicagology.com/prefire/prefire090/",
+    "Life Span": "1852-1871",
+    "Location": "N. Wells cor N. Water",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/cnwstationenvirons1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-090",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Galena and Chicago Union Railroad West Side Depot",
+    "url": "https://chicagology.com/prefire/prefire300/",
+    "Life Span": "1848-1898",
+    "Location": "Kinzie and Canal streets",
+    "Architect": "J. D. Perkins",
+    "maps": [],
+    "atlasRecord": "catalogue-300",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Garrett Block I",
+    "url": "https://chicagology.com/prefire/prefire170/",
+    "Life Span": "1857-1871",
+    "Location": "Southeast Corner State and Randolph Streets",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/garrettblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-170",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Gault House",
+    "url": "https://chicagology.com/prefire/prefire048/",
+    "Life Span": "1870-1908",
+    "Location": "45-47 Madison St., corner Clinton Street",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": "catalogue-048",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "German House",
+    "url": "https://chicagology.com/prefire/prefire185/",
+    "Life Span": "1857-1871",
+    "Location": "N. Wells, se. cor. Indiana (Grand)",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/germanhouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-185",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Gottfried Brewing Company",
+    "url": "https://chicagology.com/prefire/prefire026/",
+    "Life Span": "1871-TBD",
+    "Location": "Archer and Stewart avenues (Near 22nd Place)",
+    "Architect": "NA",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Government Pier—Ogden Slip II",
+    "url": "https://chicagology.com/prefire/prefire371/",
+    "Life Span": "1868-Present",
+    "Location": "Foot of Michigan Street (Hubbard Street)",
+    "Architect": "Chicago Dock and Canal Company",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/michiganstreetsanborn1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Gowen Block",
+    "url": "https://chicagology.com/prefire/prefire295/",
+    "Life Span": "1869-1871",
+    "Location": "146, 148, 150 and 152 North Water Street",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859-60",
+    "maps": [],
+    "atlasRecord": "catalogue-295",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Grace Methodist Episcopal Church",
+    "url": "https://chicagology.com/prefire/prefire046/",
+    "Life Span": "1868-1871",
+    "Location": "Chicago avenue, NW corner LaSalle street",
+    "Architect": "Messrs. Loring & Jenney",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/gracemechurch1869map.jpg"
+    ],
+    "atlasRecord": "grace",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Great Central Depot",
+    "url": "https://chicagology.com/prefire/prefire023/",
+    "Location": "Michigan Avenue and South Water Street",
+    "Architect": "Otto Matz",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/grandcentralstationoverview1869map.jpg",
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/grandcentralstation1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Great Eastern Tea Company",
+    "url": "https://chicagology.com/prefire/prefire434/",
+    "Life Span": "1866-1871",
+    "Location": "NE corner Madison and Jefferson",
+    "Architect": "John C. W. Bailey’s Chicago City Directory for 1867",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/greateasternteacco1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-434",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Green Tree Tavern",
+    "url": "https://chicagology.com/prefire/prefire127/",
+    "Life Span": "1833-1902",
+    "Location": "Northeast Corner of Lake and Canal Streets, moved to Southeast Corner of Milwaukee Avenue and Fulton Street (31, 33, 35 and 37 Milwaukee Ave).",
+    "Architect": "Philo Cobb, through directions made by James Kinzie",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/lakestreethouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-127",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hale & Ayer Block",
+    "url": "https://chicagology.com/prefire/prefire478/",
+    "Life Span": "1866-1871",
+    "Address": "74, 76 and 78 Michigan av., southeast corner of Lake",
+    "Architect": "John M. Van Osdel",
+    "Building Name(s)": "Hale & Ayer Block",
+    "maps": [],
+    "atlasRecord": "catalogue-478",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hale Block I",
+    "url": "https://chicagology.com/prefire/prefire074/",
+    "Life Span": "1871-1871",
+    "Location": "SE Corner of Washington and State Streets",
+    "Architect": "Edward. S. Jennison",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire/haleblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-074",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hall, Kimbark & Co.  I",
+    "url": "https://chicagology.com/prefire/prefire024/",
+    "Life Span": "1858-1871",
+    "Address": "190 and 192 Washington",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859-60",
+    "Building Name(s)": "E. G. Hall & Co., Hale & Ayer Building",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/190192washington1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-024",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hall, Kimbark & Co. II",
+    "url": "https://chicagology.com/prefire/prefire461/",
+    "Life Span": "1862-1871",
+    "Address": "193 and 195 Water Street",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863-64",
+    "Building Name(s)": "Hall, Kimbark & Co. II",
+    "maps": [],
+    "atlasRecord": "catalogue-461",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hall, Kimbark & Co. III",
+    "url": "https://chicagology.com/prefire/prefire464/",
+    "Life Span": "1866-1871",
+    "Address": "80, 82 and 84 Michigan avenue, between Lake and Randolph",
+    "Architect": "John M. Van Osdel",
+    "Building Name(s)": "Hall, Kimbark & Co.",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/hallkimbark1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-464",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hatch House I,  Wright’s Hotel & Maulton House I",
+    "url": "https://chicagology.com/prefire/prefire299/",
+    "Life Span": "1855-1871 (Scott/Wright)",
+    "Location": "North Wells Street Between Kinzie and the River",
+    "Architect": "Robert Fergus Chicago City Directory 1855-6",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/cnwstationenvirons1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-299",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Haven School I",
+    "url": "https://chicagology.com/prefire/prefire111/",
+    "Life Span": "1862-1884",
+    "Location": "15th Street and Wabash Avenue (North of 16th street)",
+    "Architect": "Gurdon P. Randall",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Healy Slough",
+    "url": "https://chicagology.com/prefire/prefire235/",
+    "Life Span": "1850-1915",
+    "Location": "Archer Avenue and Halsted Steet",
+    "Architect": "NA",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Henry B. Clarke House",
+    "url": "https://chicagology.com/prefire/prefire108/",
+    "Life Span": "1836-Present",
+    "Location": "Between 16th and 17th Streets on Michigan (1836-1872)",
+    "Architect": "From plans drawn by John M. Van Osdel",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Hibbard & Spencer",
+    "url": "https://chicagology.com/prefire/prefire438/",
+    "Life Span": "1867-1871",
+    "Address": "92 and 94 Michigan ave., between Lake and Randolph",
+    "Architect": "John M. Van Osdel",
+    "Building Name(s)": "Hibbard & Spencer",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/hibbardspencer1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-438",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hilliard’s Block",
+    "url": "https://chicagology.com/prefire/prefire343/",
+    "Life Span": "1855-1870",
+    "Address": "138-144 S. Water, NE Corner, Clark",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/necornersouthriverstreet1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Hiram Higgins Pianos",
+    "url": "https://chicagology.com/prefire/prefire366/",
+    "Life Span": "~1862-1871",
+    "Location": "150 Clark street, between Monroe and Madison streets",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/nixonsexchange1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-366",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "History of Chicago—Part 5—Illinois and Michigan Canal",
+    "url": "https://chicagology.com/prefire/prefire356/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Holy Name Cathedral I",
+    "url": "https://chicagology.com/prefire/prefire182/",
+    "Life Span": "1854-1871",
+    "Location": "State and Superior Streets1",
+    "Architect": "Burling & Baumann",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/holynamecathedral1869map.jpg"
+    ],
+    "atlasRecord": "holy-name",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Honoré Blocks I",
+    "url": "https://chicagology.com/prefire/prefire013/",
+    "Life Span": "1870-1871",
+    "Location": "SW corner Dearborn and Monroe Streets and NW corner of Dearborn and Adams streets (186 Dearborn)",
+    "Architect": "Otis L. Wheelock",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/honoreblocksite1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-013",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hotel May",
+    "url": "https://chicagology.com/prefire/prefire290/",
+    "Life Span": "~1857-1871",
+    "Location": "Wells street, near Randolph st",
+    "Architect": "Unknown",
+    "maps": [],
+    "atlasRecord": "catalogue-290",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hough House",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire04/prefire093/",
+    "Life Span": "1865-After 1911",
+    "Location": "42nd and Halsted Streets",
+    "Architect": "Edwards’ Annual Directory of the City of Chicago, for 1867",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Hough House",
+    "url": "https://chicagology.com/prefire/prefire093/",
+    "Life Span": "1865-After 1911",
+    "Location": "42nd and Halsted Streets",
+    "Architect": "Edwards’ Annual Directory of the City of Chicago, for 1867",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Hovey & Co.",
+    "url": "https://chicagology.com/prefire/prefire420/",
+    "Life Span": "1867-1871",
+    "Location": "State street, near NE corner Randolph",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/hoveyandnichols1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-420",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Hurlbut & Edsall Building",
+    "url": "https://chicagology.com/prefire/prefire318/",
+    "Life Span": "~1857-1871",
+    "Location": "32 Lake",
+    "Architect": "Tuttle, Hibbard & Co., (Nelson Tuttle, Frederick Tuttle, William G. Hibbard and George M. Gray), hardware, 32 Lake",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/hurlbutedsallcompany1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-297",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Ice Skating Rinks",
+    "url": "https://chicagology.com/prefire/prefire069/",
+    "Life Span": "1865-1867, Rebuilt 1868-1869",
+    "Location": "Corner of Wabash and Jackson streets",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Illinois Central Land Department",
+    "url": "https://chicagology.com/prefire/prefire209/",
+    "Life Span": "1865-1871",
+    "Location": "Michigan avenue, between Lake and South Water",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/illinoiscentrallanddepartmentbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-209",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Illustrated Chicago News",
+    "url": "https://chicagology.com/prefire/prefire381/",
+    "Life Span": "1868-1868",
+    "Location": "42 Sherman Street, south of Van Buren",
+    "Architect": "NA",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/illustratedchicago1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Irish Republic",
+    "url": "https://chicagology.com/prefire/prefire387/",
+    "Life Span": "1867-1871",
+    "Location": "84 Washington Street",
+    "Architect": "NA",
+    "maps": [],
+    "atlasRecord": "catalogue-387",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Iron Block",
+    "url": "https://chicagology.com/prefire/prefire150/",
+    "Life Span": "1855-1871",
+    "Address": "34-62 Lake street, between Wabash and State. north side",
+    "Architect": "W. W. Boyington",
+    "Building Name(s)": ", Iron Block, Wadsworth Block",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/34to62lakestreet1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-150",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "J. B. Hennegen & Co. Confectionery",
+    "url": "https://chicagology.com/prefire/prefire270/",
+    "Life Span": "1859-1871",
+    "Location": "17 Clark Street, Corner Clark and alley between Lake and Water streets",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/17clarkstreet1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-270",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "J. J. Sands’ Brewery",
+    "url": "https://chicagology.com/prefire/prefire241/",
+    "Life Span": "1855-1871",
+    "Location": "Pearson and Pine streets",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": "catalogue-241",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "J. W. Middleton & Co.",
+    "url": "https://chicagology.com/prefire/prefire331/",
+    "Life Span": "1864-1871, 1873-1880 at 55 State.",
+    "Location": "196 Lake",
+    "Architect": "Halpin’s Chicago City Directory for 1864",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/middletonco1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Jackson Hall",
+    "url": "https://chicagology.com/prefire/prefire451/",
+    "Life Span": "1855-1871",
+    "Location": "NE corner LaSalle and Couch Place",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/jacksonhall1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-451",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "James S. Kirk & Company I",
+    "url": "https://chicagology.com/prefire/prefire246/",
+    "Life Span": "1859-1871",
+    "Location": "North Water Street",
+    "Architect": "NA",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/jamesskirksoapfactiry1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-246",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Jevne and Almini",
+    "url": "https://chicagology.com/prefire/prefire175/",
+    "Life Span": "1858-1871",
+    "Location": "101 Washington",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/jevnealmini1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "John A. Huck’s Brewery",
+    "url": "https://chicagology.com/prefire/prefire244/",
+    "Life Span": "1847-TBD",
+    "Location": "Chicago avenue and Superior, Rush and Cass streets (1847), SE corner State and Division (1855), 449-495 N. State, 1301 N State (1865-66).",
+    "Architect": "NA",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "John Carbutt",
+    "url": "https://chicagology.com/prefire/prefire031/",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/courthouseiv1869map.jpg",
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/carbuttwashingtonstudio1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "John H. Dunham Mansion",
+    "url": "https://chicagology.com/prefire/prefire122/",
+    "Life Span": "1858-1928",
+    "Location": "233 Michigan (old) Northwest corner of Michigan avenue and Harrison street. 538 S Michigan",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": "catalogue-122",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "John R. Walsh’s News Depot",
+    "url": "https://chicagology.com/prefire/prefire015/",
+    "Life Span": "~1860-1864",
+    "Location": "Corner Madison and Custom House Place, Corner Madison and Dearborn (1864)",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "John Tear Shipsmith",
+    "url": "https://chicagology.com/prefire/prefire401/",
+    "Life Span": "1855-1871",
+    "Location": "Kinzie street",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Jones Building",
+    "url": "https://chicagology.com/prefire/prefire333/",
+    "Life Span": "1864-1871",
+    "Location": "172 Randolph, bet. Wells and LaSalle",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/jonesbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-333",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Joseph Matteson Residence",
+    "url": "https://chicagology.com/prefire/prefire234/",
+    "Life Span": "1850-1868",
+    "Location": "South Water Street and Michigan Ave",
+    "Architect": "NA",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Judd’s Building",
+    "url": "https://chicagology.com/prefire/prefire379/",
+    "Life Span": "1861-TBD",
+    "Location": "SE corner Clark and Monro",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/juddsbuildingclarkmonroe1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-379",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Julian Rumsey House I",
+    "url": "https://chicagology.com/prefire/prefire199/",
+    "Life Span": "1849-1871",
+    "Location": "NE Corner Rush and Huron streets",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859-60",
+    "maps": [],
+    "atlasRecord": "catalogue-199",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Julius Bauer & Co.",
+    "url": "https://chicagology.com/prefire/prefire160/",
+    "Life Span": "1857-1871",
+    "Location": "No. 99 Clark Street",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859-60",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/juliusbauer1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-160",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Keeps’ Building",
+    "url": "https://chicagology.com/prefire/prefire088/",
+    "Life Span": "1868-1871",
+    "Location": "161-171 Clark, East side Clark between Madison and Monroe",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/keepsbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-088",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Kendall Block I & II",
+    "url": "https://chicagology.com/prefire/prefire121/",
+    "Life Span": "1852-1871; 1871-1871",
+    "Location": "SW Corner of Washington and Dearborn (40 North Dearborn)",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire/riversidemap1869.jpg"
+    ],
+    "atlasRecord": "catalogue-121",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Kilgubbin and Goose Island",
+    "url": "https://chicagology.com/prefire/prefire230/",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/gooseisland1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "King & Kellogg Block",
+    "url": "https://chicagology.com/prefire/prefire326/",
+    "Life Span": "1864-1871",
+    "Location": "Nos. 24 and 26 Lake street, between Wabash and Michigan avenues",
+    "Architect": "E. Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/charlespkellogg1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-326",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Kingsbury Estate (Block and Hall)",
+    "url": "https://chicagology.com/prefire/prefire057/",
+    "Life Span": "1859-1871",
+    "Address": "Northeast corner Randolph and Clark",
+    "Architect": "Unknown",
+    "Building Name(s)": "Chicago Museum, Col. Wood’s Museum, Aiken’s Museum1",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/kingsburyblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-057",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Kinzie School No. 4",
+    "url": "https://chicagology.com/prefire/prefire152/",
+    "Life Span": "1846-1871",
+    "Location": "Ohio and LaSalle Streets",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/kinzieschool1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-152",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "LaSalle Street Tunnel",
+    "url": "https://chicagology.com/prefire/prefire100/",
+    "Life Span": "1871-1939",
+    "Location": "Randolph street under the Chicago River to Hubbard street",
+    "maps": [],
+    "atlasRecord": "tunnel",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lady Elgin",
+    "url": "https://chicagology.com/prefire/prefire426/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Laflin Building",
+    "url": "https://chicagology.com/prefire/prefire447/",
+    "Life Span": "1860-1871",
+    "Location": "State, NW corner Couch place1",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/laflinblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-447",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lake House",
+    "url": "https://chicagology.com/prefire/prefire112/",
+    "Life Span": "1835-1871",
+    "Location": "Kinzie, Rush and Michigan streets",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/lakehouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-112",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lake Street  Index",
+    "url": "https://chicagology.com/prefire/prefire164/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Lakeside Publishing Co.",
+    "url": "https://chicagology.com/prefire/prefire221/",
+    "Life Span": "1871-1871",
+    "Location": "SW corner Clark and Adams Streets",
+    "Architect": "Cass Chapman",
+    "maps": [],
+    "atlasRecord": "catalogue-221",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Larmon Block",
+    "url": "https://chicagology.com/prefire/prefire085/",
+    "Life Span": "1857-1871",
+    "Location": "NE corner of Clark and Washington",
+    "Architect": "Messrs. Henry W. Bayliss & Coleman",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/larmonblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-085",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lay’s Block",
+    "url": "https://chicagology.com/prefire/prefire349/",
+    "Life Span": "1862-1871",
+    "Location": "76 and 78 LaSalle, between Washington and Randolph",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/grommesullrich1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-349",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Liebenstein Building",
+    "url": "https://chicagology.com/prefire/prefire441/",
+    "Life Span": "1863-1871",
+    "Location": "167-169 Randolph. between LaSalle and Wells",
+    "Architect": "Carter & Bauer",
+    "maps": [],
+    "atlasRecord": "catalogue-441",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lill & Diversy’s Chicago Brewery",
+    "url": "https://chicagology.com/prefire/prefire203/",
+    "Life Span": "1841-1871",
+    "Address": "Chicago Avenue and Pine Street",
+    "Architect": "Unknown",
+    "Building Name(s)": "Lill & Diversy’s Chicago Brewery",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/lillsbrewery1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-203",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lincoln Block and Hall",
+    "url": "https://chicagology.com/prefire/prefire413/",
+    "Life Span": "1862/1863-1871",
+    "Location": "NW corner Lake and Franklin streets",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/fairbanksgreenleafbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-413",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lincoln Funeral",
+    "url": "https://chicagology.com/prefire/prefire005/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Lincoln House",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire193/",
+    "Life Span": "Abt 1866-TBD",
+    "Location": "27 and 29 W Randolph street, NE corner Canal and Randolph streets",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/lincolnhouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-193",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lincoln-Douglas Debates",
+    "url": "https://chicagology.com/prefire/prefire096/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Lind’s Block",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire059/",
+    "Life Span": "1851 – 1963",
+    "Location": "NW corner of Randolph and Market Streets",
+    "Architect": "John M. Van Osdel, Arthur Woltersdorf (1920’s south portion rebuild)",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/lindblock1869map.jpg"
+    ],
+    "atlasRecord": "lind",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Link’s Block",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire284/",
+    "Life Span": "1857-1871",
+    "Address": "162 and 164 Lake",
+    "Architect": "Otto H. Matz",
+    "Building Name(s)": ", Link’s Block",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/linksblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-284",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lloyd’s Block—Fenian Hall",
+    "url": "https://chicagology.com/prefire/prefire388/",
+    "Life Span": "1858-1871",
+    "Location": "Randolph street, northwest corner Wells",
+    "Architect": "William Jones",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/fenianhall1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-388",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lombard Block",
+    "url": "https://chicagology.com/prefire/prefire157/",
+    "Life Span": "1865-1871",
+    "Location": "NW Corner of Monroe and Court House Place, between Dearborn and Clark streets.",
+    "Architect": "O. L. Wheelock",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/lombardblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-157",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Loomis Building",
+    "url": "https://chicagology.com/prefire/prefire253/",
+    "Life Span": "1858-1871",
+    "Location": "145-149 South Water Street, SW Corner at Clark",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/loomisbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-253",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Lord & Smith",
+    "url": "https://chicagology.com/prefire/prefire172/",
+    "Life Span": "1862-1871",
+    "Location": "No. 23 Lake Street (1862), 43 Lake, No. 86 Wabash Avenue (1868)",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863-64",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/lordsmith1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Lunt, Preston & Kean",
+    "url": "https://chicagology.com/prefire/prefire316/",
+    "Life Span": "1859-TBD",
+    "Address": "47 Clark, NE corner Couch place",
+    "Architect": "TBD",
+    "Building Name(s)": ", Lunt, Preston & Kean, Brotherton & Nettleton Bankers, S. M. Seeley’s, Jacob G. Conrad Banking House",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/luntprestonkean1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Madeira Pet",
+    "url": "https://chicagology.com/prefire/prefire424/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Magie’s Building",
+    "url": "https://chicagology.com/prefire/prefire197/",
+    "Life Span": "1864-1871",
+    "Location": "southwest Corner LaSalle and Randolph",
+    "Architect": "Augustus Bauer",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/westernbanknote1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-197",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Mahlon D. Ogden Mansion",
+    "url": "https://chicagology.com/prefire/prefire325/",
+    "Life Span": "1859-1893",
+    "Location": "Lafayette pl. between Clark and Dearborn",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [],
+    "atlasRecord": "ogden",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Major Block I",
+    "url": "https://chicagology.com/prefire/prefire039/",
+    "Life Span": "1867-1871",
+    "Location": "SE Corner La Salle and Madison Streets, 137, 139, 141, 143 LaSalle",
+    "Architect": "T. V. Wadskier",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/majorblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-039",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Marine Bank I",
+    "url": "https://chicagology.com/prefire/prefire033/",
+    "Life Span": "1854-1871",
+    "Location": "154-158 Lake, NE corner Lake and LaSalle Streets",
+    "Architect": "Burling & Baumann",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/marinebank1869map.jpg"
+    ],
+    "atlasRecord": "marine",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Masonic Temple",
+    "url": "https://chicagology.com/prefire/prefire145/",
+    "Life Span": "1856-1871",
+    "Location": "SE Corner Dearborn and Court Place, 83 and 85 Dearborn Street",
+    "Architect": "Messrs. John M. Van Osdel & Frederick Baumann",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/masonictemple1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-145",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Massasoit House",
+    "url": "https://chicagology.com/prefire/prefire022/",
+    "Location": "SE corner of Old Central Avenue (N. Beaubien Court) and E. South Water Street",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/massasoithouse1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Matteson House I",
+    "url": "https://chicagology.com/prefire/prefire067/",
+    "Life Span": "1850-1871",
+    "Location": "NW Corner Dearborn and Randolph Streets",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/mattesonhouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-067",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "McCarthy Building",
+    "url": "https://chicagology.com/prefire/prefire010/",
+    "Life Span": "1865-1871",
+    "Location": "SE corner of Clark and Randolph Streets",
+    "Architect": "W.W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/ahmiller1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-010",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "McCarthy’s Building I",
+    "url": "https://chicagology.com/prefire/prefire338/",
+    "Life Span": "1855-1871",
+    "Location": "99 Dearborn, Dearborn, ne cor Washington street",
+    "Architect": "Olmsted & Nicholson",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/mccarthybuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-338",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "McCormick Reaper Manufactory I",
+    "url": "https://chicagology.com/prefire/prefire129/",
+    "Life Span": "1846-1871",
+    "Location": "North bank of the Chicago River, east of Rush Street Bridge",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/mccormickreaperworks1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-129",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "McCormick’s Building",
+    "url": "https://chicagology.com/prefire/prefire124/",
+    "Life Span": "1860-1871",
+    "Location": "SE corner Randolph and Dearborn",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/mccormicksblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-124",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "McCormick’s Building",
+    "url": "https://chicagology.com/prefire/prefire435/",
+    "Life Span": "1868-1871",
+    "Location": "NW corner Lake and Michigan Ave",
+    "Architect": "E. Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/henrywkingbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-135",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "McVicker’s Theatre I & II",
+    "url": "https://chicagology.com/prefire/prefire047/",
+    "Life Span": "1857-1865, 1865-1871",
+    "Location": "Madison Street, West of State Street",
+    "Architect": "Boyington & Wheelock",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/mcvickerstheater1869map.jpg"
+    ],
+    "atlasRecord": "plan-126",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Mechanics’ Building",
+    "url": "https://chicagology.com/prefire/prefire431/",
+    "Life Span": "1868-1871",
+    "Location": "164-168 Washington, bet. Wells and La Salle",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1869",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/mechanicsbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-431",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Mercantile Building I",
+    "url": "https://chicagology.com/prefire/prefire416/",
+    "Life Span": "1867-1871",
+    "Location": "114, 116 and 118 LaSalle, West side LaSalle street, between Madison and Washington",
+    "Architect": "Edward Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/mercantilebuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-416",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Merchants Insurance Building",
+    "url": "https://chicagology.com/prefire/prefire044/",
+    "Life Span": "1868-1871",
+    "Location": "92 LaSalle, NW corner of LaSalle and Washington Streets",
+    "Architect": "Augustus Baur & Company",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/merchantsinsurancebuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-044",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Merchants’, Farmers and Mechanics’ Savings Bank",
+    "url": "https://chicagology.com/prefire/prefire055/",
+    "Life Span": "1864-1871",
+    "Location": "No. 13 Clark street",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/merchantsfarmersbank1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-055",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Metropolitan Block",
+    "url": "https://chicagology.com/prefire/prefire133/",
+    "Life Span": "1855-1871",
+    "Location": "159-165 Randolph, NW corner LaSalle",
+    "Architect": "D. B. Cooke & Co.’s Directory of the City of Chicago For the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/youngmensassoclibrary1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-133",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Metropolitan Hotel",
+    "url": "https://chicagology.com/prefire/prefire099/",
+    "Life Span": "1855-1871",
+    "Location": "SW corner of Randolph and Wells streets",
+    "Architect": "William W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/metropolitanhotel1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-099",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Michigan Avenue Hotel",
+    "url": "https://chicagology.com/prefire/prefire028/",
+    "Life Span": "1870-1874",
+    "Location": "SW Corner of Michigan Avenue and Congress streets",
+    "Architect": "Unknown.",
+    "maps": [],
+    "atlasRecord": "catalogue-028",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Michigan Avenue Index",
+    "url": "https://chicagology.com/prefire/prefire479/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Michigan Southern & Northern Indiana Railroad, and Chicago, Rock Island & Pacific Railroad Depot",
+    "url": "https://chicagology.com/prefire/prefire034/",
+    "Life Span": "1867-1871",
+    "Location": "SW corner of LaSalle and Van Buren Streets",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/michicagnsoutherndepot1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-034",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Michigan Terrace",
+    "url": "https://chicagology.com/prefire/prefire049/",
+    "Life Span": "1856-1871",
+    "Location": "Michigan Ave between Congress and Van Buren Streets",
+    "Architect": "W. W. Boyington",
+    "maps": [],
+    "atlasRecord": "terrace",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Miller Bros. Hardware Store",
+    "url": "https://chicagology.com/prefire/prefire419/",
+    "Life Span": "1864-1871",
+    "Location": "55 State",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/millerbroshardware1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-419",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Monroe Building I",
+    "url": "https://chicagology.com/prefire/prefire053/",
+    "Location": "Clark, northeast corner Monroe.",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1870",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/monroebuilding1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Morrison Block",
+    "url": "https://chicagology.com/prefire/prefire008/",
+    "Life Span": "1870-1871",
+    "Location": "SE corner of Madison and Clark Streets",
+    "Architect": "Carter & Drake",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/morrisonblocksite1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-008",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Morrison Buildings",
+    "url": "https://chicagology.com/prefire/prefire260/",
+    "Life Span": "1863-1871; 1870-1871",
+    "Location": "(I) 147-159 Clark Street, between Madison and Benton  (II), 121-133 Clark street, between Madison and Washington",
+    "Architect": "A. Carter",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/morrisonbuildings1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Munn & Scott Northwestern Elevator",
+    "url": "https://chicagology.com/prefire/prefire446/",
+    "Life Span": "1868-1871",
+    "Location": "Canal, se. cor. Carroll",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1870",
+    "maps": [],
+    "atlasRecord": "catalogue-446",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Mutual Life of Chicago Building",
+    "url": "https://chicagology.com/prefire/prefire136/",
+    "Life Span": "1870-1871",
+    "Location": "Wells Street, between Washington and Randolph.",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1870-71",
+    "maps": [],
+    "atlasRecord": "catalogue-136",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "National Bank of Illinois",
+    "url": "https://chicagology.com/prefire/prefire482/",
+    "Life Span": "1871-1871",
+    "Address": "95-97 Washington, between Clark and Dearborn",
+    "Architect": "Carter & Drake",
+    "Building Name(s)": "National Bank of Illinois",
+    "maps": [],
+    "atlasRecord": "catalogue-482",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "National Watch Company",
+    "url": "https://chicagology.com/prefire/prefire391/",
+    "Life Span": "1864-1968",
+    "Location": "Factory, Elgin, IL",
+    "Architect": "Charles S. Moseley",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Nevada Hotel",
+    "url": "https://chicagology.com/prefire/prefire134/",
+    "Life Span": "1870-1871",
+    "Location": "SW Corner of Franklin and Washington Streets, Near Washington Street Tunnel",
+    "Architect": "William Bross of The Tribune Company",
+    "maps": [],
+    "atlasRecord": "catalogue-134",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "New Jerusalem Church",
+    "url": "https://chicagology.com/prefire/prefire414/",
+    "Life Span": "1862-1871",
+    "Location": "Michigan and Adams",
+    "Architect": "Sanford E. Loring, John M. Van Osdel",
+    "maps": [],
+    "atlasRecord": "catalogue-414",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "New York House",
+    "url": "https://chicagology.com/prefire/prefire406/",
+    "Life Span": "1859-1871",
+    "Location": "Randolph, between Market and Franklin",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/newyorkhouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-406",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Newberry Block",
+    "url": "https://chicagology.com/prefire/prefire301/",
+    "Life Span": "1850",
+    "Location": "North Wells street, northeast corner Kinzie",
+    "Architect": "Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/cnwstationenvirons1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-301",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Newberry School",
+    "url": "https://chicagology.com/prefire/prefire307/",
+    "Life Span": "1858-",
+    "Location": "Corner of Orchard and Willow.",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Nicolson Pavement",
+    "url": "https://chicagology.com/prefire/prefire011/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Nixon’s Block",
+    "url": "https://chicagology.com/prefire/prefire038/",
+    "Life Span": "1871-1893",
+    "Location": "NE corner of LaSalle and Monroe Streets",
+    "Architect": "Otto H. Matz",
+    "maps": [],
+    "atlasRecord": "nixon",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "North Presbyterian Church",
+    "url": "https://chicagology.com/prefire/prefire225/",
+    "Life Span": "1860-1871",
+    "Location": "Cass and Indiana streets (Wabash and Grand)",
+    "Architect": "W. W. Boyington",
+    "maps": [],
+    "atlasRecord": "catalogue-225",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Northwestern University",
+    "url": "https://chicagology.com/prefire/prefire405/",
+    "Life Span": "1852-Present",
+    "Location": "Evanston, IL",
+    "Architect": "Gurdon P. Randall, University Hall (1869)",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "North’s Amphitheater",
+    "url": "https://chicagology.com/prefire/prefire394/",
+    "Life Span": "1854-1864",
+    "Location": "South side of Monroe near Wells",
+    "Architect": "Messrs. Levi J. North and Harry Turner",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Oak Woods Cemetery",
+    "url": "https://chicagology.com/prefire/prefire142/",
+    "Life Span": "1860-Present",
+    "Location": "Cottage Grove av. se. cor. 67th street",
+    "Architect": "M. A. Farwell",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "October 7, 1871 Fire",
+    "url": "https://chicagology.com/prefire/prefire073/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Ogden School",
+    "url": "https://chicagology.com/prefire/prefire306/",
+    "Life Span": "1857-1883",
+    "Location": "Corner of Chestnut and Wolcott.",
+    "Architect": "Chicago Tribune, January 15, 1857",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Olivet Presbyterian Church",
+    "url": "https://chicagology.com/prefire/prefire370/",
+    "Life Span": "1866-1872",
+    "Location": "Wabash avenue, near Fourteenth street",
+    "Architect": "L. B. Dixon",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Oriental Building I",
+    "url": "https://chicagology.com/prefire/prefire041/",
+    "Life Span": "1867-1871",
+    "Location": "LaSalle Street between Washington and Madison Streets.",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/orientalbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-041",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Otis Block I",
+    "url": "https://chicagology.com/prefire/prefire198/",
+    "Life Span": "1866-1871",
+    "Location": "162 Madison, SW Corner La Salle and Madison",
+    "Architect": "T. V. Wadskier",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/otisblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-198",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Otis Building",
+    "url": "https://chicagology.com/prefire/prefire345/",
+    "Life Span": "1866-1871",
+    "Location": "66 Madison",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1870",
+    "maps": [],
+    "atlasRecord": "catalogue-345",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "O’Brien’s Art Emporium",
+    "url": "https://chicagology.com/prefire/prefire148/",
+    "Life Span": "1862-1871",
+    "Location": "51 State street",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/obriensemporium1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-148",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Pacific Hotel I",
+    "url": "https://chicagology.com/prefire/prefire120/",
+    "Life Span": "1871-1871",
+    "Location": "La Salle, Clark, Jackson, and Quincy streets",
+    "Architect": "William W. Boyington",
+    "maps": [],
+    "atlasRecord": "catalogue-120",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Palmer House I & II",
+    "url": "https://chicagology.com/prefire/prefire061/",
+    "Life Span": "1870-1871",
+    "Location": "Northwest corner of State and Quincy (I)",
+    "Architect": "John M. Van Osdel (I)",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/palmerhousesite1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-061",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Pardee’s Building I",
+    "url": "https://chicagology.com/prefire/prefire094/",
+    "Life Span": "Before 1858-1871",
+    "Location": "South Water street, north west corner Wells.",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/pardeesbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-094",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Park Row",
+    "url": "https://chicagology.com/prefire/prefire173/",
+    "Life Span": "1862-1891",
+    "Location": "Park Place, 1/2 Block North of 12th Street, East to the Lake",
+    "Architect": "W. W. Boyington",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Peek Building",
+    "url": "https://chicagology.com/prefire/prefire440/",
+    "Life Span": "1853-1871",
+    "Location": "171-177 Randolph. between LaSalle and Wells",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/babcokbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-440",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Peter Schoenhofen Brewing Co.",
+    "url": "https://chicagology.com/prefire/prefire243/",
+    "Life Span": "~1863-1924",
+    "Location": "178 W. 12th, 42 and 44 Seward, 18th Street and Canalport Avenue",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Peter Schuttler Mansion",
+    "url": "https://chicagology.com/prefire/prefire130/",
+    "Life Span": "1864-1913",
+    "Location": "1047 W. Adams Street (NE corner of Aberdeen and Adams Streets)",
+    "Architect": "J. M. Van Osdel",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Peter Schuttler Wagon Works I",
+    "url": "https://chicagology.com/prefire/prefire169/",
+    "Life Span": "~1859-1871",
+    "Location": "Southwest Corner Randolph and Franklin Streets",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/schuttlerwagon1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-169",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Phœnix Building",
+    "url": "https://chicagology.com/prefire/prefire040/",
+    "Life Span": "1869-1871",
+    "Address": "78 La Salle street, bet. Randolph and Washington streets",
+    "Architect": "TBD",
+    "Building Name(s)": "Phœnix Building",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/phoenixbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-040",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Plymouth Congregational Church",
+    "url": "https://chicagology.com/prefire/prefire215/",
+    "Life Span": "1867-1970",
+    "Location": "South-East corner of Eldridge Court (9th Street) and Wabash Avenue",
+    "Architect": "Gurdon P. Randall",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/plymouthchurch1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Point-au-Sable Cabin (John Kinzie House)",
+    "url": "https://chicagology.com/prefire/prefire330/",
+    "Life Span": "~1796-1834",
+    "Location": "North side of the river, fronting Fort Dearborn",
+    "Architect": "None.",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Pomeroy’s Buildings",
+    "url": "https://chicagology.com/prefire/prefire378/",
+    "Life Span": "1857-1871",
+    "Location": "268-272 South Water street, Between Clark and L",
+    "Architect": "Burling & Smith",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/pomeroybuilding1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Pope’s Block",
+    "url": "https://chicagology.com/prefire/prefire417/",
+    "Life Span": "1868-1871",
+    "Location": "135-141 Madison, North side Madison street, between LaSalle and Clark",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1869",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/popesblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-417",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Portland’s Block",
+    "url": "https://chicagology.com/prefire/prefire082/",
+    "Life Span": "1857-1871",
+    "Location": "103, 105, 107 Dearborn, SE corner of Dearborn and Washington Streets",
+    "Architect": "Burling & Smith",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/portlandblock1869map.jpg"
+    ],
+    "atlasRecord": "plan-058",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Pre-Fire Additions and Subdivisions of Chicago.",
+    "url": "https://chicagology.com/prefire/prefire472/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Pre-Fire Advertising Agencies in Chicago",
+    "url": "https://chicagology.com/prefire/prefire403/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Pre-Fire Architects",
+    "url": "https://chicagology.com/prefire/prefire336/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Pre-Fire Churches",
+    "url": "https://chicagology.com/prefire/prefire154/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Pre-Fire Railroad Depots—1850-1871",
+    "url": "https://chicagology.com/prefire/prefire339/",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/traindepots1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Pre-Fire—Parks of Chicago",
+    "url": "https://chicagology.com/prefire/prefire261/",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/dearbornpark1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Printers’ Block and Judd’s Building",
+    "url": "https://chicagology.com/prefire/prefire400/",
+    "Life Span": "1855-1871",
+    "Address": "NE corner LaSalle and Randolph, 135-143 Randolph",
+    "Architect": "TBD",
+    "Building Name(s)": "S. P. Rounds’ Book and Job Printing Office and Printers Furnishing Depot, Printers’ Block, Judd’s Building",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/juddsbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-400",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Purple Block",
+    "url": "https://chicagology.com/prefire/prefire217/",
+    "Life Span": "1869-1871",
+    "Location": "158 N. Clark, Cor. Clark and Ontario Street",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1870",
+    "maps": [],
+    "atlasRecord": "catalogue-217",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Putnam’s Emporium",
+    "url": "https://chicagology.com/prefire/prefire265/",
+    "Life Span": "Abt 1859-1871",
+    "Location": "116-118 Randolph, Between Dearborn and Clark",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/118randolph1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-265",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Raymond Block",
+    "url": "https://chicagology.com/prefire/prefire201/",
+    "Life Span": "1863-1871",
+    "Location": "122 to 130 State, Northwest corner State and Madison",
+    "Architect": "A. Carter",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/raymondblock1869map.jpg"
+    ],
+    "atlasRecord": "plan-049",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Republic Life Insurance Company Building I",
+    "url": "https://chicagology.com/prefire/prefire114/",
+    "Life Span": "1870-1871",
+    "Location": "East side of La Salle Street, between Monroe and Madison Streets.",
+    "Architect": "George H. Edbrooke",
+    "maps": [],
+    "atlasRecord": "catalogue-114",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Reynold’s Block",
+    "url": "https://chicagology.com/prefire/prefire103/",
+    "Life Span": "1864-1871",
+    "Location": "SW Corner  of Dearborn & Madison Streets",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/reynoldsblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-103",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Rice Theatre II",
+    "url": "https://chicagology.com/prefire/prefire392/",
+    "Life Span": "1851-1857",
+    "Location": "Dearborn Street, between Randolph and Washington",
+    "Architect": "John M. Van Osdel",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Rice’s Building",
+    "url": "https://chicagology.com/prefire/prefire254/",
+    "Life Span": "1859-1871",
+    "Location": "NE corner of Dearborn and Court place, 75-81 Dearborn",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/ricebuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-254",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Rice’s Theatre I",
+    "url": "https://chicagology.com/prefire/prefire117/",
+    "Life Span": "1847-1850",
+    "Location": "South side of Randolph Street, 50 feet east of Dearborn",
+    "Architect": "Unknown",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Richmond House",
+    "url": "https://chicagology.com/prefire/prefire060/",
+    "Life Span": "1856 – 1871",
+    "Location": "NW Corner South Water Street and Michigan Avenue",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/richmondhouse1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-060",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Riverside",
+    "url": "https://chicagology.com/prefire/prefire262/",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire/riversidemap1869.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Robbins Block II",
+    "url": "https://chicagology.com/prefire/prefire428/",
+    "Life Span": "1869-1871",
+    "Location": "NW corner Lake and Wells",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/192194lakestreet1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-428",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Robbins Building I",
+    "url": "https://chicagology.com/prefire/prefire106/",
+    "Life Span": "1856-1871",
+    "Location": "SE Corner Wells and South Water Streets",
+    "Architect": "John M. Van Osdel & Bauman",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/robbinsbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-106",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Roger’s Barracks",
+    "url": "https://chicagology.com/prefire//prefire255/",
+    "Life Span": "1858-1868",
+    "Location": "No. 188 Monroe Street, SE Corner of Monroe and Wells",
+    "Architect": "Gems of the Prairie, Herbert Asbury, 1940",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Rosehill Cemetery",
+    "url": "https://chicagology.com/prefire/prefire141/",
+    "Life Span": "1860-Present",
+    "Location": "Architect: William Boyington",
+    "Architect": "William Boyington",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Rush Medical College I & II",
+    "url": "https://chicagology.com/prefire/prefire257/",
+    "Life Span": "1843-1867 (I), 1867-1871 (II)",
+    "Location": "SE Corner North Dearborn and Indiana (Grand) streets1",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/rushmedicalcollege1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-257",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "S. B. Cobb’s Block",
+    "url": "https://chicagology.com/prefire/prefire476/",
+    "Life Span": "1865-1871",
+    "Address": "3 to 13 Lake, Southwest corner, Michigan avenue",
+    "Architect": "John M. Van Osdel",
+    "Building Name(s)": "3-13 Lake, S. B. Cobb’s Block",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/sbcobbblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-476",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "S. B. Cobb’s Store",
+    "url": "https://chicagology.com/prefire/prefire187/",
+    "Life Span": "1864-1871",
+    "Location": "SE Corner Lake and Michgan",
+    "Architect": "John M. Van Osdel",
+    "maps": [],
+    "atlasRecord": "catalogue-187",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Saloon Building",
+    "url": "https://chicagology.com/prefire/prefire283/",
+    "Life Span": "1836-1859 (Saloon), 1859-1871 (Telegraph)",
+    "Address": "117 to 125 Lake, SE corner Clark",
+    "Architect": "Van Osdel",
+    "Building Name(s)": "Saloon Building, Telegraph Building",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/telegraphbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-283",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Scammon School No. 3",
+    "url": "https://chicagology.com/prefire/prefire110/",
+    "Life Span": "1847-TBD",
+    "Location": "Madison Between Hasted and Desplaines",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/scammonschool1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-110",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Scammon’s Block",
+    "url": "https://chicagology.com/prefire/prefire375/",
+    "Life Span": "1868-1871",
+    "Location": "Northwest corner Randolph street and Michigan avenue",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/scammonbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-135",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Second Baptist Church",
+    "url": "https://chicagology.com/prefire/prefire050/",
+    "Life Span": "1854/1864-1949",
+    "Location": "SE corner of Morgan and Monroe streets",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Second Presbyterian Church",
+    "url": "https://chicagology.com/prefire/prefire079/",
+    "Life Span": "1852-1871",
+    "Location": "NE Corner of Washington Street and Wabash Avenue",
+    "Architect": "James Renwick",
+    "maps": [],
+    "atlasRecord": "catalogue-079",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Shepard Block",
+    "url": "https://chicagology.com/prefire/prefire014/",
+    "Location": "SE corner of Dearborn and Monroe Streets",
+    "Architect": "F. & E. Baumann",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire/shepardblock1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Sherman House I & II",
+    "url": "https://chicagology.com/prefire/prefire056/",
+    "Life Span": "1837-1860 (I); 1861-1871 (II)",
+    "Location": "NW corner of Clark and Randolph Streets",
+    "Architect": "William W. Boyington (II)",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/shermanhouse1869map.jpg"
+    ],
+    "atlasRecord": "sherman",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Sisters of Mercy Hospital",
+    "url": "https://chicagology.com/prefire/prefire268/",
+    "Life Span": "1870-1967",
+    "Location": "2525 S. Michigan, Calumet avenue, between Twenty-fifth and Twenty-sixth streets",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Smith & Nixon’s Block",
+    "url": "https://chicagology.com/prefire/prefire095/",
+    "Life Span": "1864-1869",
+    "Location": "SW corner of Clark and Washington streets, 116 Washington st., near Clark st.",
+    "Architect": "Otto H. Matz",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/smithnixon1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Soldiers’ Home",
+    "url": "https://chicagology.com/prefire/prefire098/",
+    "Life Span": "1863-",
+    "Location": "Cottage Grove",
+    "Architect": "TBD",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "South Water Street",
+    "url": "https://chicagology.com/prefire/prefire062/",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/southriverstreet1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Speed’s Block",
+    "url": "https://chicagology.com/prefire/prefire018/",
+    "Life Span": "~1860-1871",
+    "Location": "121-127 Dearborn, near  Madison Street",
+    "Architect": "Otis L. Wheelock",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/speedsblock1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "St. Ignatius College Preparatory",
+    "url": "https://chicagology.com/prefire/prefire051/",
+    "Life Span": "1869-Present",
+    "Location": "1076 W Roosevelt",
+    "Architect": "Toussaint Menard",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "St. James’ Episcopal Church I",
+    "url": "https://chicagology.com/prefire/prefire184/",
+    "Life Span": "1857-1871",
+    "Location": "SE Corner Huron and Cass (Wabash Ave) streets",
+    "Architect": "Burling & Bacchus",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "St. Mary’s Church",
+    "url": "https://chicagology.com/prefire/prefire216/",
+    "Life Span": "1835-1843, 1843-1871",
+    "Location": "Wabash Avenue, South-west corner of Madison Street, Pastoral residence, Bishop’s Palace, Michigan Avenue, north-west corner Madison street",
+    "Architect": "Augustine D. Taylor",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/stmaryschurch1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "St. Patrick’s Church",
+    "url": "https://chicagology.com/prefire/prefire181/",
+    "Life Span": "1857-Present",
+    "Location": "Desplaines street, and Adams",
+    "Architect": "Carter & Bauer",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "St. Paul’s Universalist Church I",
+    "url": "https://chicagology.com/prefire/prefire190/",
+    "Life Span": "1857-1871",
+    "Location": "Northwest corner of Wabash Avenue and Van Buren street",
+    "Architect": "W. W. Boyington",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Standard Club I",
+    "url": "https://chicagology.com/prefire/prefire298/",
+    "Life Span": "1869-1887",
+    "Address": "SW corner 13th street and Michigan avenue",
+    "Architect": "J. C. Cochrane & A. H. Piquenard",
+    "Building Name(s)": "Standard Club House, Standard Hall",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "State Savings Institution I",
+    "url": "https://chicagology.com/prefire/prefire314/",
+    "Life Span": "1866-1871",
+    "Location": "La Salle, between Washington and Randolph",
+    "Architect": "E. Burling & Co.",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/statesavingsinstitution1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-314",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "State Street Marble-Front  Row",
+    "url": "https://chicagology.com/prefire/prefire348/",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/marblerow1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Steel’s Block",
+    "url": "https://chicagology.com/prefire/prefire377/",
+    "Life Span": "1858-1871",
+    "Location": "178-184 South Water street, Northwest corner LaSalle and South Water",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/steelsblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-377",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Stein’s “The City of Paris”",
+    "url": "https://chicagology.com/prefire/prefire132/",
+    "Life Span": "1868-1871",
+    "Location": "No. 83 Clark Street",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1869",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/steincityofparis1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-132",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Stephen Douglas Grave and Monument",
+    "url": "https://chicagology.com/prefire/prefire390/",
+    "Life Span": "1861/1881-Present",
+    "Location": "636 E. 35th St.",
+    "Architect": "Lee Volk (Sculptor)",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Stone’s Building",
+    "url": "https://chicagology.com/prefire/prefire291/",
+    "Life Span": "1868-1871",
+    "Location": "Madison, between Clark and La Salle",
+    "Architect": "W. W. Boyington",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/stonesbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-291",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Sturges & Page Block",
+    "url": "https://chicagology.com/prefire/prefire292/",
+    "Life Span": "1868-1871",
+    "Location": "106-116 State street, south of Washington",
+    "Architect": "Otis L. Wheelock",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/palmerblock1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Swartz Building",
+    "url": "https://chicagology.com/prefire/prefire153/",
+    "Life Span": "1866 (Never Completed)",
+    "Address": "Near SW Corner of State and Madison Streets",
+    "Architect": "None. Hand built by Mr. Swartz",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/swatzbuilding1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Tanneries",
+    "url": "https://chicagology.com/prefire/prefire179/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Tappen Building",
+    "url": "https://chicagology.com/prefire/prefire212/",
+    "Life Span": "1856-1871",
+    "Location": "108 Lake Street",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863-64",
+    "maps": [],
+    "atlasRecord": "catalogue-212",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Teutonia Hall",
+    "url": "https://chicagology.com/prefire/prefire407/",
+    "Life Span": "1861-1871",
+    "Location": "Randolph, NW corner Franklin",
+    "Architect": "Ashar Carter and Augustus Bauer",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/teutoniahall1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-407",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "The Little Corporal",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire411/",
+    "Life Span": "1865-1875",
+    "Location": "Various",
+    "Architect": "NA",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "The Prairie Farmer",
+    "url": "https://chicagology.com/prefire/prefire118/",
+    "Life Span": "1870–1871",
+    "Location": "112 Monroe Street",
+    "Architect": "Dr. R. L. Rea",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/192194lakestreet1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-118",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "The Wigwam",
+    "url": "https://chicagology.com/prefire//prefire171/",
+    "Life Span": "1860-1869",
+    "Location": "SE corner of Lake and Market",
+    "Architect": "John McEwen, Contractor",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/wigwam1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Town of Chicago",
+    "url": "https://chicagology.com/prefire/prefire278/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Tremont House",
+    "url": "https://chicagology.com/prefire/prefire021/",
+    "Address": "SE corner of Lake and Dearborn Streets",
+    "Architect": "John M. Van Osdel",
+    "Building Name(s)": "Tremont I (1833-1839), Tremont II (1839-1849), Tremont House III (1850-1871)",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/tremonthouse1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Tribune Building I",
+    "url": "https://chicagology.com/prefire/prefire019/",
+    "Life Span": "1869-1871",
+    "Location": "SE corner of Madison and Dearborn Streets",
+    "Architect": "Edward Burling",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/tribunebuilding1869map.jpg"
+    ],
+    "atlasRecord": "plan-140",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Trinity Church",
+    "url": "https://chicagology.com/prefire/prefire102/",
+    "Life Span": "1861-1871",
+    "Location": "Jackson street, fronting north, between Wabash and Michigan avenues",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863-64",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Turner Hall",
+    "url": "https://chicagology.com/prefire/prefire218/",
+    "Life Span": "1863-1871",
+    "Location": "261 N. Clark, near Chicago av.",
+    "Architect": "Mr. H. Rechwoldt",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/turnerhall1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-218",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Tuttle, Hibbard & Co.",
+    "url": "https://chicagology.com/prefire/prefire297/",
+    "Life Span": "1855-1871",
+    "Location": "32 Lake",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859-60",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/62lake1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-297",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Twenty-third Street Grounds",
+    "url": "https://chicagology.com/prefire/prefire236/",
+    "Life Span": "1868-1880",
+    "Location": "23rd and State Street",
+    "Architect": "NA",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Tyler Block",
+    "url": "https://chicagology.com/prefire/prefire288/",
+    "Life Span": "1864-1871",
+    "Location": "East side LaSalle street, between Lake and South Water",
+    "Architect": "John C. W. Bailey’s Chicago City Directory for 1867",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/tylerblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-288",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Tyler’s Block",
+    "url": "https://chicagology.com/prefire/prefire277/",
+    "Life Span": "1855-1871",
+    "Location": "La Salle street, North of Lake, Next to Marine Bank",
+    "Architect": "Messrs, Van Osdel & Baumann",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/tylerblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-288",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "U. H. Crosby Distilling Co.",
+    "url": "https://chicagology.com/prefire/prefire341/",
+    "Life Span": "1853-1906",
+    "Location": "Larrabee, cor. Hawthorn av.",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/crosbydistilleryoverview1869map.jpg",
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/crosbydistillerydetail1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "U. S. Custom House and Post Office",
+    "url": "https://chicagology.com/pre-fire-chicago/prefire01/prefire086/",
+    "Life Span": "1860-1871",
+    "Location": "NW corner of Dearborn and Monroe",
+    "Architect": "Ammi B. Young, of the Treasury Department, and Colonel John H. Eaton, of Chicago,",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/customhouse1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "U. S. Custom House and Post Office",
+    "url": "https://chicagology.com/prefire/prefire086/",
+    "Life Span": "1860-1871",
+    "Location": "NW corner of Dearborn and Monroe",
+    "Architect": "Ammi B. Young, of the Treasury Department, and Colonel John H. Eaton, of Chicago,",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/customhouse1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "U.S. Marine Hospital",
+    "url": "https://chicagology.com/prefire/prefire036/",
+    "Life Span": "1853-1871",
+    "Location": "River street and Michigan avenue",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/marinehospital1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-036",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Uhlich Block",
+    "url": "https://chicagology.com/prefire/prefire064/",
+    "Life Span": "1864-1871",
+    "Location": "NW Corner of North Clark and Water Street",
+    "Architect": "A. Bauer, E. Burling (Foster House)",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/uhlicblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-064",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Union Building I",
+    "url": "https://chicagology.com/prefire/prefire042/",
+    "Life Span": "1868-1871",
+    "Location": "SW corner of Washington and LaSalle Streets.",
+    "Architect": "Frederik Baumann",
+    "maps": [],
+    "atlasRecord": "catalogue-042",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Union Pacific Day",
+    "url": "https://chicagology.com/prefire/prefire030/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Union Stock Yards History",
+    "url": "https://chicagology.com/prefire/prefire084/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Unity Church I",
+    "url": "https://chicagology.com/prefire/prefire149/",
+    "Life Span": "1867-1871",
+    "Location": "Dearborn and Walton Streets",
+    "Architect": "T.V. Wadskier",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "University of  Chicago",
+    "url": "https://chicagology.com/prefire/prefire092/",
+    "Life Span": "1865-1890",
+    "Location": "34th and Cottage Grove",
+    "Architect": "W. W. Boyington",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Varieties Theatre Building",
+    "url": "https://chicagology.com/prefire/prefire410/",
+    "Life Span": "~1856-1871",
+    "Location": "115 and 117 Dearborn, NE corner Dearborn and Calhoun",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/varietytheatre1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-410",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Volk’s Marble Works",
+    "url": "https://chicagology.com/prefire/prefire159/",
+    "Life Span": "1867-1871",
+    "Location": "State and Washington streets, Nos. 195-197 Washington (1867)",
+    "Architect": "John C. W. Bailey’s Chicago City Directory for 1867",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/volksmarbleworks1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "W. M. Hoyt & Co. Building I",
+    "url": "https://chicagology.com/prefire/prefire320/",
+    "Life Span": "1865-1871",
+    "Location": "101 S. Water",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/wmhoytco1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-320",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "W. M. Ross Building",
+    "url": "https://chicagology.com/prefire//prefire296/",
+    "Life Span": "1856-1871",
+    "Location": "167 & 169 Lake street",
+    "Architect": "Olmsted & Nicholson",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/wilmarthbros1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-296",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "W. M. Ross Building",
+    "url": "https://chicagology.com/prefire/prefire296/",
+    "Life Span": "1856-1871",
+    "Location": "167 & 169 Lake street",
+    "Architect": "Olmsted & Nicholson",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/wilmarthbros1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-296",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Wabash Avenue Methodist Episcopal Church",
+    "url": "https://chicagology.com/prefire/prefire219/",
+    "Life Span": "1858-1874",
+    "Location": "Northwest corner of Wabash avenue and Harrison street",
+    "Architect": "Boyington and Wheelock",
+    "maps": [],
+    "atlasRecord": "catalogue-219",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Walker’s Block",
+    "url": "https://chicagology.com/prefire/prefire436/",
+    "Life Span": "1859-1871",
+    "Location": "Dearborn between Randolph and Lake",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/walkersblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-436",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Walworth & Hubbard",
+    "url": "https://chicagology.com/prefire/prefire166/",
+    "Life Span": "1850-1871",
+    "Location": "181 Lake Street, Between Wells and La Salle",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/walworthhubbard1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-166",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Warner’s Block and Hall",
+    "url": "https://chicagology.com/prefire/prefire412/",
+    "Life Span": "1852-1871",
+    "Location": "122 and 124 Randolph, between Clark and Dearborn",
+    "Architect": "NA",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/warnerhallandblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-412",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Warren & Co.",
+    "url": "https://chicagology.com/prefire/prefire448/",
+    "Life Span": "1859-1871",
+    "Location": "102 Madison",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/102madison1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-448",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Washington Block",
+    "url": "https://chicagology.com/prefire/prefire324/",
+    "Life Span": "1858-1871",
+    "Address": "122-136 Clark",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/nwcornerclarkmadison1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-324",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Washington Street Tunnel",
+    "url": "https://chicagology.com/prefire/prefire087/",
+    "Life Span": "1869-1956 (permanently sealed in 2013)",
+    "Location": "Washington street between Franklin and Clinton Streets",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/washingtonstreettunnel1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Water Tower II",
+    "url": "https://chicagology.com/prefire/prefire078/",
+    "Life Span": "1866-Present",
+    "Location": "Pine and Chicago Streets",
+    "Architect": "William W. Boyington",
+    "maps": [],
+    "atlasRecord": "tower",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Water Works I",
+    "url": "https://chicagology.com/prefire/prefire302/",
+    "Life Span": "1850-1868",
+    "Address": "Lake shore, between Chicago Avenue and Pearson street",
+    "Architect": "Unknown",
+    "Building Name(s)": "Water Works I",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Water Works II",
+    "url": "https://chicagology.com/prefire/prefire054/",
+    "Life Span": "1866-Present",
+    "Address": "Pine and Chicago Streets",
+    "Building Name(s)": "Water Works II",
+    "maps": [],
+    "atlasRecord": "pump",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Wau-Bun",
+    "url": "https://chicagology.com/prefire/prefire279/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Waubansee Stone Myth",
+    "url": "https://chicagology.com/prefire/prefire363/",
+    "Location": "2 B",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "West Side Union Depot",
+    "url": "https://chicagology.com/prefire/prefire109/",
+    "Life Span": "1861-1871/1881",
+    "Location": "Corner Madison and Canal streets",
+    "Architect": "Unknown",
+    "maps": [],
+    "atlasRecord": "catalogue-109",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Westminster Presbyterian Church",
+    "url": "https://chicagology.com/prefire/prefire227/",
+    "Life Span": "1857-1871",
+    "Location": "NE corner Ontario and Dearborn",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/westminsterchurch1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-227",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Wheeler’s Building",
+    "url": "https://chicagology.com/prefire/prefire432/",
+    "Life Span": "~1849-1871",
+    "Location": "SE cor South Water and Clark",
+    "Architect": "D. B. Cooke & Co.’s City Directory for the Year 1859",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/wheelersbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-432",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Wicker’s Building",
+    "url": "https://chicagology.com/prefire/prefire361/",
+    "Life Span": "1864-1871",
+    "Location": "82-84 S Water street, corner of South Water and State streets",
+    "Architect": "Edwards’ Annual Directory in the City of Chicago, for 1866",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/wickersbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-361",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "William A. Butters’ Residence",
+    "url": "https://chicagology.com/prefire/prefire450/",
+    "Life Span": "1861-1871",
+    "Location": "26 Washington, Between Wabash and Holden Place",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/ponceletflowers1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-450",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "William Blair & Co.",
+    "url": "https://chicagology.com/prefire/prefire208/",
+    "Life Span": "1865-1871",
+    "Location": "Near NE corner of Randolph and Wells, 179 & 181 Randolph, and others",
+    "Architect": "Unknown",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/blaircompany1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-208",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Willson & Merriam Building",
+    "url": "https://chicagology.com/prefire//prefire383/",
+    "Life Span": "1860-1871",
+    "Location": "48 Clark",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/willsonmerriam1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-383",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Witkowski Hall",
+    "url": "https://chicagology.com/prefire//prefire443/",
+    "Life Span": "1859-1871",
+    "Location": "176-178 Clark, Northwest corner Clark and Monroe",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/witkowskihall1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-443",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Wolf’s Point and the Town of Chicago",
+    "url": "https://chicagology.com/prefire//prefire273/",
+    "maps": [],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Wright Livery Stables",
+    "url": "https://chicagology.com/prefire/prefire200/",
+    "Life Span": "1866-1871",
+    "Location": "North State Street and Kinzie, near bridge",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863-64",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/wrightbrosstables1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-200",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Yankee Robinson’s Zoological Gardens and Coliseum",
+    "url": "https://chicagology.com/prefire/prefire340/",
+    "Life Span": "Nov 3, 1866-May 3, 1867",
+    "Location": "SW Corner State and Washington",
+    "Architect": "TBD",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/firstnationalbank1869map.jpg"
+    ],
+    "atlasRecord": null,
+    "reviewStatus": "not mapped: date, location, overlap or scope requires further review"
+  },
+  {
+    "title": "Young America Hotel",
+    "url": "https://chicagology.com/prefire/prefire228/",
+    "Life Span": "1853-1871",
+    "Location": "Randolph, southeast corner Dearborn",
+    "Architect": "John M. Van Osdel",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/mccormickbuilding1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-124",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "Young Men’s Christian Association Building (Farwell Hall)",
+    "url": "https://chicagology.com/prefire/prefire045/",
+    "Life Span": "1867-1868/1871",
+    "Location": "Madison street, east of LaSalle",
+    "Architect": "Jason Gurley, W. W. Boyington (1869 rebuilding after a fire)",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire3/farwellhall1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-045",
+    "reviewStatus": "linked to atlas record"
+  },
+  {
+    "title": "prefire433 TBD",
+    "url": "https://chicagology.com/prefire/prefire433/",
+    "Life Span": "1860-1871",
+    "Location": "es N. Clark, bet. N. Water and Kinzie",
+    "Architect": "Halpin & Bailey’s City Directory for the Year 1863",
+    "maps": [
+      "https://chicagology.com/wp-content/themes/revolution-20/PreFire4/ewingblock1869map.jpg"
+    ],
+    "atlasRecord": "catalogue-433",
+    "reviewStatus": "linked to atlas record"
+  }
+]

@@ -1,0 +1,404 @@
+{
+  "reviewed": "2026-10-07",
+  "displayNote": "Display ranges are narrative chapter groupings, not historical onset, duration or cessation measurements. Whirl markers are independent reported scenes, never a connected track.",
+  "sources": {
+    "tribune": {
+      "title": "Chicago Tribune, October 11, 1871 · museum transcription",
+      "url": "https://greatchicagofire.org/conflagration-library/tribune-reports-chicago-its-own-destruction/"
+    },
+    "pbs": {
+      "title": "PBS American Experience · Chicago on Fire",
+      "url": "https://www.pbs.org/wgbh/americanexperience/features/chicago-fire/"
+    },
+    "osier": {
+      "title": "National Archives · Jerome Osier testimony",
+      "url": "https://visit.archives.gov/whats-on/explore-exhibits/150-years-ago-great-chicago-fire"
+    },
+    "frear": {
+      "title": "Lincoln Presidential Library · Alexander Frear account",
+      "url": "https://presidentlincoln.illinois.gov/Blog/Posts/146/Illinois-History/2021/10/A-Tornado-of-Fire/blog-post/"
+    },
+    "post": {
+      "title": "Early newspaper account · Chicagology transcription",
+      "url": "https://chicagology.com/chicago-fire/fire010/"
+    },
+    "goodspeed": {
+      "title": "Goodspeed, History of the Great Fires (1871), p. 147",
+      "url": "https://archive.org/details/historyofgreatf00good/page/147/mode/1up",
+      "access": "Page 147 text retrieved through indexed scan; direct full PDF and Archive OCR retrieval failed."
+    },
+    "podcast": {
+      "title": "Charles Beauchesne · L’incendie de Chicago · third-party transcript",
+      "url": "https://podscripts.co/podcasts/les-pires-moments-de-lhistoire/lincendie-de-chicago",
+      "access": "Read in full on 2026-10-06. Third-party transcription has obvious recognition errors; timestamps are approximate and were not checked against audio. Summaries only."
+    },
+    "pbs-narrative": {
+      "title": "PBS American Experience · The Great Fire of 1871",
+      "url": "https://panhandlepbs.org/wgbh/amex/chicago/peopleevents/e_fire.html",
+      "access": "Indexed article text retrieved; direct page request returned 502. Reports exploding trees without named sites or a boiling-sap mechanism."
+    },
+    "cemetery": {
+      "title": "Pamela Bannos / Northwestern · Hidden Truths: Chicago Fire",
+      "url": "https://hiddentruths.northwestern.edu/factors/fire.html"
+    },
+    "cemetery-accounts": {
+      "title": "Northwestern · collected cemetery and park accounts",
+      "url": "https://hiddentruths.northwestern.edu/fire_accounts.html"
+    },
+    "bell": {
+      "title": "Chicago History Museum / Northwestern · Court House",
+      "url": "https://greatchicagofire.org/landmarks/court-house/"
+    },
+    "saturday": {
+      "title": "Chicago Tribune, October 8, 1871 · Saturday fire transcription",
+      "url": "https://chicagology.com/prefire/prefire073/"
+    },
+    "official": {
+      "title": "Official investigation report · Chicago History Museum / Northwestern",
+      "url": "https://greatchicagofire.org/oleary-legend-library/official-report/"
+    },
+    "colonist": {
+      "title": "Colonist, November 10, 1871 · reprinted October 9 dispatch",
+      "url": "https://paperspast.natlib.govt.nz/newspapers/TC18711110.2.19"
+    }
+  },
+  "incidents": [
+    {
+      "id": "spotting",
+      "kind": "spot",
+      "point": [
+        385,
+        1280
+      ],
+      "display": [
+        2,
+        3
+      ],
+      "title": "Fire leaps over the firefighters",
+      "short": "Embers over the crews",
+      "time": "Sunday evening · around 10–10:30 p.m.",
+      "location": "West Division, north of DeKoven · area marker",
+      "text": "The Tribune describes new fires beyond the engines, forcing crews to retreat or surrounding their equipment. Burning fragments could land behind firefighters facing the original flames.",
+      "limit": "The marker and ember arc explain the mechanism within the reported area. They do not plot an engine position or a measured ember flight. The isolated painted ignition is schematic.",
+      "sources": [
+        "tribune"
+      ],
+      "podcastCue": "24:11–24:48"
+    },
+    {
+      "id": "river-south",
+      "kind": "river",
+      "point": [
+        453,
+        1068
+      ],
+      "display": [
+        3,
+        5
+      ],
+      "title": "Burning material on the South Branch",
+      "short": "River fire reported",
+      "time": "Late Sunday evening · exact onset unresolved",
+      "location": "South Branch near the crossing area · approximate",
+      "text": "PBS associates burning surface waste and oil with the river crossing by about 11:30 p.m. The National Archives documents burning vessels and windborne debris, but does not date surface ignition.",
+      "limit": "These are localized patches of burning fuel, not water itself burning. No source consulted maps their precise extent or duration. Their display during the crossing and downtown chapters is an editorial grouping, not an ignition or extinguishing clock.",
+      "sources": [
+        "pbs",
+        "osier"
+      ],
+      "podcastCue": "25:44–26:16"
+    },
+    {
+      "id": "whirl-south",
+      "kind": "whirl",
+      "point": [
+        478,
+        1135
+      ],
+      "display": [
+        3,
+        4
+      ],
+      "title": "Tornado-like wind at the South Branch",
+      "short": "Violent wind reported",
+      "time": "During the South Branch crossing · no clock time",
+      "location": "South Branch crossing area · exact witness position unresolved",
+      "text": "Jerome Osier recalled a violent wind shift carrying sparks and burning chunks across the river. His tornado comparison describes the wind; it does not establish a tracked funnel.",
+      "limit": "The stationary rotating symbol represents the reported phenomenon in a broad area. Its position, shape and display window are illustrative. There is no verified tornado start time.",
+      "sources": [
+        "osier"
+      ],
+      "podcastCue": "23:48–25:17"
+    },
+    {
+      "id": "whirl-state",
+      "kind": "whirl",
+      "point": [
+        798,
+        902
+      ],
+      "display": [
+        4,
+        5
+      ],
+      "title": "Whirling fire near State and Washington",
+      "short": "Whirling fire reported",
+      "time": "Downtown fire overnight · exact time unknown",
+      "location": "State / Washington and the view toward Crosby’s Opera House",
+      "text": "Alexander Frear described whirling embers and flames while looking back along Washington toward the Opera House and State Street. He compared the scene to a tornado of fire.",
+      "limit": "This is a witness description, not a confirmed tornado touchdown. The symbol stays at the reported scene; chapter placement is approximate and its disappearance does not date the end of a whirl.",
+      "sources": [
+        "frear"
+      ]
+    },
+    {
+      "id": "gasworks",
+      "kind": "explosion",
+      "point": [
+        515,
+        1035
+      ],
+      "display": [
+        3,
+        5
+      ],
+      "title": "South Side gasworks explosions",
+      "short": "Gasworks explosions",
+      "time": "Overnight · sources disagree: midnight to after about 2 a.m.",
+      "location": "Near Adams and Franklin · approximate gasworks site",
+      "text": "An early newspaper account places repeated explosions at the gasworks across Adams from the Armory, after the Armory was reached around 2 a.m. PBS instead places the gasworks explosion by midnight.",
+      "limit": "The burst marks a reported explosion site. Its size is symbolic, and the chapter window preserves the conflicting accounts rather than choosing an exact detonation time.",
+      "sources": [
+        "post",
+        "pbs"
+      ],
+      "podcastCue": "25:17–25:44"
+    },
+    {
+      "id": "demolition",
+      "kind": "explosion",
+      "point": [
+        798,
+        1280
+      ],
+      "display": [
+        7,
+        8
+      ],
+      "title": "O’Neil’s block blown up as a firebreak",
+      "short": "Deliberate demolition",
+      "time": "Monday morning · before the southward advance ended by noon",
+      "location": "State and Harrison · intersection marker",
+      "text": "Goodspeed’s 1871 account reports that O’Neil’s brick block at State and Harrison was demolished with powder to stop the fire spreading farther south.",
+      "limit": "A deliberate firefighting demolition, distinct from the gasworks disaster. The source gives an intersection and sequence, not an exact time or footprint. The late-morning chapter groups this report; it does not assert a noon explosion.",
+      "sources": [
+        "goodspeed"
+      ],
+      "demolition": true
+    },
+    {
+      "id": "trees",
+      "kind": "story",
+      "scene": "trees",
+      "point": null,
+      "display": [
+        5,
+        7
+      ],
+      "title": "Trees bursting in the heat",
+      "short": "The trees that burst",
+      "time": "During the conflagration · no dated tree locations",
+      "location": "Citywide account · no individual tree site established",
+      "podcastCue": "29:43–30:23",
+      "text": "PBS also describes trees exploding amid the destruction. That supports including the phenomenon as a reported detail, but provides no named tree, street or exact time.",
+      "limit": "The podcast attributes it to boiling sap. That mechanism is not independently established by the sources checked here. The drawing is symbolic; no exploding trees have been invented at map coordinates.",
+      "sources": [
+        "pbs-narrative"
+      ]
+    },
+    {
+      "id": "heat",
+      "kind": "story",
+      "scene": "heat",
+      "point": null,
+      "display": [
+        4,
+        7
+      ],
+      "title": "Heat that broke the city’s defences",
+      "short": "How hot was the fire?",
+      "time": "Overnight · temperatures varied and are not mapped",
+      "location": "General fire conditions · no thermometer site established",
+      "podcastCue": "29:21–29:43",
+      "text": "Accounts describe masonry crumbling and metal damaged by the fire. The podcast gives a peak above 2,500°F (roughly 1,400°C), but the research reviewed here does not establish that as a measured temperature at a particular place.",
+      "limit": "Treat the number as an attributed podcast claim. The heat illustration is qualitative; it is not a temperature map, a measurement of the whole city, or a melting-point test.",
+      "sources": [
+        "pbs-narrative"
+      ]
+    },
+    {
+      "id": "park",
+      "kind": "story",
+      "scene": "park",
+      "point": null,
+      "beyondMap": true,
+      "display": [
+        5,
+        8
+      ],
+      "title": "Refuge among the graves",
+      "short": "Lincoln Park & the cemetery",
+      "time": "Monday, October 9 · flight north during the fire",
+      "location": "Lincoln Park and former lakeshore cemeteries · north of this map crop",
+      "podcastCue": "30:23–31:11",
+      "text": "Refugees carried belongings into the park and cemetery. Accounts describe burning possessions, smoke and thirst, as well as survivors. Trees and wooden grave markers in the cemetery were destroyed.",
+      "limit": "The transcript’s claim that all who sheltered in graves suffocated is not supported by the accounts checked. Northwestern researcher Pamela Bannos also questions the scale of the open-grave stories. The cemetery and park were not uniformly burned. This scene is outside the current mapped area.",
+      "sources": [
+        "cemetery",
+        "cemetery-accounts"
+      ]
+    },
+    {
+      "id": "lakeshore",
+      "kind": "refuge",
+      "scene": "shore",
+      "point": [
+        986,
+        448
+      ],
+      "display": [
+        5,
+        7
+      ],
+      "title": "Into the lake to escape the embers",
+      "short": "Refuge at the water’s edge",
+      "time": "Monday, October 9 · overnight into morning",
+      "location": "Lakefront near Ontario Street · approximate area",
+      "podcastCue": "28:29–28:48",
+      "text": "Judge Lambert Tree described families and belongings crowded along the lakefront near Ontario and St. Clair. Smoke and embers followed them; people waded into the lake or climbed onto wagons standing in the water.",
+      "limit": "The marker represents the reported shoreline area, not individual positions. The ember effect illustrates exposure; it does not show Lake Michigan burning. Chapter placement is approximate.",
+      "sources": [
+        "pbs"
+      ]
+    },
+    {
+      "id": "bell-falls",
+      "kind": "bell",
+      "scene": "bell",
+      "point": [
+        671,
+        870
+      ],
+      "display": [
+        4,
+        5
+      ],
+      "title": "The alarm bell falls silent",
+      "short": "The Court House bell falls",
+      "time": "Early Monday morning · exact collapse time unresolved",
+      "location": "Court House tower · Randolph, Clark, Washington and LaSalle",
+      "podcastCue": "28:06–28:29",
+      "text": "The museum records a 10,849-pound bronze bell that rang the alarm for more than five hours before falling through the collapsing Court House into its basement.",
+      "limit": "This was a structural collapse, not an explosion. Its illustration is grouped with the Court House chapter; it does not equate the tower’s ignition time with the bell’s fall.",
+      "sources": [
+        "bell"
+      ]
+    },
+    {
+      "id": "box-factory",
+      "kind": "industry",
+      "priorFire": true,
+      "point": [
+        408,
+        1145
+      ],
+      "display": [
+        0,
+        1
+      ],
+      "title": "The box factory burned the night before",
+      "short": "Box factory · previous night",
+      "time": "Saturday, October 7, into Sunday · before this timeline",
+      "location": "Behind Lull & Holmes, 209 Canal Street · approximate area",
+      "podcastCue": "15:44–16:20",
+      "text": "The Tribune names Foster’s box factory behind the Lull & Holmes planing mill among the losses in Saturday night’s fire. The podcast describes a cardboard factory in this earlier industrial blaze.",
+      "limit": "The newspaper identifies a box factory but does not specify cardboard or report an explosion there. This marker shows the earlier fire’s aftermath in the opening chapter; it does not reignite the factory on Sunday. Exact footprint unresolved.",
+      "sources": [
+        "saturday"
+      ]
+    },
+    {
+      "id": "match-mills",
+      "kind": "industry",
+      "point": [
+        391,
+        1240
+      ],
+      "display": [
+        2,
+        3
+      ],
+      "title": "Matches, wood shavings and lumber feed the fire",
+      "short": "Match factory & planing mills",
+      "time": "Sunday night · before the South Branch crossing",
+      "location": "Clinton / Mather church and nearby industrial area · approximate",
+      "podcastCue": "24:11–25:17",
+      "text": "The official report traces the flames from the church at Clinton and Mather to a match factory, Bateham’s planing mills and lumber. Fire spread beyond the crews’ ability to contain it.",
+      "limit": "The pin represents a cluster, not a surveyed factory footprint. The source confirms burning factories, not a match-factory explosion. The small flame effect illustrates that distinction; its timing and size are schematic.",
+      "sources": [
+        "official"
+      ]
+    },
+    {
+      "id": "roofing",
+      "kind": "industry",
+      "point": [
+        489,
+        1087
+      ],
+      "display": [
+        3,
+        4
+      ],
+      "title": "Flying brands ignite Powell’s roofing establishment",
+      "short": "Roofing works catch fire",
+      "time": "Sunday night · at the South Branch crossing",
+      "location": "East bank, between Van Buren and Adams · approximate area near the gasworks",
+      "text": "The official investigation describes windborne brands crossing the South Branch and setting Powell’s roofing establishment alight beside the gasworks. The fire then spread rapidly into the South Division.",
+      "limit": "The marker is an area estimate. No explosion at the roofing works is established by this account, and no precise ignition time or inventory of stored fuel is supplied.",
+      "sources": [
+        "official"
+      ]
+    },
+    {
+      "id": "wabash-demolition",
+      "kind": "explosion",
+      "demolition": true,
+      "point": [
+        858,
+        1230
+      ],
+      "display": [
+        7,
+        8
+      ],
+      "title": "Buildings on Wabash and Congress demolished",
+      "short": "Wabash firebreak explosions",
+      "time": "Monday, October 9 · late morning / early afternoon",
+      "location": "Wabash Avenue and Congress Street area · approximate",
+      "text": "An October 9 dispatch, reprinted in the Colonist, reports buildings blown up on Wabash Avenue and Congress Street to check the southward fire. The official investigation also credits gunpowder demolitions at the southern edge the next day.",
+      "limit": "This marks a reported demolition area, not individual blast sites, a blast radius or a detonation count. The dispatch places the halt around 1 p.m.; the timeline groups it with the late-morning firebreak efforts.",
+      "sources": [
+        "colonist",
+        "official"
+      ]
+    }
+  ],
+  "podcast": {
+    "episode": "L’incendie de Chicago · Les pires moments de l’histoire",
+    "creator": "Charles Beauchesne / URBANIA",
+    "episodeUrl": "https://urbania.ca/article/s05e03-lincendie-de-chicago-les-pires-moments-de-lhistoire",
+    "transcriptSource": "podcast",
+    "review": "Full third-party transcript read; relevant claims compared with historical sources. Audio not independently checked. No transcript reproduced."
+  }
+}

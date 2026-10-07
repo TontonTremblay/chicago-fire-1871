@@ -1,0 +1,66 @@
+{
+  "note": "Uses describe documented activities, not ignition times or a fuel-risk score. Unknown outlines are not inferred from nearby buildings. Barns and stables are urban livestock premises, not mapped farmland. Plan labels may predate 1871.",
+  "groups": {
+    "home": [
+      "ogden",
+      "arnold",
+      "rumsey",
+      "mccagg",
+      "terrace",
+      "catalogue-122",
+      "catalogue-199",
+      "catalogue-450"
+    ],
+    "agriculture": [
+      "barn",
+      "catalogue-200"
+    ],
+    "industrial": [
+      "catalogue-229",
+      "catalogue-399",
+      "catalogue-317",
+      "catalogue-004",
+      "catalogue-241",
+      "catalogue-203",
+      "catalogue-129",
+      "catalogue-446",
+      "catalogue-169",
+      "catalogue-293",
+      "plan-030",
+      "plan-032",
+      "plan-056",
+      "plan-057",
+      "plan-085",
+      "plan-086",
+      "plan-139"
+    ],
+    "other": [
+      "court",
+      "tower",
+      "pump",
+      "opera",
+      "lind",
+      "chamber",
+      "sherman",
+      "tremont",
+      "palmer",
+      "field",
+      "society",
+      "tunnel",
+      "briggs",
+      "marine",
+      "wood",
+      "methodist",
+      "customs",
+      "nixon",
+      "bryan",
+      "trinity",
+      "holy-name",
+      "st-james",
+      "unity",
+      "new-england",
+      "grace"
+    ]
+  },
+  "basis": "Explicit record names and descriptions, with the historical source retained on each record. Hotels are not classified as houses. Other researched landmarks are civic, commercial, cultural, religious or infrastructure premises."
+}

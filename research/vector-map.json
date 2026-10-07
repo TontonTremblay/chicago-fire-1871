@@ -1,0 +1,1537 @@
+{
+  "title": "Chicago historical vector base",
+  "source": "Charles Shober & Co., Guide map of Chicago, 1868, University of Chicago Library",
+  "sourceURL": "https://www.lib.uchicago.edu/e/collections/maps/chifire/",
+  "method": "Approximate manual digitization in source-image coordinates; not georeferenced or surveyed. Labels and intersections simplified for legibility. Building symbols represent locations, not measured footprints.",
+  "bounds": [
+    -220,
+    -150,
+    1450,
+    1780
+  ],
+  "roads": [
+    {
+      "name": "Halsted St",
+      "points": [
+        [
+          -118,
+          660
+        ],
+        [
+          -118,
+          1710
+        ]
+      ],
+      "major": true,
+      "priority": 2
+    },
+    {
+      "name": "Desplaines St",
+      "points": [
+        [
+          165,
+          660
+        ],
+        [
+          165,
+          1710
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Union St",
+      "points": [
+        [
+          215,
+          660
+        ],
+        [
+          215,
+          1710
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Jefferson St",
+      "points": [
+        [
+          322,
+          660
+        ],
+        [
+          322,
+          1710
+        ]
+      ],
+      "major": false,
+      "priority": 1
+    },
+    {
+      "name": "Clinton St",
+      "points": [
+        [
+          376,
+          660
+        ],
+        [
+          376,
+          1710
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Canal St",
+      "points": [
+        [
+          435,
+          660
+        ],
+        [
+          435,
+          1710
+        ]
+      ],
+      "major": true,
+      "priority": 1
+    },
+    {
+      "name": "Lake St",
+      "points": [
+        [
+          -200,
+          789
+        ],
+        [
+          475,
+          789
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Randolph St",
+      "points": [
+        [
+          -200,
+          842
+        ],
+        [
+          475,
+          842
+        ]
+      ],
+      "major": true,
+      "priority": 1
+    },
+    {
+      "name": "Washington St",
+      "points": [
+        [
+          -200,
+          902
+        ],
+        [
+          475,
+          902
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Madison St",
+      "points": [
+        [
+          -200,
+          958
+        ],
+        [
+          475,
+          958
+        ]
+      ],
+      "major": true,
+      "priority": 2
+    },
+    {
+      "name": "Monroe St",
+      "points": [
+        [
+          -200,
+          1015
+        ],
+        [
+          475,
+          1015
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Adams St",
+      "points": [
+        [
+          -200,
+          1068
+        ],
+        [
+          475,
+          1068
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Jackson St",
+      "points": [
+        [
+          -200,
+          1120
+        ],
+        [
+          475,
+          1120
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Van Buren St",
+      "points": [
+        [
+          -200,
+          1173
+        ],
+        [
+          475,
+          1173
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Harrison St",
+      "points": [
+        [
+          -200,
+          1280
+        ],
+        [
+          475,
+          1280
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Polk St",
+      "points": [
+        [
+          -200,
+          1376
+        ],
+        [
+          475,
+          1376
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Taylor St",
+      "points": [
+        [
+          -200,
+          1478
+        ],
+        [
+          475,
+          1478
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "DeKoven St",
+      "points": [
+        [
+          -200,
+          1510
+        ],
+        [
+          475,
+          1510
+        ]
+      ],
+      "major": false,
+      "priority": 1
+    },
+    {
+      "name": "Twelfth St",
+      "points": [
+        [
+          -200,
+          1600
+        ],
+        [
+          475,
+          1600
+        ]
+      ],
+      "major": true,
+      "priority": 1
+    },
+    {
+      "name": "Market St",
+      "points": [
+        [
+          502,
+          746
+        ],
+        [
+          502,
+          1174
+        ],
+        [
+          590,
+          1470
+        ],
+        [
+          602,
+          1680
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Franklin St",
+      "points": [
+        [
+          550,
+          746
+        ],
+        [
+          550,
+          1690
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Wells St",
+      "points": [
+        [
+          600,
+          746
+        ],
+        [
+          600,
+          1690
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "LaSalle St",
+      "points": [
+        [
+          644,
+          746
+        ],
+        [
+          644,
+          1690
+        ]
+      ],
+      "major": false,
+      "priority": 1
+    },
+    {
+      "name": "Clark St",
+      "points": [
+        [
+          696,
+          746
+        ],
+        [
+          696,
+          1690
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Dearborn St",
+      "points": [
+        [
+          739,
+          746
+        ],
+        [
+          739,
+          1690
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "State St",
+      "points": [
+        [
+          798,
+          746
+        ],
+        [
+          798,
+          1690
+        ]
+      ],
+      "major": true,
+      "priority": 1
+    },
+    {
+      "name": "Wabash Ave",
+      "points": [
+        [
+          858,
+          746
+        ],
+        [
+          858,
+          1690
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Michigan Ave",
+      "points": [
+        [
+          950,
+          746
+        ],
+        [
+          950,
+          1690
+        ]
+      ],
+      "major": true,
+      "priority": 1
+    },
+    {
+      "name": "Lake St",
+      "points": [
+        [
+          475,
+          789
+        ],
+        [
+          975,
+          789
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Randolph St",
+      "points": [
+        [
+          475,
+          842
+        ],
+        [
+          975,
+          842
+        ]
+      ],
+      "major": true,
+      "priority": 2
+    },
+    {
+      "name": "Washington St",
+      "points": [
+        [
+          475,
+          902
+        ],
+        [
+          975,
+          902
+        ]
+      ],
+      "major": false,
+      "priority": 1
+    },
+    {
+      "name": "Madison St",
+      "points": [
+        [
+          475,
+          958
+        ],
+        [
+          975,
+          958
+        ]
+      ],
+      "major": true,
+      "priority": 1
+    },
+    {
+      "name": "Monroe St",
+      "points": [
+        [
+          475,
+          1015
+        ],
+        [
+          975,
+          1015
+        ]
+      ],
+      "major": false,
+      "priority": 1
+    },
+    {
+      "name": "Adams St",
+      "points": [
+        [
+          480,
+          1068
+        ],
+        [
+          975,
+          1068
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Jackson St",
+      "points": [
+        [
+          492,
+          1120
+        ],
+        [
+          975,
+          1120
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Van Buren St",
+      "points": [
+        [
+          520,
+          1173
+        ],
+        [
+          975,
+          1173
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Harrison St",
+      "points": [
+        [
+          550,
+          1280
+        ],
+        [
+          975,
+          1280
+        ]
+      ],
+      "major": false,
+      "priority": 1
+    },
+    {
+      "name": "Polk St",
+      "points": [
+        [
+          575,
+          1376
+        ],
+        [
+          975,
+          1376
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Twelfth St",
+      "points": [
+        [
+          640,
+          1600
+        ],
+        [
+          975,
+          1600
+        ]
+      ],
+      "major": true,
+      "priority": 2
+    },
+    {
+      "name": "Division St",
+      "points": [
+        [
+          120,
+          0
+        ],
+        [
+          885,
+          0
+        ]
+      ],
+      "major": true,
+      "priority": 2
+    },
+    {
+      "name": "Oak St",
+      "points": [
+        [
+          260,
+          142
+        ],
+        [
+          904,
+          142
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Walton St",
+      "points": [
+        [
+          370,
+          211
+        ],
+        [
+          916,
+          211
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Chestnut St",
+      "points": [
+        [
+          320,
+          270
+        ],
+        [
+          928,
+          270
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Chicago Ave",
+      "points": [
+        [
+          250,
+          320
+        ],
+        [
+          946,
+          320
+        ]
+      ],
+      "major": true,
+      "priority": 1
+    },
+    {
+      "name": "Superior St",
+      "points": [
+        [
+          292,
+          362
+        ],
+        [
+          966,
+          362
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Huron St",
+      "points": [
+        [
+          316,
+          396
+        ],
+        [
+          980,
+          396
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Erie St",
+      "points": [
+        [
+          338,
+          433
+        ],
+        [
+          992,
+          433
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Ontario St",
+      "points": [
+        [
+          350,
+          469
+        ],
+        [
+          1008,
+          469
+        ]
+      ],
+      "major": false,
+      "priority": 1
+    },
+    {
+      "name": "Ohio St",
+      "points": [
+        [
+          384,
+          503
+        ],
+        [
+          1020,
+          503
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Indiana St",
+      "points": [
+        [
+          402,
+          538
+        ],
+        [
+          1032,
+          538
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Illinois St",
+      "points": [
+        [
+          430,
+          573
+        ],
+        [
+          1044,
+          573
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Michigan St",
+      "points": [
+        [
+          458,
+          608
+        ],
+        [
+          1055,
+          608
+        ]
+      ],
+      "major": false,
+      "priority": 2
+    },
+    {
+      "name": "Kinzie St",
+      "points": [
+        [
+          468,
+          645
+        ],
+        [
+          1000,
+          645
+        ]
+      ],
+      "major": false,
+      "priority": 1
+    },
+    {
+      "name": "Orleans St",
+      "points": [
+        [
+          356,
+          0
+        ],
+        [
+          356,
+          455
+        ]
+      ],
+      "major": false,
+      "priority": 3
+    },
+    {
+      "name": "Wells St",
+      "points": [
+        [
+          475,
+          0
+        ],
+        [
+          475,
+          675
+        ]
+      ],
+      "major": false,
+      "priority": 3
+    },
+    {
+      "name": "LaSalle St",
+      "points": [
+        [
+          540,
+          0
+        ],
+        [
+          540,
+          683
+        ]
+      ],
+      "major": false,
+      "priority": 3
+    },
+    {
+      "name": "Clark St",
+      "points": [
+        [
+          643,
+          0
+        ],
+        [
+          643,
+          691
+        ]
+      ],
+      "major": true,
+      "priority": 1
+    },
+    {
+      "name": "Dearborn St",
+      "points": [
+        [
+          729,
+          0
+        ],
+        [
+          729,
+          692
+        ]
+      ],
+      "major": false,
+      "priority": 3
+    },
+    {
+      "name": "State St",
+      "points": [
+        [
+          785,
+          0
+        ],
+        [
+          785,
+          688
+        ]
+      ],
+      "major": false,
+      "priority": 3
+    },
+    {
+      "name": "Rush St",
+      "points": [
+        [
+          844,
+          0
+        ],
+        [
+          844,
+          640
+        ]
+      ],
+      "major": false,
+      "priority": 3
+    },
+    {
+      "name": "Pine St",
+      "points": [
+        [
+          910,
+          0
+        ],
+        [
+          910,
+          630
+        ]
+      ],
+      "major": true,
+      "priority": 1
+    },
+    {
+      "name": "Wells St",
+      "points": [
+        [
+          475,
+          0
+        ],
+        [
+          475,
+          655
+        ]
+      ],
+      "major": false,
+      "priority": 3
+    },
+    {
+      "name": "Milwaukee Ave",
+      "points": [
+        [
+          -210,
+          260
+        ],
+        [
+          130,
+          500
+        ],
+        [
+          440,
+          760
+        ]
+      ],
+      "major": true,
+      "priority": 2
+    },
+    {
+      "name": "Elston Road",
+      "points": [
+        [
+          60,
+          -140
+        ],
+        [
+          200,
+          158
+        ],
+        [
+          300,
+          438
+        ]
+      ],
+      "major": false,
+      "priority": 3
+    }
+  ],
+  "water": [
+    {
+      "name": "Chicago River",
+      "points": [
+        [
+          98,
+          -80
+        ],
+        [
+          163,
+          110
+        ],
+        [
+          242,
+          182
+        ],
+        [
+          247,
+          250
+        ],
+        [
+          285,
+          305
+        ],
+        [
+          288,
+          397
+        ],
+        [
+          333,
+          457
+        ],
+        [
+          356,
+          521
+        ],
+        [
+          405,
+          606
+        ],
+        [
+          451,
+          661
+        ],
+        [
+          467,
+          706
+        ],
+        [
+          526,
+          696
+        ],
+        [
+          553,
+          704
+        ],
+        [
+          741,
+          710
+        ],
+        [
+          809,
+          680
+        ],
+        [
+          862,
+          661
+        ],
+        [
+          930,
+          673
+        ],
+        [
+          1100,
+          683
+        ],
+        [
+          1100,
+          720
+        ],
+        [
+          935,
+          714
+        ],
+        [
+          880,
+          710
+        ],
+        [
+          842,
+          719
+        ],
+        [
+          805,
+          750
+        ],
+        [
+          553,
+          750
+        ],
+        [
+          508,
+          779
+        ],
+        [
+          478,
+          791
+        ],
+        [
+          462,
+          909
+        ],
+        [
+          460,
+          1060
+        ],
+        [
+          483,
+          1155
+        ],
+        [
+          534,
+          1243
+        ],
+        [
+          551,
+          1348
+        ],
+        [
+          585,
+          1472
+        ],
+        [
+          596,
+          1545
+        ],
+        [
+          622,
+          1615
+        ],
+        [
+          652,
+          1700
+        ],
+        [
+          622,
+          1740
+        ],
+        [
+          583,
+          1630
+        ],
+        [
+          560,
+          1550
+        ],
+        [
+          548,
+          1490
+        ],
+        [
+          521,
+          1360
+        ],
+        [
+          517,
+          1277
+        ],
+        [
+          469,
+          1195
+        ],
+        [
+          433,
+          1105
+        ],
+        [
+          431,
+          955
+        ],
+        [
+          447,
+          838
+        ],
+        [
+          456,
+          793
+        ],
+        [
+          451,
+          758
+        ],
+        [
+          418,
+          691
+        ],
+        [
+          372,
+          624
+        ],
+        [
+          332,
+          555
+        ],
+        [
+          311,
+          489
+        ],
+        [
+          271,
+          452
+        ],
+        [
+          246,
+          401
+        ],
+        [
+          241,
+          329
+        ],
+        [
+          220,
+          280
+        ],
+        [
+          199,
+          262
+        ],
+        [
+          192,
+          209
+        ],
+        [
+          114,
+          148
+        ],
+        [
+          56,
+          -80
+        ]
+      ]
+    },
+    {
+      "name": "Lake Michigan",
+      "points": [
+        [
+          880,
+          -200
+        ],
+        [
+          884,
+          0
+        ],
+        [
+          896,
+          140
+        ],
+        [
+          920,
+          252
+        ],
+        [
+          940,
+          326
+        ],
+        [
+          969,
+          405
+        ],
+        [
+          989,
+          456
+        ],
+        [
+          1025,
+          520
+        ],
+        [
+          1070,
+          576
+        ],
+        [
+          1092,
+          605
+        ],
+        [
+          1095,
+          657
+        ],
+        [
+          1135,
+          676
+        ],
+        [
+          1135,
+          720
+        ],
+        [
+          1080,
+          743
+        ],
+        [
+          1055,
+          787
+        ],
+        [
+          1020,
+          880
+        ],
+        [
+          1016,
+          1010
+        ],
+        [
+          1021,
+          1150
+        ],
+        [
+          1023,
+          1270
+        ],
+        [
+          1036,
+          1420
+        ],
+        [
+          1050,
+          1545
+        ],
+        [
+          1056,
+          1690
+        ],
+        [
+          1150,
+          1880
+        ],
+        [
+          1850,
+          1880
+        ],
+        [
+          1850,
+          -200
+        ]
+      ]
+    },
+    {
+      "name": "Inner harbour",
+      "points": [
+        [
+          975,
+          796
+        ],
+        [
+          999,
+          788
+        ],
+        [
+          987,
+          1020
+        ],
+        [
+          989,
+          1280
+        ],
+        [
+          1003,
+          1480
+        ],
+        [
+          989,
+          1480
+        ],
+        [
+          974,
+          1280
+        ],
+        [
+          971,
+          1020
+        ]
+      ]
+    }
+  ],
+  "parks": [
+    {
+      "name": "Court House Square",
+      "points": [
+        [
+          649,
+          850
+        ],
+        [
+          689,
+          850
+        ],
+        [
+          689,
+          895
+        ],
+        [
+          649,
+          895
+        ]
+      ],
+      "kind": "square"
+    },
+    {
+      "name": "Washington Square",
+      "points": [
+        [
+          653,
+          221
+        ],
+        [
+          706,
+          221
+        ],
+        [
+          706,
+          264
+        ],
+        [
+          653,
+          264
+        ]
+      ],
+      "kind": "park"
+    },
+    {
+      "name": "Lake Park",
+      "points": [
+        [
+          956,
+          1194
+        ],
+        [
+          973,
+          1194
+        ],
+        [
+          981,
+          1450
+        ],
+        [
+          959,
+          1450
+        ]
+      ],
+      "kind": "park"
+    }
+  ],
+  "bridges": [
+    {
+      "name": "Randolph Street Bridge",
+      "points": [
+        [
+          423,
+          842
+        ],
+        [
+          509,
+          842
+        ]
+      ]
+    },
+    {
+      "name": "Lake Street Bridge",
+      "points": [
+        [
+          431,
+          789
+        ],
+        [
+          528,
+          789
+        ]
+      ]
+    },
+    {
+      "name": "Clark Street Bridge",
+      "points": [
+        [
+          643,
+          688
+        ],
+        [
+          696,
+          753
+        ]
+      ]
+    },
+    {
+      "name": "State Street Bridge",
+      "points": [
+        [
+          785,
+          688
+        ],
+        [
+          798,
+          753
+        ]
+      ]
+    },
+    {
+      "name": "Rush Street Bridge",
+      "points": [
+        [
+          844,
+          640
+        ],
+        [
+          935,
+          720
+        ]
+      ]
+    }
+  ],
+  "railways": [
+    {
+      "name": "Illinois Central Railroad",
+      "points": [
+        [
+          1014,
+          768
+        ],
+        [
+          1002,
+          1010
+        ],
+        [
+          1005,
+          1250
+        ],
+        [
+          1022,
+          1480
+        ],
+        [
+          1040,
+          1680
+        ]
+      ]
+    }
+  ]
+}

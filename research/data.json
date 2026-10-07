@@ -1,0 +1,466 @@
+{
+  "reviewed": "2026-10-06",
+  "scope": "Design-study research, Chicago October 8–10, 1871. Historical geography only. English. Podcast integration deferred.",
+  "map": {
+    "title": "Guide map of Chicago",
+    "creator": "Charles Shober & Co.",
+    "year": 1868,
+    "collection": "University of Chicago Library",
+    "catalog": "https://catalog.lib.uchicago.edu/vufind/Record/1595338",
+    "imageRecord": "https://commons.wikimedia.org/wiki/File:1868_Shober%27s_Guide_map_of_Chicago.jpg",
+    "originalDimensions": [
+      4792,
+      7792
+    ],
+    "crop": [
+      2000,
+      1800,
+      2100,
+      2800
+    ],
+    "coordinateSpace": [
+      1260,
+      1680
+    ],
+    "note": "Historical cartographic reference for approximate manual vector digitization in crop coordinates. The scan is not a rendered layer. The 1868 source predates several 1871 buildings and the LaSalle tunnel; place symbols are a separately sourced 1871 layer. Geometry is not surveyed or georeferenced.",
+    "vectorDataset": "vector-map.json"
+  },
+  "sources": {
+    "conflagration": {
+      "title": "The Great Conflagration",
+      "publisher": "Chicago History Museum / Northwestern University",
+      "type": "historical synthesis",
+      "url": "https://greatchicagofire.org/great-conflagration/"
+    },
+    "progress": {
+      "title": "Progress of the Chicago Fire of 1871",
+      "publisher": "Encyclopedia of Chicago / Newberry Library",
+      "author": "Michael P. Conzen; research assistance Christopher P. Thale; cartography Dennis McClendon",
+      "type": "scholarly reconstruction",
+      "url": "https://www.encyclopedia.chicagohistory.org/pages/3710.html",
+      "note": "Indexed text consulted; direct page retrieval failed. Map artwork is not bundled or traced."
+    },
+    "tribune": {
+      "title": "The Tribune Reports to Chicago on Its Own Destruction",
+      "publisher": "Chicago Tribune, October 11, 1871; transcribed by CHM / Northwestern",
+      "type": "contemporary newspaper",
+      "url": "https://greatchicagofire.org/conflagration-library/tribune-reports-chicago-its-own-destruction/"
+    },
+    "carter": {
+      "title": "William H. Carter Tells His Brother the Sad News",
+      "publisher": "Letter of October 15, 1871; transcribed by CHM / Northwestern",
+      "type": "contemporary personal letter",
+      "url": "https://greatchicagofire.org/conflagration-library/william-h-carter-tells-his-brother-sad-news/"
+    },
+    "survivors": {
+      "title": "The Great Chicago Fire",
+      "publisher": "Margaret Schilt, University of Chicago Library, October 8, 2013",
+      "type": "institutional history",
+      "url": "https://www.lib.uchicago.edu/about/news/the-great-chicago-fire/"
+    },
+    "tower": {
+      "title": "Chicago Water Tower, Historic American Buildings Survey",
+      "publisher": "Library of Congress",
+      "type": "architectural survey record",
+      "url": "https://www.loc.gov/item/il0097/"
+    },
+    "legend": {
+      "title": "The O’Leary Legend",
+      "publisher": "CHM / Northwestern",
+      "type": "historical synthesis",
+      "url": "https://greatchicagofire.org/oleary-legend/"
+    }
+  },
+  "events": [
+    {
+      "id": "before",
+      "label": "Before the alarm",
+      "date": "Sunday, October 8",
+      "time": "Evening",
+      "minute": 0,
+      "title": "A city on the edge",
+      "text": "The previous night’s large fire had already strained the firefighters. Strong southwest winds would drive the next fire toward the city centre.",
+      "sources": [
+        "conflagration"
+      ],
+      "certainty": "Context; no precise checkpoint time",
+      "focus": "court"
+    },
+    {
+      "id": "origin",
+      "label": "The first flames",
+      "date": "Sunday, October 8",
+      "time": "About 8:30–9 p.m.",
+      "minute": 45,
+      "title": "Fire near DeKoven Street",
+      "text": "The fire begins in or near the O’Leary barn. Its cause remains unknown. Published accounts disagree about the starting time.",
+      "sources": [
+        "conflagration",
+        "progress",
+        "tribune"
+      ],
+      "certainty": "Approximate; conflicting clocks",
+      "focus": "barn",
+      "affected": [
+        "barn"
+      ]
+    },
+    {
+      "id": "brands",
+      "label": "Embers travel",
+      "date": "Sunday, October 8",
+      "time": "About 10 p.m.",
+      "minute": 120,
+      "title": "A second fire takes hold",
+      "text": "Windborne embers start separate fires ahead of the main front. The Tribune describes flames leaping over engines and forcing crews to retreat; Conzen places a second ignition at Bateham’s Mills around 10 p.m.",
+      "sources": [
+        "tribune",
+        "progress"
+      ],
+      "certainty": "Scholarly reconstruction; mill location not plotted",
+      "focus": "barn",
+      "affected": [
+        "barn"
+      ]
+    },
+    {
+      "id": "south",
+      "label": "Across the South Branch",
+      "date": "October 8–9",
+      "time": "Late Sunday night · timing disputed",
+      "minute": 240,
+      "title": "The river cannot contain it",
+      "text": "Separate fires develop in the South Division. The Tribune describes burning fragments landing ahead of the main flames, including around the Armory.",
+      "sources": [
+        "tribune"
+      ],
+      "certainty": "Sequence supported; crossing time unresolved",
+      "focus": "court",
+      "affected": [
+        "barn"
+      ]
+    },
+    {
+      "id": "court",
+      "label": "The Court House",
+      "date": "Monday, October 9",
+      "time": "About 1:30 a.m.",
+      "minute": 330,
+      "title": "The alarm tower is reached",
+      "text": "Fire reaches the Court House tower. Prisoners are released before the bell falls through the collapsing building.",
+      "sources": [
+        "conflagration"
+      ],
+      "certainty": "Approximate time in museum synthesis",
+      "focus": "court",
+      "affected": [
+        "barn",
+        "court"
+      ]
+    },
+    {
+      "id": "north",
+      "label": "Across the Main Branch",
+      "date": "Monday, October 9",
+      "time": "By about 2:30 a.m.",
+      "minute": 390,
+      "title": "Fire reaches the North Division",
+      "text": "Conzen’s reconstruction places a new fire north of the river by 2:30 a.m. Several fronts are now spreading through the city.",
+      "sources": [
+        "progress"
+      ],
+      "certainty": "Scholarly reconstruction",
+      "focus": "society",
+      "affected": [
+        "barn",
+        "court"
+      ]
+    },
+    {
+      "id": "pumps",
+      "label": "The waterworks",
+      "date": "Monday, October 9",
+      "time": "About 3–3:30 a.m.",
+      "minute": 435,
+      "title": "The pumping works fail",
+      "text": "Fire disables the pumping works. Cregier’s 1872 report places the wrecking around 3 a.m.; the museum dates the roof collapse by 3:30.",
+      "sources": [
+        "conflagration"
+      ],
+      "landmarkSource": "pump",
+      "certainty": "Time range; descriptions refer to different stages of damage",
+      "focus": "pump",
+      "affected": [
+        "barn",
+        "court",
+        "pump"
+      ]
+    },
+    {
+      "id": "noon",
+      "label": "Northward",
+      "date": "Monday, October 9",
+      "time": "By noon",
+      "minute": 960,
+      "title": "Beyond the central city",
+      "text": "The museum’s account places the fire at North Avenue by noon, continuing toward Fullerton. These northern areas lie beyond this preview’s map crop.",
+      "sources": [
+        "conflagration"
+      ],
+      "certainty": "Broad geographic checkpoint",
+      "focus": "tower",
+      "affected": [
+        "barn",
+        "court",
+        "pump"
+      ]
+    },
+    {
+      "id": "end",
+      "label": "After the fire",
+      "date": "Tuesday, October 10",
+      "time": "Early morning",
+      "minute": 1920,
+      "title": "Rain over the ruins",
+      "text": "Rain accompanies the fire’s final decline. This endpoint shows documented outcomes, rather than an exact time when every building stopped burning.",
+      "sources": [
+        "conflagration",
+        "progress"
+      ],
+      "certainty": "Approximate end of the major conflagration",
+      "focus": "court",
+      "affected": [
+        "barn",
+        "court",
+        "pump"
+      ]
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "court",
+      "name": "Court House & City Hall",
+      "short": "Court House",
+      "category": "Civic life",
+      "location": "Randolph, Clark, Washington & LaSalle streets",
+      "point": [
+        671,
+        870
+      ],
+      "fate": "Destroyed",
+      "text": "City and county government shared this building, with a jail below and a fire lookout above. Its bell sounded the alarm before falling through the burning tower.",
+      "source": "https://greatchicagofire.org/landmarks/court-house/",
+      "timeNote": "Fire at the tower around 1:30 a.m.; exact collapse time is not assigned.",
+      "image": "court-house-1871.jpg",
+      "imageCaption": "Lovejoy & Foster, 1871 · CHM, ICHi-064281",
+      "preview": true
+    },
+    {
+      "id": "barn",
+      "name": "O’Leary barn & cottage",
+      "short": "O’Leary property",
+      "category": "Home & livelihood",
+      "location": "DeKoven Street, between Jefferson & Clinton",
+      "point": [
+        342,
+        1472
+      ],
+      "fate": "Barn destroyed; cottage survived",
+      "text": "Catherine O’Leary’s dairy animals were kept in the barn behind the family’s rented-out double cottage. The house survived; the barn burned. The familiar cow-and-lantern story is unproven.",
+      "source": "https://greatchicagofire.org/landmarks/oleary-home/",
+      "timeNote": "Origin approximately 8:30–9 p.m.; the cause is unknown.",
+      "preview": true
+    },
+    {
+      "id": "tower",
+      "name": "Chicago Water Tower",
+      "short": "Water Tower",
+      "category": "Water supply",
+      "location": "Pine Street at Chicago Avenue, west side",
+      "point": [
+        894,
+        304
+      ],
+      "fate": "Survived",
+      "text": "The limestone tower enclosed the water system’s standpipe. It survived the fire, even as the pumping works across Pine Street were gutted.",
+      "source": "https://greatchicagofire.org/landmarks/water-tower/",
+      "extraSources": [
+        "tower",
+        "survivors"
+      ],
+      "timeNote": "Survival is documented; no exact exposure time is assigned.",
+      "preview": true
+    },
+    {
+      "id": "pump",
+      "name": "Chicago Avenue Pumping Station",
+      "short": "Pumping Station",
+      "category": "Water supply",
+      "location": "Pine Street at Chicago Avenue, east side",
+      "point": [
+        953,
+        304
+      ],
+      "fate": "Gutted; outer walls survived",
+      "text": "The pumping machinery and roof were lost, interrupting the city’s water supply. The surviving masonry shell should not be mistaken for an undamaged, functioning waterworks.",
+      "source": "https://greatchicagofire.org/landmarks/water-tower/",
+      "extraSources": [
+        "survivors"
+      ],
+      "timeNote": "About 3–3:30 a.m.; Cregier’s report and the museum describe different damage milestones.",
+      "preview": true
+    },
+    {
+      "id": "opera",
+      "name": "Crosby’s Opera House",
+      "short": "Crosby’s Opera",
+      "category": "Arts & entertainment",
+      "location": "Washington Street, north side, between State & Dearborn",
+      "point": [
+        767,
+        878
+      ],
+      "fate": "Destroyed",
+      "text": "A newly renovated opera house was due to reopen on October 9 with Theodore Thomas’s orchestra. The fire destroyed it before the performance could take place.",
+      "source": "https://greatchicagofire.org/landmarks/crosbys-opera-house/",
+      "timeNote": "Destroyed during the fire; a precise ignition time has not been established.",
+      "preview": true
+    },
+    {
+      "id": "lind",
+      "name": "Lind Block",
+      "short": "Lind Block",
+      "category": "Trade & commerce",
+      "location": "Northwest corner of Randolph & Market",
+      "point": [
+        486,
+        814
+      ],
+      "fate": "Survived",
+      "text": "This five-storey commercial building, occupied by a wholesale grocer, survived within the devastated South Division business district. Its relatively isolated riverside position helped.",
+      "source": "https://greatchicagofire.org/landmarks/lind-block/",
+      "timeNote": "Survival is documented; the surrounding district’s timing does not determine this building’s state.",
+      "preview": true
+    },
+    {
+      "id": "chamber",
+      "name": "Chamber of Commerce",
+      "short": "Chamber of Commerce",
+      "category": "Trade & commerce",
+      "location": "Southeast corner of LaSalle & Washington",
+      "point": [
+        659,
+        914
+      ],
+      "fate": "Destroyed",
+      "text": "The Board of Trade conducted its commodities exchange in this building, dedicated in 1865. Contemporary accounts describe its roof burning independently of nearby fires.",
+      "source": "https://greatchicagofire.org/landmarks/chamber-of-commerce/",
+      "timeNote": "Exact ignition time unresolved."
+    },
+    {
+      "id": "sherman",
+      "name": "Sherman House",
+      "short": "Sherman House",
+      "category": "Hotels",
+      "location": "Northwest corner of Clark & Randolph",
+      "point": [
+        677,
+        818
+      ],
+      "fate": "Destroyed",
+      "text": "A six-storey hotel faced Court House Square. Accounts describe crowded streets around it and a rescue of an ill guest from the burning building.",
+      "source": "https://greatchicagofire.org/landmarks/sherman-house/",
+      "timeNote": "Destroyed overnight; exact ignition time unresolved."
+    },
+    {
+      "id": "tremont",
+      "name": "Tremont House",
+      "short": "Tremont House",
+      "category": "Hotels",
+      "location": "Southeast corner of Lake & Dearborn",
+      "point": [
+        754,
+        805
+      ],
+      "fate": "Destroyed",
+      "text": "This was the third Tremont House, a large brick hotel designed by John M. Van Osdel. Like earlier versions lost in other fires, it was destroyed.",
+      "source": "https://greatchicagofire.org/landmarks/tremont-house/",
+      "timeNote": "Exact ignition time unresolved."
+    },
+    {
+      "id": "palmer",
+      "name": "Palmer House",
+      "short": "Palmer House",
+      "category": "Hotels",
+      "location": "Southeast corner of State & Monroe",
+      "point": [
+        820,
+        1035
+      ],
+      "fate": "Destroyed",
+      "text": "Potter Palmer’s grand hotel at State and Monroe was lost in the fire. The museum distinguishes it from an earlier Palmer House at State and Quincy.",
+      "source": "https://greatchicagofire.org/landmarks/palmer-house/",
+      "timeNote": "Opening-date claims conflict with popular accounts; omit an age-in-days claim until resolved."
+    },
+    {
+      "id": "field",
+      "name": "Field & Leiter store",
+      "short": "Field & Leiter",
+      "category": "Shopping",
+      "location": "Northeast corner of State & Washington",
+      "point": [
+        820,
+        875
+      ],
+      "fate": "Destroyed",
+      "text": "The six-storey dry-goods store helped turn State Street into a major retail destination. Some merchandise was removed before the building was lost.",
+      "source": "https://greatchicagofire.org/landmarks/field-leiter/",
+      "timeNote": "Exact ignition time unresolved."
+    },
+    {
+      "id": "society",
+      "name": "Chicago Historical Society",
+      "short": "Historical Society",
+      "category": "Collections & memory",
+      "location": "Northwest corner of Dearborn & Ontario",
+      "point": [
+        704,
+        441
+      ],
+      "fate": "Destroyed",
+      "text": "The Society’s building opened in 1868 with aspirations of fireproof construction. The fire consumed the building and almost all of its collections.",
+      "source": "https://greatchicagofire.org/landmarks/original-chicago-historical-society/",
+      "timeNote": "Exact ignition time unresolved."
+    },
+    {
+      "id": "tunnel",
+      "name": "LaSalle Street Tunnel",
+      "short": "LaSalle Tunnel",
+      "category": "Escape routes",
+      "location": "LaSalle Street, between Randolph & Kinzie",
+      "point": [
+        638,
+        752
+      ],
+      "fate": "Served as an escape route",
+      "text": "Opened on July 4, 1871, the tunnel carried pedestrians and horse-drawn traffic beneath the river. It offered an escape route when the South Division burned.",
+      "source": "https://greatchicagofire.org/landmarks/lasalle-street-tunnel/",
+      "timeNote": "A route, not a building. No precisely timed closure or casualty claim is made."
+    },
+    {
+      "id": "ogden",
+      "name": "Mahlon Ogden mansion",
+      "short": "Ogden mansion",
+      "category": "Homes",
+      "location": "North side of Walton, between Dearborn & Clark",
+      "point": [
+        668,
+        194
+      ],
+      "fate": "Survived",
+      "text": "The mansion survived while neighbouring churches burned. The museum credits both luck and soaked carpets applied to the exterior against flying embers.",
+      "source": "https://greatchicagofire.org/landmarks/mahlon-ogden-mansion/",
+      "timeNote": "Survival is documented; the placement is approximate on the older street map."
+    }
+  ]
+}
